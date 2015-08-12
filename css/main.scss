@@ -1,12 +1,16 @@
 ---
 ---
+
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,700);
+
 body {
   margin: 0;
-  font-family: Lato, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   line-height: 160%;
   text-align: center;
-  color: #233;
+  color: #231C22;
+  background: rgb(237, 237, 237);
 }
 h1 {
   font-size: 24px;
@@ -28,6 +32,20 @@ h2 {
 p {
   text-align: left;
 }
+a:link,
+a:visited {
+  color: #231c22;
+  text-decoration: none;
+}
+h1 a,
+p a,
+footer a {
+  font-weight: 700;
+  border-bottom: 2px solid #ff0;
+}
+a:hover {
+  background: #ff0;
+}
 section {
   padding-top: 22px;
   padding-bottom: 22px;
@@ -37,9 +55,6 @@ header p,
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
-a {
-  color: #08c;
 }
 img {
   max-width: 100%;
