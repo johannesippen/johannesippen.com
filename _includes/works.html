@@ -1,0 +1,30 @@
+<section class="work">
+{% for page in site.pages %}
+{% if page.layout == 'casestudy' %}
+<div class="work-item">
+	{% if page.permalink %}
+	<a href="{{ page.permalink }}#content">
+		{% if page.image %}
+		<img src="{{page.image}}">
+		{% endif %}
+		<span class="work-item-info">
+			<strong>{{ page.title }}</strong>
+			<span class="btn">Read Case Study</span>
+		</span>
+  </a>
+	{% else %}
+	<a href="/#updates" class="coming-soon">
+		{% if page.image %}
+		<img src="{{page.image}}">
+		{% endif %}
+		<span class="work-item-info">
+			<strong>{{ page.title }}</strong>
+			<span class="btn soon">Coming Soon!</span>
+		</span>
+	</a>
+  {% endif %}
+</div>
+{% endif %}
+{% endfor %}
+<hr>
+</section>

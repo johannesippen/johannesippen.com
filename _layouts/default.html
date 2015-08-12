@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+<style type="text/css" media="screen">
+  header, .page-content {
+//    display: none;
+  }
+</style>
+
+    <header>
+      <div class="inner">
+        <h1>Johannes Ippen</h1>
+        <p>Designer and Author from Berlin, Lead of Creative Services at <a href="http://wooga.com">Wooga</a> and Founder at <a href="http://thanksalot.co">Thanksalot</a>.</p>
+      </div>
+    </header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    
+    {% include signup.html %}
+
+    {% include footer.html %}
+    
+  </body>
+
+</html>

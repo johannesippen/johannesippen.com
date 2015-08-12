@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <header>
+      <div class="inner">
+        <p>From the Portfolio of</p>
+        <h1><a href="/">Johannes Ippen</a></h1>
+      </div>
+    </header>
+
+    <div id="content">
+       {{ content }}
+    </div>
+
+    <h2>Other Projects:</h2>
+
+    {% include works.html %}
+    
+    {% include signup.html %}
+    
+    {% include footer.html %}
+    
+  </body>
+</html>
