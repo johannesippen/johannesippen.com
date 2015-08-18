@@ -1,11 +1,12 @@
 ---
-title: Diamond Dash
+title: Diamond Dash Logo Design
 layout: casestudy
 permalink: /diamonddash/
 image: /img/diamonddash.jpg
+excerpt: How I created the logo for a game that is played by over 200 million people worldwide.
 ---
 <section class="block">
-  <img src="http://placehold.it/900x400">
+  <img src="/img/diamonddash/diamonddash-header.jpg">
 </section>
 
 <section>
@@ -46,14 +47,14 @@ image: /img/diamonddash.jpg
     <img src="/img/diamonddash/logo-background.jpg">
   </div>
   <div class="inner">
-    <p>After several iterations it became clear that the logo should remain white with a bold black outline to provide the best possible contrast and readability.</p>
+    <p>As usual for game logos, there are several other variants and iterations out there today, created by the amazing artists on the Diamond Dash team and the designers on the Wooga Graphics team. The key learnings however have remained and have been taken over to every other game logo we have built so far: strong contrasts, playful yet readable typography – soemthing that works on noisey backgrounds.</p>
   </div>
 </section>
 
 <section class="facts">
   <div class="inner grid">
     <div class="col">
-      <h3>Facts & Links</h3>
+      <h3>Facts &amp; Links</h3>
     </div>
     <div class="col">
       <ul>
