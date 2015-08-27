@@ -7,7 +7,7 @@ excerpt: Midddle is an app concept that makes meeting your best friends super ea
 ---
 <section id="content" class="intro">
 	<div class="inner">
-		<img src="/img/midddle/icon.jpg">
+		<img src="/img/midddle/icon.png" style="max-width: 200px">
 	  <h1><small>Case Study</small>Midddle App</h1>
 		<p>From prototype to finished app concept. A project by Nico Engelhardt, Paul Schmidt and Johannes Ippen</p>
 	</div>
@@ -15,8 +15,8 @@ excerpt: Midddle is an app concept that makes meeting your best friends super ea
 <section>
   <div class="inner">
     <h2>Problem</h2>
-    <p>We started the development of Midddle with a very simple problem in mind: How could we make it easier for us to make spontaneous appointments with our best friends?. </p>
-    <p>Text messaging and chat apps are pretty cool, but lead to very long conversations that end up in discussions with the result that you're actually staying in. Social networks are nice, but how many of your 500 Facebook friends would you actually take out for a beer? So we were looking for an easier solution. </p>
+    <p>We started the development of Midddle with a very simple problem in mind: How could making spontaneous appointments with our best friends become easier? </p>
+    <p>Text messaging and chat apps are pretty cool, but lead to very long conversations that end up in discussions with the result that you&rsquo;ll probably stay in. Social networks are nice, but how many of your 500 Facebook friends would you actually take out for a beer? So we were looking for an easier solution. </p>
 </div>
 </section>
 <section>
@@ -24,7 +24,7 @@ excerpt: Midddle is an app concept that makes meeting your best friends super ea
   <img src="/img/midddle/prototypes.jpg">
   <div class="inner">
     <p>When going out with your friends, there are a couple of factors that you need to sort out, like <strong>where</strong>, <strong>with whom</strong>, <strong>when</strong> and <strong>what</strong> are you up for.</p>
-    <p>Midddle is an iPhone app that solves these questions. After several prototypes and user tests, we focussed on a minimal concept in which users could set a status and make appointments with friends based on their geolocation.</p>
+    <p>Midddle is an iPhone app that aims to solve these questions. After several prototypes and user tests, we focussed on a minimal concept in which users could set a status and make appointments with friends based on their geolocation.</p>
   </div>
 </section>
 <section>
@@ -41,7 +41,7 @@ excerpt: Midddle is an app concept that makes meeting your best friends super ea
     </div>
     <div class="col">
       <img src="/img/midddle/location.png">
-      <p>Midddle will suggest the ideal venue based on your geodata.</p>
+      <p>Midddle will suggest the ideal venue based on your GPS data.</p>
     </div>
     <div class="col">
       <img src="/img/midddle/time.png">
@@ -63,7 +63,7 @@ excerpt: Midddle is an app concept that makes meeting your best friends super ea
       <img src="/img/midddle/screenshot1.png">
     </div>
     <div class="col">
-      <p>The simple and minimalist UI supports the users in their goal-focussed flow, while there's still space to extend functionalities. There's two particular innovations in the Midddle interface: The unique circle of friends gives you a nice overview of who's free and who's not while limiting the number of contacts by its nature.</p>
+      <p>The simple and minimalist UI supports the users in their goal-focussed flow, while there&rsquo;s still space to extend functionalities. There&rsquo;s two particular innovations in the Midddle interface: The unique circle of friends gives you a nice overview of who's free and who&rsquo;s not while limiting the number of contacts by its nature.</p>
     </div>
   </div>
   <div class="inner grid">
@@ -79,7 +79,7 @@ excerpt: Midddle is an app concept that makes meeting your best friends super ea
   <h2>Branding &amp; Marketing</h2>
 <iframe src="https://player.vimeo.com/video/106391248?title=0&byline=0&portrait=0" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <div class="inner">
-    <p>The Midddle icon is simple smiley icon - reflecting the positive experience the app should give you, combined with its minimalist appearance.</p>
+    <p>The Midddle icon is simple blue smiley face - reflecting the positive experience the app should give you, combined with its minimalist appearance.</p>
     <img src="/img/midddle/midddle-landingpage.jpg">
     <p>In November 2014, we decided to stop development on Midddle. </p>
   </div>
