@@ -76,6 +76,6 @@ permalink: /talks/
   </div>
 	<div class="inner hireme">
 		<h2>Get me as a Speaker!</h2>
-		Want me to speak at your conference or event? Drop me a mail: <a href="mailto:ich@johannesippen.com">ich@johannesippen.com</a>
+		Want me to speak at your conference or event? Write me: <a href="mailto:ich@johannesippen.com">ich@johannesippen.com</a>
 	</div>
 </section>
