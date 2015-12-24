@@ -1,5 +1,5 @@
 ---
-title: About Johannes
+title: About Johannes Ippen
 permalink: /about/
 layout: default
 ---
@@ -9,6 +9,9 @@ layout: default
 		text-align: left;
 		margin-left: 15px;
 		line-height: 140%;
+	}
+	.inner li {
+		text-align: left;
 	}
 </style>
 <section class="about">

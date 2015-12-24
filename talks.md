@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Talks & Keynotes by Johannes Ippen
 layout: default
 permalink: /talks/
 ---
@@ -10,25 +10,38 @@ permalink: /talks/
   .talk {
     background: #fff;
     text-align: left;
-    padding: 44px 44px 44px 300px;
+		padding: 44px 15px;
     margin-bottom: 2px;
   }
   .talk h2 {
-    margin-top: 0;
+    margin-top: 15px;
   }
   .talk p {
     margin: 0 0 22px 0;
   }
-  .talk img {
-    position: absolute;
-    width: 280px;
-    margin-left: -300px;
-  }
 	.conference {
 		text-align: left;
 		background: #fff;
-		padding: 22px 44px 22px 120px;
+		padding: 22px 15px;
 		margin-bottom: 2px;
+	}
+	@media (min-width: 640px) {
+		.talk {
+	    padding-left: 300px;
+			padding-right: 44px;
+	  }
+	  .talk h2 {
+	    margin-top: 0;
+	  }
+	  .talk img {
+	    position: absolute;
+	    width: 280px;
+	    margin-left: -300px;
+	  }
+		.conference {
+			padding-left: 120px;
+			padding-right: 44px;
+		}
 	}
 	.conference + .talk {
 		margin-top: 20px;
@@ -75,7 +88,7 @@ permalink: /talks/
 		<div class="conference">Mobile Tech Con 2011</div>
   </div>
 	<div class="inner hireme">
-		<h2>Get me as a Speaker!</h2>
+		<h2>Hire me as a Speaker!</h2>
 		Want me to speak at your conference or event? Write me: <a href="mailto:ich@johannesippen.com">ich@johannesippen.com</a>
 	</div>
 </section>

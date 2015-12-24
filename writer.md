@@ -1,5 +1,5 @@
 ---
-title: Written
+title: Books & Articles by Johannes Ippen
 layout: default
 permalink: /publications/
 ---
@@ -10,7 +10,7 @@ permalink: /publications/
   .writing {
     background: #fff;
     text-align: left;
-    padding: 44px 44px 44px 120px;
+    padding: 44px 15px;
     margin-bottom: 22px;
   }
   .writing h2 {
@@ -20,16 +20,29 @@ permalink: /publications/
     margin: 0 0 22px 0;
   }
   .writing img {
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    margin-left: -220px;
+    width: 80px;
+    height: 80px;
+		margin: 0 auto;
   }
-.writing time {
-  text-transform: uppercase;
-  font-size: 12px;
-  letter-spacing: 4px;
-}
+	.writing time {
+		display: block;
+  	text-transform: uppercase;
+  	font-size: 12px;
+  	letter-spacing: 4px;
+	}
+	@media (min-width: 640px) {
+		.writing {
+	    padding-right: 44px;
+	 		padding-left: 120px;
+	  }
+	  .writing img {
+	    position: absolute;
+	    width: 200px;
+	    height: 200px;
+	    margin-left: -220px;
+	  }
+	  
+	}
 </style>
 <section class="writer">
 	<h1>Books &amp; Articles</h1>
