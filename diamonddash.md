@@ -1,5 +1,5 @@
 ---
-title: Diamond Dash Logo Design
+title: Diamond Dash Logo
 layout: casestudy
 permalink: /diamonddash/
 image: /img/diamonddash.jpg
