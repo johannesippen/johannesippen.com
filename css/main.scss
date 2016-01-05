@@ -1,8 +1,10 @@
 ---
 ---
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,700);
+
 body {
   margin: 0;
-  font-family: Lato, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   line-height: 160%;
   text-align: center;
@@ -112,6 +114,55 @@ hr {
   .four .col {
     width: 140px
   }
+}
+
+/* Navigation */
+
+nav {
+	margin-top: 50px;
+}
+nav ul {
+  margin: 20px 0 10px;
+  padding: 0;
+  list-style: none;
+	line-height: 40px;
+}
+nav li {
+  display: inline-block;
+}
+nav h1 {
+	font-weight: 400;
+	font-size: 24px;
+	margin: 0 30px;
+	padding: 0;
+}
+nav a {
+  display: block;
+  padding: 0 10px;
+  font-weight: 700;
+  font-size: 11px;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #222;
+}
+@media (max-width: 640px) {
+	nav {
+		margin-top: 0;
+	}
+	nav h1 {
+		width: 44px;
+		height: 44px;
+		border-radius: 44px;
+		background: #ccc url(https://avatars2.githubusercontent.com/u/1385383?v=1&s=88) no-repeat center;
+		background-size: contain;
+		text-indent: -1000px;
+		margin: 0;
+	}
+	nav a {
+	  padding: 0 5px;
+	  font-size: 10px;
+	}
 }
 
 /* Works Navigation Grid */
@@ -252,17 +303,6 @@ display: block;
   }
 }
 
-/* Talks */
-
-.talks a {
-  display: block;
-  padding-bottom: 20px;
-  font-size: 16px;
-  text-decoration: none;
-}
-.talks a strong {
-	display: block;
-}
 
 /* Coming Soon */
 
