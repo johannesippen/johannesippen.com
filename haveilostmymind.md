@@ -2,7 +2,6 @@
 title: Have I Lost My Mind
 layout: casestudy
 image: /img/haveilostmymind.jpg
-permalink: /haveilostmymind/
 ---
 <div><img src="http://placehold.it/1200x600"></div>
 
