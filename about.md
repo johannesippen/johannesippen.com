@@ -24,8 +24,8 @@ layout: default
 		  <li><a href="https://dribbble.com/johannesippen/">Dribbble</a></li>
 		  <li><a href="http://www.amazon.de/Apps-mit-HTML5-CSS3-JavaScript/dp/3836234858/">Amazon</li>
 		  <li><a href="https://www.linkedin.com/pub/johannes-ippen/41/b7/a40">Linkedin</li>
-		  <li><a href="https://dribbble.com/johannesippen/">Xing</li>
-		  <li><a href="https://www.xing.com/profile/Johannes_Ippen/">Twitter</li>
+		  <li><a href="https://www.xing.com/profile/Johannes_Ippen">Xing</li>
+		  <li><a href="http://twitter.com/johannesippen/">Twitter</li>
 		  <li><a href="https://about.me/johannesippen/">About.me</li>
 		  <li><a href="https://www.flickr.com/photos/johannesippen/">Flickr</li>
 		</ul>
