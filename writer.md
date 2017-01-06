@@ -47,12 +47,20 @@ permalink: /publications/
 <section class="writer">
 	<h1>Books &amp; Articles</h1>
   <div class="inner">
+  <div class="writing">
+    <img src="http://webfatale.com/images/cover.png" style="height: 150px!important">
+    <time>Erschienen 2016</time>
+			<h2>Web Fatale</h2>
+    <p>Wie du Webseiten gestaltest, denen niemand widerstehen kann. Lerne, wie Du die Usability Deiner Website perfektionierst und den Website-Besuch zu einem rundum gelungenen Erlebnis gestaltest. Platz 1 in der Amazon-Bestsellerliste &lsquo;Usability&rsquo;.</p>
+    <a href="http://www.amazon.de/Web-Fatale-gestaltest-widerstehen-Interaktion/dp/3836238985/" class="btn">Jetzt bestellen</a>
+  </div>
+   
     <div class="writing">
       <img src="http://ecx.images-amazon.com/images/I/519Hwh5CxBL._AA160_.jpg">
       <time>Hardcover Book</time>
 			<h2>Apps mit HTML5, CSS3 und JavaScript</h2>
       <p>Entdecken Sie die Möglichkeiten von HTML5 und CSS3 für die Entwicklung von modernen und plattformübergreifenden Apps. Dritte Auflage, Amazon Bestseller!</p>
-      <a href="http://www.amazon.de/Apps-mit-HTML5-CSS3-JavaScript/dp/3836234858/ref=sr_1_1?s=books&ie=UTF8&qid=1439902638&sr=1-1" class="btn">Order now</a>
+      <a href="http://www.amazon.de/Apps-mit-HTML5-CSS3-JavaScript/dp/3836234858/ref=sr_1_1?s=books&ie=UTF8&qid=1439902638&sr=1-1" class="btn">Jetzt bestellen</a>
     </div>
     
     <div class="writing">

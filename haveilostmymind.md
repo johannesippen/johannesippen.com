@@ -2,7 +2,6 @@
 title: Have I Lost My Mind
 layout: casestudy
 image: /img/haveilostmymind.jpg
-permalink: /haveilostmymind/
 excerpt: Album Cover and Landing Page for the Singer-Songwriter Duo
 ---
 <div><img src="/img/haveilostmymind/header.png"></div>
