@@ -1,0 +1,46 @@
+---
+title: Blog
+permalink: /blog/
+layout: default
+---
+<section class="featured">
+  <h1>#Writing</h1>
+  <div class="blog-item article-feature">
+    <a href="{{ site.posts[0].url }}">
+      <img src="{% if site.posts[0].image %}{{ site.posts[0].image }}{% else %}http://placehold.it/200x112/{% endif %}">
+      <span class="blog-item-info">
+        <strong class="blog-item-date">Latest Post</strong>
+        <strong>{{ site.posts[0].title }}</strong>
+        <span>{{ site.posts[0].excerpt }}</span>
+        <span class="btn">Read Now &rarr;</span>
+      </span>
+    </a>
+  </div>
+  <div class="blog-item side-feature">
+    <a href="http://www.webfatale.com">
+      <img src="http://placehold.it/200x112/">
+      <span class="blog-item-info">
+        <strong class="blog-item-date">Latest Book</strong>
+        <strong>Web Fatale</strong>
+        <span>How to create Websites that you can’t resist? My latest book explores how behavioural psychology help successful websites to become seductive.</span>
+        {% include social-amazon.svg %}
+      </span>
+    </a>
+  </div>
+  <hr>
+</section>
+<section class="blog">
+{% for post in site.posts %}
+<div class="blog-item">
+  <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
+    <img src="{% if post.image %}{{ post.image }}{% else %}http://placehold.it/200x112/{% endif %}">
+    <span class="blog-item-info">
+      <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>
+      <strong>{{ post.title }}</strong>
+      <span>{{ post.excerpt }}</span>
+    </span>
+  </a>
+</div>
+{% endfor %}
+<hr>
+</section>
