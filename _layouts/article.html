@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <style>
+      .blog-article {
+        max-width: 30em;
+        margin: 0 auto;
+      }
+      .blog-article img {
+        width: 120%;
+      }
+    </style>
+
+    {% include header.html %}
+
+    <div class="page-content blog-article">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+    
+  </body>
+
+</html>
