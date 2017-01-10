@@ -28,7 +28,7 @@ If you want, you’ll find a ton of [weird and shitty analogies](http://shittyui
 
 There’s all kinds of experiences, spontaneous and planned experiences, traumatic and enlightening ones.
 
-# Youtube
+{% youtube KpGfnvHW0Tg %}
 
 WARNING! Watch at your own risk, might cause a traumatic experience.
 
