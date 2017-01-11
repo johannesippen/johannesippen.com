@@ -1,6 +1,6 @@
 ---
-title: Speaking at the Creative Mornings Berlin
-excerpt: In November 2016, I had the honor to speak at Creative Mornings Berlin.
+title: Speaking at CreativeMornings Berlin
+excerpt: In November 2016, I had the honor to give a talk at CreativeMornings Berlin – here’s my summary.
 layout: article
 image: /img/blog/30949473052_66772e58b6_k.jpg
 ---
@@ -8,7 +8,7 @@ image: /img/blog/30949473052_66772e58b6_k.jpg
 
 ![](/img/blog/30949473052_66772e58b6_k.jpg)
 
-I usually never do posts about my talks, but this one was special, so I decided to do it anyway this time. 
+I usually never write posts about my talks, but this one was special, so I decided to make an exception this time. 
 
 [CreativeMornings](https://creativemornings.com/about) is a series of talks, started in 2008 by Tina Roth Eisenberg in New York. Since then, it has spread out to over 161 cities worldwide, including my hometown Berlin.
 
@@ -20,13 +20,13 @@ My talk "Web Fatale" was based on my book with the same title, which has been pu
 
 {% youtube 8zQMfzs936s %}
 
-What amazes me the most about CreativeMornings is the awesome crowd, both on the organizer side as well in the audience. These guys get up super early on a Friday morning to hear some design talks - how cool is that!
+What makes CreativeMornings different from other events is the people – both on the organiser side as well as in the audience. It does not feel like speaking to an anonymous conference crowd, but more like a big breakfast round of like-minded creatives. Not few of them are regulars, who attend every CreativeMornings session, which gives it a bit of a family vibe.
 
-Especially cool are the pictures taken by the talented Norman Posselt on the morning of the event - check out more on [the CreativeMornings BER Flickr](https://www.flickr.com/photos/berlin_creativemornings/sets/72157675215607771). 
+This is mostly thanks to the really good organisation, headed by Jürgen and Franziska, who are also responsible for the [TYPO conference](http://www.typotalks.com/). Especially cool are the pictures taken by the talented Norman Posselt on the morning of the event - check out more on [the CreativeMornings BER Flickr](https://www.flickr.com/photos/berlin_creativemornings/sets/72157675215607771). 
 
 ![&copy; Norman Posselt](/img/blog/30949475802_9a120d504f_k.jpg)
 
-The best thing for me is the reactions of people that I get in person but also via Email, Facebook and Twitter. [Somebody](https://twitter.com/RonnyViete/status/816656032634171396) even made a GIF of me on stage!
+The best thing for me is the reactions of people that I get in person but also via Email, Facebook and Twitter. [Somebody](https://twitter.com/RonnyViete/status/816656032634171396) even made a GIF of the confetti canons we shot in the audience!
 
 {% twitter 
 https://twitter.com/i/moments/819190584904654848 %}
