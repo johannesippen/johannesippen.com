@@ -18,7 +18,7 @@ Having attended CreativeMornings a dozen times and even hosted it at the Wooga o
 
 My talk "Web Fatale" was based on my book with the same title, which has been published earlier in 2016 in German language. This talk was a great opportunity to transform the content and the message into English and make it accessible for a bigger audience. But see for yourself:
 
-{% youtube 8zQMfzs936s %}
+{% youtube voXUr_TiZkg %}
 
 What makes CreativeMornings different from other events is the people – both on the organiser side as well as in the audience. It does not feel like speaking to an anonymous conference crowd, but more like a big breakfast round of like-minded creatives. Not few of them are regulars, who attend every CreativeMornings session, which gives it a bit of a family vibe.
 
