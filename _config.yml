@@ -10,3 +10,4 @@ exclude: ["/_sources/"]
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:title/

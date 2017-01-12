@@ -7,7 +7,7 @@
 
     <style>
       .blog-article {
-        max-width: 30em;
+        max-width: 600px;
         margin: 5em auto;
       }
       .blog-article h1 {
@@ -18,12 +18,14 @@
       }
       .blog-article img,
       .blog-article .embed-youtube {
-        margin: 0 -3em;
-        width: 36em;
-        min-width: 36em;
+        margin: 0 -60px;
+        width: 720px;
+        min-width: 720px;
       }
       .blog-article p {
         font-family: Georgia, sans-serif;
+        padding-left: 15px;
+        padding-right: 5px;
       }
       .blog-article p a {
         color: #233;
@@ -35,6 +37,24 @@
         background: yellow;
         border-bottom: 1px solid yellow;
         cursor: pointer;
+      }
+      @media (max-width: 720px) {
+        .blog-article {
+          margin: 3em auto;
+        }
+        .blog-article h1 {
+          margin-bottom: 1em;
+        }
+        .blog-article img {
+          margin: 0 -10px 0 -5px;
+          width: 100%;
+          min-width: 100%;
+        }
+        .blog-article .embed-youtube {
+          width: 100%;
+          min-width: 100%;
+          margin: 0;
+        }
       }
     </style>
 
