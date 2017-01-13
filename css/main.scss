@@ -442,9 +442,13 @@ footer a:hover path {
 .blog-item.article-feature {
   float: left;
 }
-.blog-item.side-feature .blog-item-info {
+.blog-item.side-feature .blog-item-info,
+.blog-item.side-feature img {
   background: #D61D7D;
   color: #fff;
+}
+.blog-item.side-feature a:hover strong {
+  color: lightyellow;
 }
 .blog-item.side-feature svg {
   margin: 15px auto 30px;
@@ -476,7 +480,7 @@ footer a:hover path {
     font-size: 24px;
   }
   .blog-item a:hover img {
-    opacity: .5;
+    opacity: .9;
   }
   .blog-item a:hover .blog-item-info {
     display: block;
