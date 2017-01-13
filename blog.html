@@ -33,7 +33,7 @@ layout: default
 {% for post in site.posts %}
 <div class="blog-item">
   <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
-    <img src="{% if post.image %}{{ post.image }}{% else %}/img/dots.png{% endif %}">
+    <img src="{% if post.image %}http://edge.zimage.io/?format=png&mode=crop&width=440&height=224&url=http://johannesippen.com{{ post.image }}{% else %}/img/dots.png{% endif %}">
     <span class="blog-item-info">
       <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>
       <strong>{{ post.title }}</strong>

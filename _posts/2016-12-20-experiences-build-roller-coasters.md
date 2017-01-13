@@ -2,7 +2,7 @@
 title: Experiences! or How to Build Roller Coasters
 "excerpt": "There’s over a billion websites live today. And the question: how can we stand out?"
 layout: article
-image: https://cdn-images-1.medium.com/max/800/1*pU6bH1AQlBffjZWkQOuT-Q.png
+image: /img/blog/1-pU6bH1AQlBffjZWkQOuT-Q.png
 ---
 
 # Experiences! or: How to Build Roller Coasters
