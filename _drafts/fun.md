@@ -4,13 +4,13 @@ layout: article
 ---
 # Designing Fun
 
-"Make it fun!" — "can you gamify this?" — when it comes to UI/UX design, having an enjoyable interface seems to be more important than ever. A fun web or app experience is not only a gimmick, but a real product differentiator. But what makes interfaces fun?
+"Make it fun!" — when it comes to UI/UX design, having an enjoyable interface seems to be more important than ever. A fun web or app experience is not only a gimmick, but a real product differentiator. But what makes interfaces fun?
 
-Let's start with a common misconception: Fun is not funny. Fun has nothing to do with telling people jokes, having cool animations or quirky characters. Fun interfaces are no cartoon versions of an interface, they are not immersive worlds and by no means they are Microdoft Bob. 
+Let's start with a common misconception: Fun is not funny. Fun has nothing to do with telling people jokes, having cool animations or quirky characters. Fun interfaces are no cartoon versions of an interface, they are not immersive worlds and by no means they are Microsoft Bob. 
 
 ![](http://toastytech.com/guis/bobhome1p.png)
 
-Microsoft Bob was what came inbetween Windows 3.1 and Windows 95. It was an approach to make the computer interface less techy, tailored to less tech-savvy audiences, like beginners, kids or older users. As part of the mission, Microsoft heavily celebrated the desktop metaphoer, creating rooms complete with file cabinets, trashcans and a window you could look out. The user was guided by a Little dog called Rover. 
+Microsoft Bob was what came in between Windows 3.1 and Windows 95. It was an approach to make the computer interface less techy, tailored to less tech-savvy audiences, like beginners, kids or older users. As part of this mission, Microsoft heavily celebrated the “desk-top” metapher, creating rooms complete with file cabinets, trash cans and a window you could look out. The user was guided by a little dog called Rover. 
 
 Bob had just one issue: as cute and quirky as it was, users hated it. It was basically unusable, complicated and way to annoying to perform everyday tasks. And it certainly was no fun to use.
 
@@ -33,11 +33,17 @@ A great example for Macrofeedback is the Material Design Showcase: clear big int
 - microfeedback
 - Google Interface
 
+<video autoplay loop>
+  <source src="/img/blog/googlelogo.mp4">
+</video>
+
 # Curiosity & Surprise
 
 Fun is about curiosity. We like to get surprised, we like a bit of the unexpected. This can be tiny detail, like the randomized messages on Slack’s loading screen, an unexpected "Empty" state in a mail client or the little scissor on the top of Kickstarter’s footer section. If you've never seen this, go there now and click it. I'll wait for you here.
 
-![](http://placehold.it/720x200/kickstarter)
+<video autoplay loop>
+  <source src="/img/blog/kickstarter.mp4">
+</video>
 
 Expecting the unexpected is part of the human nature, discovering and unveiling things and interfaces a great pleasure. This is why we like baseball cards (or Panini football stickers if you grew up in Europe), Kinder surprise (if you grew up in Europe) or christmas calenders (again, Europe).
 
