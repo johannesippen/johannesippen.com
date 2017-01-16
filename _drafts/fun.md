@@ -2,47 +2,57 @@
 title: Fun
 layout: article
 ---
-# Lets talk about Fun
+# Designing Fun
 
-"Make it fun!" — "can you gamify this?" — when it comes to UI/UX design, having an enjoyable interface seems to be more important than ever. A fun interface is not only a gimmick, but a real pr kmoduct differenciator. But what makes interfaces fun?
+"Make it fun!" — "can you gamify this?" — when it comes to UI/UX design, having an enjoyable interface seems to be more important than ever. A fun web or app experience is not only a gimmick, but a real product differentiator. But what makes interfaces fun?
 
-Let's start with a common misconception: Fun is not funny. It has nothibg to do with telling jokes, cool animations or quirky characters. Fun interfaces are no cartoon versions of an interface, they are not immersive worlds and by no means they are Microdoft Bob. 
+Let's start with a common misconception: Fun is not funny. Fun has nothing to do with telling people jokes, having cool animations or quirky characters. Fun interfaces are no cartoon versions of an interface, they are not immersive worlds and by no means they are Microdoft Bob. 
 
 ![](http://toastytech.com/guis/bobhome1p.png)
 
-Microsoft Bob was a version of the Microsoft desktop tat heavily celebrated the desktop metaphor. In this version of windoes, intended for kids and the elderly, … complete with file cabinet, trashcan and a window you could look out. The user was guided by a Little dog called Rover. 
+Microsoft Bob was what came inbetween Windows 3.1 and Windows 95. It was an approach to make the computer interface less techy, tailored to less tech-savvy audiences, like beginners, kids or older users. As part of the mission, Microsoft heavily celebrated the desktop metaphoer, creating rooms complete with file cabinets, trashcans and a window you could look out. The user was guided by a Little dog called Rover. 
 
-Bob had just one issue: as cutr and quirkx as it was, users hated it. It was basically unusable, complicated and way to annoxing to perform everyday tasks. And it certainly was no fun to use. 
+Bob had just one issue: as cute and quirky as it was, users hated it. It was basically unusable, complicated and way to annoying to perform everyday tasks. And it certainly was no fun to use.
 
 So how does fun work?
 
-According to Raph Koster, author of "A theory of fun", fun is mostly the resukt of a learning experience. When we learn and amke progress, we experience a kind of joy that we associate with fun. 
+According to Raph Koster, author of “[A Theory of Fun]()”, fun is mostly the result of a learning experience. When we learn and make progress, we experience joy, which keeps us learning until we master a skill – a key ingredient of games. Games, so Koster, are basically “Edutainment”, teaching us life-skills in a safe environment. When we play, we learn. When we succeed in learning, we have fun.
 
-To me, the most important characteristics abotu fun are:
+When designing fun experiences, there is 3 ingredients, which I think are key:
 
 ## Interaction & Feedback
 
 Fun is about Feedback and Interactions. Interfaces that invite you to be touched and that react to this. Both in small and in big scale. Macrofeedback and Microfeedback. 
 
-![](http://i.makeagif.com/media/1-16-2017/8uCEBS.gif)
+<video autoplay loop>
+  <source src="/img/blog/interaction.mp4">
+</video>
 
 A great example for Macrofeedback is the Material Design Showcase: clear big interfave elements, the primary buttons and touchable elements clearly stand out. 
 
 - microfeedback
-
 - Google Interface
 
 # Curiosity & Surprise
 
-Kickdtarter
+Fun is about curiosity. We like to get surprised, we like a bit of the unexpected. This can be tiny detail, like the randomized messages on Slack’s loading screen, an unexpected "Empty" state in a mail client or the little scissor on the top of Kickstarter’s footer section. If you've never seen this, go there now and click it. I'll wait for you here.
+
+![](http://placehold.it/720x200/kickstarter)
+
+Expecting the unexpected is part of the human nature, discovering and unveiling things and interfaces a great pleasure. This is why we like baseball cards (or Panini football stickers if you grew up in Europe), Kinder surprise (if you grew up in Europe) or christmas calenders (again, Europe).
+
+Microsoft Bob tried to convey this through different rooms and illustrative interface elemnts instead of squarish icons on a white background as in all other graphic operating systems at the time. A rolodex for contacts. A letter-box for electronic mail. A checkbook for banking. With those on the nose metaphors, there was little room left for suprising the user – and those elements not quite as fun as they were presumed to be.
 
 # Personality
 
-![](http://authenticweather.com/static/images/background.jpg)
-
-Authentic Weather
+Fun products will speak to you like human beings. They have edges, moods, flaws, they have a personality. Personal products have empathy for the user. They feel with you. Having a mascot as the face of your product can be a way of doing that, but does not garantee your a personal product. Microsoft’s Rover sure is a really cute character, but if you look into his speech bubble, you will only find a computer. Pure instructions and hints, no indication of Rover being a dog, no relations to you, the user. Rover does not have a personality.
 
 ![](http://toastytech.com/guis/bobhint.png)
+
+It’s fucking raining now. Authentic Weather does not do much more than your built in weather app. It cannot tell you wind speed, surfing conditions or give you an alkergy report. It pretty much only tells you how the weather is right now. While it does so, it sounds like that grumpy uncle or a bit like me, looking out the window. It adds an emotional layer to the pure weather conditions, it adds personality.
+
+![](http://authenticweather.com/static/images/background.jpg)
+
 
 Microsoft Bob had none of those. Characters lacked personality, the interface metaphors where supermuch in your face, the feedback level was not well executed. They tried to make a fun product, but failed. Steve Ballmer said: "". The product was canceled.
 
