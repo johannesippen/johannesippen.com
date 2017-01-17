@@ -28,10 +28,11 @@ Fun is about Feedback and Interactions. Interfaces that invite you to be touched
   <source src="/img/blog/interaction.mp4">
 </video>
 
-A great example for Macrofeedback is the Material Design Showcase: clear big interfave elements, the primary buttons and touchable elements clearly stand out. 
+A great example for macrofeedback is the Material Design showcase: clear big interface elements, the primary buttons and touchable elements clearly stand out. Every action gives you an instant feedback, every tap a subtle animation. Big interface transitions tell you where each element comes from or goes to, upcoming views build up from the buttons that were clicked to call them. This explanatory feedback causes much less frustration when handled by a new user, but it's also great to wa´tch and experience – it’s fun.
 
-- microfeedback
-- Google Interface
+<video class="ta-video ta-video" data-alt="ie" preload="auto" poster="http://videos.thisalso.com/projects/google-identity/google-dots-transition/poster.jpg" data-offsettop="0.5" loop="" muted=""> <source src="http://videos.thisalso.com/projects/google-identity/google-dots-transition/video.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2"> <source src="http://videos.thisalso.com/projects/google-identity/google-dots-transition/video.webm" type="video/webm; codecs=vp8,vorbis"> </video>
+
+Sam brand, different example: Google is using it’s inteligent mark both as a branding sign as well as an action indicator & loading spinner. This little interface element, [designed by Thisalso](http://thisalso.com/projects/google-identity) reacts to the user’s action and input. Although this has almost no real estate on the screen, it’s an instant and very important feedback to the user. It says: I'm doing something, don’t worry. Just like the little Connectivity spinner in the top right corner of your iPhone or slim red loading bar on the top screen of Youtube. Microfeedback can help to avoid frustration, which is essential when designing fun: The absense of frustration.
 
 <video autoplay loop>
   <source src="/img/blog/googlelogo.mp4">
