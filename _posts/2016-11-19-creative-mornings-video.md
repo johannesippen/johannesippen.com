@@ -34,3 +34,7 @@ https://twitter.com/i/moments/819190584904654848 %}
 Thank you everyone who was part of the experience – it was a blast, looking forward to next time!
 
 ![](/img/blog/30949478352_0973d45f27_k.jpg)
+
+Update: I added the slides to [Slideshare](//www.slideshare.net/johannesippen/web-fatale-seductive-design-creative-mornings-edition) & embedded them below – enjoy!
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ad8Hhoo4ya7pi3" class="youtube" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="no" allowfullscreen> </iframe>
