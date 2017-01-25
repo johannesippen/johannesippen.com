@@ -38,6 +38,7 @@ layout: default
       <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>
       <strong>{{ post.title }}</strong>
       <span>{{ post.excerpt }}</span>
+      <span class="blog-item-info-mobile-cta">Read More &rarr;</span>
     </span>
   </a>
 </div>
@@ -98,6 +99,22 @@ layout: default
     .book-item {
       padding: 1em 0 2em;
       width: 50%!important;
+    }
+    .book-item strong {
+      margin-left: 15px;
+      margin-right: 15px;
+    }
+  }
+  @media (max-width: 450px) {
+    .book-wrapper {
+      margin: 0;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+    .book-item {
+      padding: 1em 0 2em;
+      width: 100%!important;
+      box-sizing: border-box;
     }
     .book-item strong {
       margin-left: 15px;

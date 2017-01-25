@@ -59,8 +59,6 @@ An experience can only live because of what’s coming right before and after it
 
 Jonathan Bree works as a designer LEGO in Denmark — yes, the same LEGO that we loved as kids (and still do) and cursed and hated as parents, when you stepped on one of the sharp-edged little pieces in the middle of the night. In his article on [5 Things I Learned](https://5thingsilearned.com/5-things-i-learnt-as-a-designer-at-lego-25705816376d#.ewbr34nbm) he describes a really cool design tool that utilises the experience phases and maps the user’s mood before, during and after the experience. This can really help to identify — no pun intended — pain points and make sure to deliver the best possible user experience.
 
-![](https://5thingsilearned.com/5-things-i-learnt-as-a-designer-at-lego-25705816376d?gi=e435efeda516#.h6h8dwuz5)
-
 Nicolas Duval from BlaBlaCar uses Lego to advocate on a different aspect of design: In his article «[Stop designing interfaces, Start designing experiences](https://medium.com/blablacar-design/stop-designing-interfaces-start-designing-experiences-d82def0b802c#.jrhazra1i)» he describes how establishing a predefined system of interface components helped them to think less about the looks of their interface and more about the actual flow, the actual user experience.
 
 ## But why are experiences so crucial to design?

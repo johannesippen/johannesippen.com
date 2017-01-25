@@ -422,7 +422,7 @@ footer a:hover path {
 .blog-item-info strong {
   display: block;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 18px;
 }
 .blog-item-info span {
   display: block;
@@ -433,7 +433,7 @@ footer a:hover path {
 .blog-item-info strong.blog-item-date {
   color: #aaa;
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 12px;
 }
 .blog-item a:hover strong {
   color: #08c;
@@ -455,9 +455,17 @@ footer a:hover path {
   width: 50px;
   fill: #fff;
 }
+.blog-item-info span.blog-item-info-mobile-cta {
+  color: #08c;
+  border-bottom: 1px solid;
+  display: inline-block;
+}
 @media (min-width: 500px) {
   .blog-item {
     width: 50%;
+  }
+  .blog-item-info span.blog-item-info-mobile-cta {
+    display: none;
   }
 }
 @media (max-width: 399px) {
@@ -466,7 +474,6 @@ footer a:hover path {
   }
   .blog-item-info strong {
     font-weight: normal;
-    font-size: 12px;
   }
   .blog-item img {
     opacity: .9;
@@ -478,6 +485,9 @@ footer a:hover path {
   }
   .blog-item-info strong {
     font-size: 24px;
+  }
+  .blog-item-info strong.blog-item-date {
+    font-size: 16px;
   }
   .blog-item a:hover img {
     opacity: .9;
