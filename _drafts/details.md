@@ -1,11 +1,10 @@
 ---
 title: Delightful Details
 layout: article
+excerpt: July 20, 1969. After xxx kilometers and 3 days in a narrow capsule, a tiny detail almost killed the first 2 men on the moon. What happened?
 ---
 
 # Delightful Details
-
-Xxx. After xxx kilometers and 3 days in a tiny capsule, a tiny detail almost killed the first 2 men on the moon. What happened?
 
 > “Houston, Tranquility Base here. The Eagle has landed.”
 
@@ -17,36 +16,47 @@ Too excited to sleep but yet exhausted, the two men decide to take a walk on the
 
 With an unthoughtful movement, the astronauts just signed their death sentence. A tiny detail, unrecognized by engineers, project managers and dashboard designers could turn the greatest achievement of the 20th century into a national tragedy. A tiny detail that is about to kill two men.
 
----
-
 > The devil is in the details.
 
 In digital product design, we often speak about MVPs. Minimum Viable Products. A version of a product that contains only the minimal feature set, unfinished, unpolished, undetailed. Yet the idea is clear: Get an idea of the finished product, take a glimpse into the future.
 
-MVPs are a great way to iterate on your product and to test the most basic feature set, but they are missing a big thing: Details.
+While MVPs are a great way to iterate on your product and to test the most basic feature set, but they are missing a great opportunity: Details. We tend to think of details as polish, as the icing on the cake. But we tend to forget that detail can completely change the way we see a product. Small details can have a great impact, they can delight users and turn a standard product into something special.
 
-- A details can make the difference (how)
+Speaking of switches: When the app Camera+ came out, they added some solid features to the original iPhone camera. Filters, exposure and so on. The biggest feature was a tiny detail: A hack allowed the software to turn the iPhone hardware volume switch into the trigger button. Photographers and iPhone users loved that feature, Camera+ moved to the Top 3 over night. 
 
--but details make difference
--unsuccessful withoutndetails
-- details can delight!
-- make a joyful experience
-- great examples:
+Out of a sudden, the iPhone camera didn't feel like a toy anymore, but like a real and usable camera. So much that Apple "borrowed" that feature for iOS5, although they had previously banner Camera+ from the App Store for their creative use of the home button.
+
+Today, using the volume switch as a trigger is universally accepted UI detail throughout most smartphones. A tiny switch, big impact. 
+
+There is more examples:
 
 ## Example One: Making more of the information
 
-- Date in Email
-- Phone number in email
-- no attachment (making more of information)
-- Google Mail without those details would just be email
+When you receive an email in Google Mail or Apple Mail with a phone number or a date, those will be highlighted to you. Apple underlines the detected date to makes it easy for you to add it to your calendar, Google Mail directly suggests you to make an appointment in Google Calendar.
 
-## Example Two: Make more of unused space
+Using the information that is already there and doing one extra step that makes the user’s life easier doesn't seem like a big thing, but can have a great impact when applied to a product that used on a daily basis. AI assistents are using this technique to give people better feedback, but it really starts with the simple things.
 
-- Medium Favicon (using an unused element)
+Like this: When you use the term "please find attached" in an email written in Google Mail, the webmailer will remind you to actually add an attachment before sending the mail. Clever, isn't it?
+
+## Example Two: See opportunities in uncommon places
+
+<video autoplay loop muted>
+  <source src="/img/blog/details-medium.mov">
+</video>
+
+When you switch to Editing Mode on the Medium platform, the Favicon will switch from a solid Medium Logo to a wireframe version of it. At first, this might seem like a little gimmick, but it can actually help powerusers to identify in which tab they just started to write a new article.
+
+Slack does something similar: In their browser version, they use the Favicon to display if there is an important message for you. Finding those seemingly decorative elements and giving them a new meaning is what makes those features great.
 
 ## Example Three: Delight me!
 
-- Spotify Lightsaber (adding a layer)
+<video autoplay loop muted>
+  <source src="/img/blog/details-spotify.mov">
+</video>
+
+When you start playing a song from the soundtrack of the 2015 Star Wars movie "The Force Awakens", Spotify will change the progress bar to a light saber – how awesome is that?
+
+If you like this feature or think it’s stupid will say a lot about your personality: While it seems like something completely unecessary and random at first place, it is the coolest thing to real Star Wars fans. Spotify acknowledges this and shows the users: “We share your passion!”
 
 Details are an important element of UX Design. If you get the details right, you can change the face of the product. A detail can make the difference between a version of an existing product or a complete new standard. Details, more than ever, deserve our full attention. And there’s no reason why details cannot be part of the MVP: Being aware of the potential impact one can have, they can be evaluated early on.
 
