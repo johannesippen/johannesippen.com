@@ -1,8 +1,8 @@
 ---
 title: Delightful Details
 layout: article
-excerpt: July 20, 1969. After xxx kilometers and 3 days in a narrow capsule, a tiny detail almost killed the first 2 men on the moon. What happened?
-image: /img/blog/details_aldrin.jpg_
+excerpt: A story about space travel, UX design and how a simple switch can kill you.
+image: /img/blog/details_aldrin.jpg
 ---
 
 <style>
@@ -17,31 +17,31 @@ image: /img/blog/details_aldrin.jpg_
 
 > “Houston, Tranquility Base here. The Eagle has landed.”
 
-On July 20, shortly past 8PM, the lunar module of Apollo 11 arrived safe on the surface of our moon.  Eight years of research, design, development and endless tests. Over 75 hours of flight later, Neil Armstrong and Buzz Aldrin are ready to take the first steps on the moon.
+On July 20, 1969, shortly past 8PM, the lunar module of Apollo 11 arrived safe on the surface of our moon. Eight years of research, design, development and endless tests. Over 75 hours of flight later, Neil Armstrong and Buzz Aldrin are ready to take the first steps on the moon.
 
 ![](/img/blog/details_aldrin-green.jpg)
 
-Too excited to sleep but yet exhausted, the two men decide to take a walk on the moon now, not later. They do as they rehearsed so many times: Get in their space suits, attach the live modules, put on the big helmets and depressurize the tiny capsule. That’s when it happens: While turning towards to exit vault, one of the men makes an unlucky move. Unheard in the vacuum of the airless pod, his heavy backpack breaks off a tiny switch on Eagle’s dashboard: The ascent engine circuit breaker.
+Too excited to sleep but yet exhausted, the two men decide to take a walk on the moon now, not later. They do as they rehearsed so many times: Get in their space suits, attach the oxygen modules, put on the big helmets and depressurize the tiny capsule. That’s when it happens: While turning towards to exit vault, one of the men makes an unlucky move. Unheard in the vacuum of the airless pod, his heavy backpack breaks off a tiny switch on Eagle’s dashboard: The ascent engine circuit breaker.
 
 
-> “Mission Control verified that the switch was open, meaning that the engine was currently unarmed. If we could not get the engine armed, we could be stranded on the Moon.” – [Buzz Aldrin](http://www.cnbc.com/id/42592372) 
+> “Mission Control verified that the switch was open, meaning that the engine was currently unarmed. If we could not get the engine armed, we could be stranded on the Moon.” – [Buzz Aldrin](http://www.cnbc.com/id/42592372)
 
-With an unthoughtful movement, the astronauts just signed their death sentence. A tiny detail, unrecognized by engineers, project managers and dashboard designers could turn the greatest achievement of the 20th century into a national tragedy. A tiny detail that is about to kill two men. 
+With an unthoughtful movement, the astronauts just ripped their ticket back to Earth. A tiny detail, unrecognized by engineers, project managers and dashboard designers could turn the greatest achievement of the 20th century into a national tragedy. A tiny detail that is about to kill two men.
 
 
 > “God is in the detail” – Ludwig Mies van der Rohe
 
 In digital product design, we often speak about MVPs. Minimum Viable Products. A version of a product that contains only the minimal feature set, unfinished, unpolished, undetailed. Yet the idea is clear: Get an idea of the finished product, take a glimpse into the future.
 
-While MVPs are a great way to iterate on your product and to test the most basic feature set, they are missing a great opportunity: Details. We tend to think of details as polish, as the icing on the cake. But we tend to forget that detail can completely change the way we see a product. Small details can have a great impact, they can delight users and turn a standard product into something special.
+While MVPs are a great way to iterate on your product and to test the most basic feature set, they are missing a great opportunity: Details. We tend to think of details as polish, as the icing on the cake. But we tend to forget that details can completely change the way we see a product. Small details can have a great impact, they can delight users and turn a standard product into something special.
 
-Speaking of switches: When the app Camera+ came out, they added some solid features to the original iPhone camera. Filters, exposure and so on. [The biggest feature was a tiny detail](http://taptaptap.com/blog/volumesnap-tips/): A hack allowed the software to turn the iPhones hardware volume switch into the trigger button. Photographers and iPhone users loved that feature, Camera+ moved to the Top 3 in App Store over night. 
+Speaking of switches: When the app Camera+ came out, they added some solid features to the original iPhone camera. Filters, exposure and so on. Yet [the biggest feature was a tiny detail](http://taptaptap.com/blog/volumesnap-tips/): A hack allowed the software to turn the iPhone’s hardware volume switch into a shutter button. Photographers and iPhone users loved that feature, Camera+ moved to the Top 3 in App Store over night.
 
 ![](http://cdn.taptaptap.com/blog/wp-content/media/volumesnap.jpg)
 
 Out of a sudden, the iPhone camera didn't feel like a toy anymore, but like a real and usable camera. So much that Apple "borrowed" that feature for iOS5. Although they had previously banned Camera+ from the App Store for their creative use of the home button.
 
-Today, using the volume switch as a trigger is a common UI detail throughout most smartphones. Tiny switch, big impact. 
+Today, using the volume switch as a trigger is a common UI detail throughout most smartphones. Tiny switch, big impact.
 
 There are more examples:
 
@@ -84,6 +84,6 @@ Luckily, details in digital product cannot kill people. What about Neil Armstron
 
 ![](/img/blog/details-armstrong.jpg)
 
-When equipping the Apollo Shuttle, NASA decided to equip the astronauts with Duro Felt tip pens, a normal marker with a metal cap. This exact metal cap served Aldrin as a replacement switch: He engaged the engine with the cap of his pen.
+When equipping the Apollo Shuttle, NASA decided to provide the astronauts with Duro Felt tip pens, a normal marker with a metal cap. This exact metal cap served Aldrin as a replacement switch: He engaged the engine with the cap of his pen.
 
 Details can save lives. Or at least make our lives better. What kind of detail do you like? Any detail that changed the way you use a product? Let me know on Twitter: [@johannesippen](http://twitter.com/johannesippen/)
