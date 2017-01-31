@@ -11,3 +11,6 @@ exclude: ["/_sources/"]
 # Build settings
 markdown: kramdown
 permalink: /:year/:title/
+
+kramdown:
+    smart_quotes: ["rdquo", "rsquo", "ldquo", "rdquo"]
