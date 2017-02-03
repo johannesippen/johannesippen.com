@@ -102,6 +102,31 @@
         {{ content }}
       </div>
     </div>
+    
+    <style>
+      .more-posts {
+        background: #eee;
+      }
+      .more-posts .blog-item {
+        width: 100%;
+        max-width: 720px;
+        margin: 0 auto;
+      }
+    </style>
+    
+    <section class="more-posts">
+    <div class="blog-item">
+      <a href="{{ page.previous.url }}">
+        <img src="{% if page.previous.image %}http://edge.zimage.io/?format=png&mode=crop&width=440&height=224&url=http://johannesippen.com{{ page.previous.image }}{% else %}/img/dots.png{% endif %}">
+        <span class="blog-item-info">
+          <strong class="blog-item-date">Read next:</strong>
+          <strong>{{ page.previous.title }}</strong>
+          <span>{{ page.previous.excerpt }}</span>
+        </span>
+      </a>
+    </div>
+    <hr>
+    </section>
 
     {% include footer.html %}
 

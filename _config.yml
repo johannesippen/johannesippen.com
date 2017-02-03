@@ -1,12 +1,12 @@
 # Site settings
-title: Johannes Ippen
+title: Johannes Ippen, Designer and Author
 email: me@johannesippen.com
-description: > # Johannes Ippen is a designer and author from Berlin, 
-  Lead of Creative Services at Wooga and Founder at Thanksalot Design Collective.
+description: > # This is the portfolio of designer and author Johannes Ippen from Berlin, 
+  Head of Product Marketing at Wooga and Founder at Thanksalot Design Collective. New blog article every Wednesday.
 baseurl: ""
 url: "http://johannesippen.com"
 twitter_username: presskind
-exclude: ["/_sources/"]
+exclude: ["/_sources/", "README.md"]
 
 # Build settings
 markdown: kramdown
