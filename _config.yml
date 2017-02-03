@@ -6,7 +6,7 @@ description: > # This is the portfolio of designer and author Johannes Ippen fro
 baseurl: ""
 url: "http://johannesippen.com"
 twitter_username: presskind
-exclude: ["/_sources/"]
+exclude: ["/_sources/", "README.md"]
 
 # Build settings
 markdown: kramdown
