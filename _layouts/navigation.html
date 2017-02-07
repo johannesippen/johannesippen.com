@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <style>
+      body {
+        margin: 0;
+      }
+      .nav-wrapper {
+      }
+      nav {
+        outline: 1px solid red;
+        width: 200px;
+        height: 50px;
+        margin: 0 auto;
+        perspective: 900px;
+      }
+      nav .nav-item {
+        transform: rotate3d(0, 1, 0, 90deg);
+      }
+      nav:hover .nav-item {
+        perspective: 900px;
+        transform-origin: 0 0;
+        animation: swing 2s ease-out forwards;
+      }
+      nav:hover .nav-item .nav-item {
+        animation: second-item 1.5s  ease-out forwards;
+      }
+      nav:hover .nav-item .nav-item .nav-item {
+        animation: third-item 1.5s  ease-out forwards;
+      }
+      nav:hover .nav-item .nav-item .nav-item .nav-item {
+        animation: fourth-item 1s  ease-out forwards;
+      }
+      .nav-item-block {
+        background: #5b009c;
+        color: #fff;
+        font-family: "League Spartan";
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        border-bottom: 1px solid;
+      }
+      .nav-item-block a {
+        display: block;
+        padding: 1em;
+        color: #fff;
+        text-decoration: none;
+      }
+      .nav-item-block span {
+        display: inline-block;
+        padding: 1em;
+        font-size: 18px;
+        color: #fff;
+        position: absolute;
+        z-index: 1000;
+        margin-left: 160px;
+      }
+      @keyframes swing {
+        0% { transform: rotate3d(1, 0, 0, 40deg); }
+        50% { transform: rotate3d(1, 0, 0, -20deg); }
+        100% { transform: rotate3d(1, 0, 0, 0deg); }
+      }
+      @keyframes second-item {
+        0% { transform: rotate3d(1, 0, 0, 90deg); }
+        30% { transform: rotate3d(1, 0, 0, -20deg); }
+        100% { transform: rotate3d(1, 0, 0, 0deg); }
+      }
+      @keyframes third-item {
+        0% { transform: rotate3d(1, 0, 0, -90deg); }
+        40% { transform: rotate3d(1, 0, 0, 40deg); }
+        100% { transform: rotate3d(1, 0, 0, 0deg); }
+      }
+      @keyframes fourth-item {
+        0% { transform: rotate3d(1, 0, 0, 180deg); }
+        20% { transform: rotate3d(1, 0, 0, -20deg); }
+        100% { transform: rotate3d(1, 0, 0, 0deg); }
+      }
+    </style>
+    <div class="nav-wrapper">
+    <nav>
+      <div class="nav-item">
+        <div class="nav-item-block"><span>&times;</span><a href="">Home</a></div>
+        <div class="nav-item">
+          <div class="nav-item-block"><a href="">About</a></div>
+          <div class="nav-item">
+            <div class="nav-item-block"><a href="">Kickstart</a></div>
+            <div class="nav-item">
+              <div class="nav-item-block"><a href="">Numbers</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    </div>
+  </body>
+</html>
