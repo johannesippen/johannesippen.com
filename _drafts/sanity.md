@@ -35,7 +35,11 @@ excerpt:
 
 ## Dont start a series
 
+{% youtube GdT8eqMO4qk %}
+
 - watch summary instead
+
+{% youtube GOdbnbQ5n3Y %}
 
 ## Consume while creating
 
