@@ -1,17 +1,18 @@
 ---
 title: What designers can learn from Larry Clark
 layout: article
-excerpt: 
+excerpt:
 ---
 
 # What designer can learn from director icon Larry Clark
 
-- Larry Clarks Manifesto
-- Kids, Ken Park
-- 73 years old
-- legend
-- article in DAZED
-- what you can learn for your sideprojects and 
+“When you're young, not much matters. When you find something that you care about, then that's all you got.” Even when you don't know who Larry Clark is, you might remember this quote from his cult movie Kids. Highly provocative, "Kids" was the most authentic depiction of youth cult, drug culture and skateboarding at the time. With unknown actors, real locations, rough dialogues and intimate camera angles, Larry Clark anticipated the Youtube culture – almost 2 decades before it took of the ground.
+
+What I never knew and impressed me the most about Kids is that Larry Clark was not one of them. At the time he shot the movie, he hit the 50 already. With a former career as a professional drug addict and mildly successful photographer, he reinvented himself as a filmmaker.
+
+Today, Lary Clark is 73 years old and still an active filmer. Last year, he gave an interview to DAZED, nicely named as "The Manifesto for not giving a fuck". And you know what – there's a lot of things that designers can learn from it.
+
+- Sideprojects
 
 ## Be flexible!
 
