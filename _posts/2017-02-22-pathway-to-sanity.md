@@ -1,12 +1,15 @@
 ---
 title: Pathway to Sanity
 layout: article
-excerpt: We spend too much time consuming content than creating. Time to fix this.
+excerpt: We spend too much time consuming content online. Time to fix this.
+image: /img/blog/sanity-cover.jpg
 ---
 
 # Pathway to Sanity
 
-This is 2017. The machines that we do our work on are also our main entertainment sources: Youtube, Facebook, Buzzfeed, Netflix. Never in the history of mankind have work and leisure been closer together than today. We don’t differentiate between work terminals and home entertainment systems. Everything we need in life runs on our Macbooks or Surfaces.
+This is 2017. <br>The machines that we do our work on are also our main entertainment sources: Youtube, Facebook, Buzzfeed, Netflix. 
+
+Never in the history of mankind have work and leisure been closer together than today. We don’t differentiate between work terminals and home entertainment systems. Everything we need in life runs on our Macbooks or Surfaces.
 
 I love that. Having all seasons of Seinfeld only a click away – my younger self wouldn’t believe it. Yet, there’s a risk. With potential distraction only one browser tab away, it gets very hard to concentrate and stay productive. When this Facebook notification pops up, it’s impossible to not look. When you’re stuck or bored, it’s  too tempting to watch a video in between. And another one. And another one – keeping you from doing what you actually wanted.
 
@@ -15,7 +18,7 @@ In the words of lettering artist and procrastiworker Jessica Hische:
 {% twitter https://twitter.com/jessicahische/status/819071651295870976 %}
 
 Don’t get me wrong: I’m not against consuming content online, it’s  about finding the right balance. Creating at least as much as you consume. 
-Matthew Inman, better known as The Oatmeal compared [creativity once as breathing](http://theoatmeal.com/comics/creativity): when you create, you exhale. You can't exhale forever – you need to breathe in at some point. This is when you read, when go outside or when you just relax and entertain yourself. Netflix and chill. But how to avoid this when you actually want to create?
+Matthew Inman, better known as The Oatmeal compared [creativity once to breathing](http://theoatmeal.com/comics/creativity): when you create, you exhale. You can't exhale forever – you need to breathe in at some point. This is when you read, when go outside or when you just relax and entertain yourself. Netflix and chill. But how to avoid this when you actually want to create?
 
 ## Put yourself in flight mode
 
@@ -47,13 +50,13 @@ Luckily, I discovered this video:
 
 {% youtube GdT8eqMO4qk %}
 
-Lost in 7 minutes – 6 seasons condensed to the bare essentials, just enough to meet my urge of knowing what the fuzz is about and to pretend I would watch the show.
+Lost in 8 minutes – 5 seasons condensed to the bare essentials, just enough to meet my urge of knowing what the fuzz is about and to pretend I would watch the show.
 
-Watching a summary does not only bring you up to speed, in best case it also spoils a complete series for and will keep you from starting it at all. In case of Lost, this saved me [3 days and 18 hours](http://tiii.me/). Here’s another one for Game of Thrones:
+Watching a summary does not only bring you up to speed, in best case it also spoils a complete series for and will keep you from starting it at all. In case of Lost, this saved me [3 days and 3 hours](http://tiii.me/). Here’s another one for Game of Thrones:
 
 {% youtube GOdbnbQ5n3Y %}
 
-Congrats, you saved yourself 6 days and 7 hours of dragons, weird incest scenes and Peter Dinklage. You are welcome.
+Congrats, you saved yourself 2 days and 13 hours of dragons, weird incest scenes and Peter Dinklage. You are welcome.
 
 ## Consume while creating
 
