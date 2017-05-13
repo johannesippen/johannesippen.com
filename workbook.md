@@ -8,7 +8,7 @@ excerpt: Download all templates from my Workbook here.
 
 # UX Workbook
 
-Experience Design is an analogue process. There’s now way to get around sketching, drafting and getting your hands dirty. Thoughts straight down to paper. Visualized thinking. To help you with that process, I assembled the UX Workbook. As a participant of one of my workshops, you will get the UX Workbook for free. For everyone else, you can download the templates as print-ready PDFs here.
+Experience Design is an analogue process. There is no way to get around sketching, drafting and getting your hands dirty. Thoughts straight down to paper. Visualized thinking. To help you with that process, I assembled the UX Workbook. As a participant of one of my workshops, you will get the UX Workbook for free. For everyone else, you can download the templates as print-ready PDFs here.
 
 - ## Downloads
 - [Crazy 8 Template](/workbook/workbook_crazy8_template.pdf)
