@@ -1,10 +1,18 @@
 ---
 title: What Creators can Learn from Larry Clark
 layout: article
-excerpt: Some valuable advice from the guy who started riding a skateboard at age 50 and made cult movies ever since.
-excerpt: Better listen to the guy who brought you "Kids" – 
+excerpt: 7 key lessons from the filmmaker legend’s “Manifesto of not giving a fuck”
 image: /img/blog/larry_clark.jpg
 ---
+
+<style>
+  blockquote {
+    font-size: 200%;
+    line-height: 120%;
+    font-style: italic;
+  }
+</style>
+
 
 # What Creators can Learn from Filmmaker Icon Larry Clark
 
@@ -12,11 +20,11 @@ image: /img/blog/larry_clark.jpg
 
 > “When you're young, not much matters. When you find something that you care about, then that's all you got.”
 
-When I first heard about "Kids", the movie was expected to be a scandal. I well remember the headline at that time: "«Kids» is too hard for kids". When I got my hands on the VHS a bit later (I was still too young to see in the cinema), I was blown away. What I expected was sex, drugs and filth. What I saw looked real, authentic. Not like the typical 25-year-olds in GAP fashion that would play teenagers on TV. Instead of shallow conversations and pretty pictures, "Kids" opened a whole new world to me, a window into skateboard subculture that I didn't know about.
+When I first heard about "Kids", the movie was expected to be a scandal. I well remember the headline at that time: "«Kids» is too hard for kids". When I got my hands on the VHS a bit later (I was still too young to see in the cinema), it blew me away. What I expected was sex, drugs and filth. What I saw looked real, authentic. Not like the typical 25-year-olds in GAP fashion that would play teenagers on TV. Instead of shallow conversations and pretty pictures, "Kids" opened a whole new world to me. A window into skateboard subculture that I didn't know about.
 
-Lots of this is clearly owed to the fact that most of it was real: The locations, the dialogues and even the characters weren’t made up by big studio bosses, but were taken directly from the hood. Chloë Sevigny and Michelle Rodriguez weren't famous actresses back than, but friends of Harmony Korine, the skaterboy who wrote the script for the movie. "Kids" wasn't a video project made by bored teenagers on their DV Cams – it was merely the genius work of photographer Larry Clark.
+Lots of this is owed to the fact that most of it was real: The locations, the dialogues and even the characters weren’t made up by big studio bosses. They were taken from the hood. Chloë Sevigny and Michelle Rodriguez weren't famous actresses back than, but friends of Harmony Korine, the skaterboy who wrote the script for the movie. "Kids" wasn't a video project made by bored teenagers on their DV Cams – it was merely the amazing work of photographer Larry Clark.
 
-Already famous for a dark portrait of his hometown Tulsa, Larry Clark was 50 years old when he got into filmmaking. He learned how to ride a skateboard just prior to the movie, getting him in contact with the subculture. 
+Already gained a bit of fame as a photographer, Larry Clark was 50 years old when he got into filmmaking. He learned how to ride a skateboard just prior to the movie, getting him in contact with the subculture. 
 
 Can you imagine a middle-aged man on a skateboard, holding a film camera? I call this dedication. And also the secret to Clark’s authentic view on a topic that he doesn’t own. It is this kind of ruthlessness that I find extremely inspiring about Larry Clark, especially when it comes to my own work as a designer.
 
@@ -72,7 +80,11 @@ Like in sports – if you stop practicing, if you stop exercising, you will lose
 
 > “I just try to keep busy. Robert Frank made a film once called Keep Busy. That’s a great title and a great thing to do in you life: just keep busy! Try and stay in some kind of shape, that’s what I’m doing – I’m just keeping busy, super busy.”
 
-When you're creating, you need to keep creating. Make it part of your daily routine. Create something everyday. No matter what you do, if you design, if you photograph, if you draw or paint, if you code or write. Keep busy, do something everyday. Keep a journal. Post to your Instagram or Youtube. Take on a challenge to add some peer pressure on you – staying in your creative shape will not only make you a better and more consistent creator, it's also a very rewarding thing to do. Find something that you care about, it will be all you got.
+When you're creating, you need to keep creating. Make it part of your daily routine. Create something everyday. No matter what you do, if you design, if you photograph, if you draw or paint, if you code or write. Keep busy, do something everyday. Keep a journal. Post to your Instagram or Youtube. Take on a challenge to add some peer pressure on you. Staying in your creative shape will not only make you a better and more consistent creator, it's also a very rewarding thing to do.
 
-I hope this piece was actually helpful for you. If so make sure you [read the full manifesto on DAZED](http://www.dazeddigital.com/artsandculture/article/32849/1/the-larry-clark-manifesto-for-not-giving-a-fuck). If you liked this summary, please tell all your friends about it. If not, I would be happy to discuss with you on [Twitter](http://twitter.com/johannesippen/). Thank you very much for reading!
+Keep busy.
+
+--
+
+I hope this piece was actually helpful for you. Make sure you [read the full manifesto on DAZED](http://www.dazeddigital.com/artsandculture/article/32849/1/the-larry-clark-manifesto-for-not-giving-a-fuck). If you liked this summary, please tell all your friends about it. If not, I would be happy to discuss with you on [Twitter](http://twitter.com/johannesippen/). Thank you very much for reading!
 
