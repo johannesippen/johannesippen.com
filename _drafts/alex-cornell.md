@@ -5,9 +5,14 @@ excerpt:
 ---
 # Move your Boundaries. Interview with Alex Cornell
 
-I came across Alex Cornell for the first time in 2014. I was working on the Midddle App and stumbled over a video for an app called "No plans", made by Alex Cornell. Cornell’s work covers an impressively broad range, from msuci over photography to app design, action movie trailer down to seating infographics and travel guides. 
+<img src="http://placehold.it/900x500/">
 
-The work of Alex Cornell has touched my field more often than any ither designer: The moment in which my colleague comes to work in a TYCHO shirt, with whom Alex Cornell started his career in graphic design. Speaking to the friend that wants to travel to Iceland, having found this really cool guide by this designer on the internet. "You don’t mean Alex Cornell by any chance, do you?"
+
+Of all the designers I've come across in my career so far, Alex Cornell is probably the most versatile. Started as a musician turned designer, he launched several successful startups, created an impressive amount of self-motivated sideprojects and blog articles, including the now-standard travel guide to Iceland and the widely covered flipped iceberg video and photo series from Antarctica.
+
+I came across Alex for the first time in 2014. I was working on the Midddle App and stumbled over a video called "No plans" – an on the point analysis of the issue we were trying to tackle with Midddle. 
+
+/* The work of Alex Cornell has touched my field more often than any ither designer: The moment in which my colleague comes to work in a TYCHO shirt, with whom Alex Cornell started his career in graphic design. Speaking to the friend that wants to travel to Iceland, having found this really cool guide by this designer on the internet. "You don’t mean Alex Cornell by any chance, do you?" */
 
 {% youtube jl6uliAl8FI %}
 
