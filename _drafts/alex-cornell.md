@@ -1,26 +1,22 @@
 ---
 title: Move your Boundaries – Interview with Alex Cornell
 layout: article
-excerpt: 
+image: /img/blog/alex_cornell_header.jpg
+excerpt: Designer & Filmmaker Alex Cornell talks about how he almost ended up on “Shark Tank” and why he gave up his design studio to join Facebook.
 ---
-# Move your Boundaries. Interview with Alex Cornell
+# Move your Boundaries – Interview with Alex Cornell
 
-<img src="http://placehold.it/900x500/">
+<img src="/img/blog/alex_cornell_header.jpg">
 
+**Musician, Designer, Photographer, Filmmaker, Startup founder – Alex Cornell’s bio reads like a best-of creative professions.** Browsing through his [portfolio](http://www.alexcornell.com/), you'll be stunned by the sheer variety and extremely professional execution of side projects – to an extend where the producers of TV format "Shark Tank" believed that one of his projects was real. His works have been featured on Mashable, Fast Company, Business Insider and Wall Street Journal. 
 
-Of all the designers I've come across in my career so far, Alex Cornell is probably the most versatile. Started as a musician turned designer, he launched several successful startups, created an impressive amount of self-motivated sideprojects and blog articles, including the now-standard travel guide to Iceland and the widely covered flipped iceberg video and photo series from Antarctica.
+You might have come across Alex’ designs when using Facebook, where he is responsible for the UI of live videos – you know the little flying emoticons? That’s his work.
 
-I came across Alex for the first time in 2014. I was working on the Midddle App and stumbled over a video called "No plans" – an on the point analysis of the issue we were trying to tackle with Midddle. 
-
-/* The work of Alex Cornell has touched my field more often than any ither designer: The moment in which my colleague comes to work in a TYCHO shirt, with whom Alex Cornell started his career in graphic design. Speaking to the friend that wants to travel to Iceland, having found this really cool guide by this designer on the internet. "You don’t mean Alex Cornell by any chance, do you?" */
+I came across Alex for the first time in 2014. I was working on the Midddle App and stumbled over a video called "No plans" – an on the point analysis of the issue we were trying to tackle with Midddle. When I saw he was speaking at Awwwards Conference in Los Angeles, I had to ask him a million questions about his successful sideprojects.
 
 {% youtube jl6uliAl8FI %}
 
-So I went to LA to meet Alex at a conference and talk to him about his many sideprojects.
-
-- the night before
-- So trashed all my questions
-- and talked about boundaries
+Meeting Alex in Los Angeles, I encountered a very open, humble and self-reflective man. The night before our interview, he gave a talk about how he didn't feel ready to run his own studio yet and what he did to learn and move his creative boundaries. It was clearly the highlight of the conference – I was so impressed that threw away all my questions and completely changed the direction of my interview. Read for yourself:
 
 **Question: Alex, I originally wanted to speak with you about sideprojects, yet after seeing your talk, I threw everything over and decided to talk to you about boundaries instead.**
 
@@ -30,7 +26,9 @@ Alex: Haha, okay.
 
 A: The problem with Moonbase was that in was in full control. Everything that occured would be in some way incepted by me. I would go look for new projects, I would decide I wanna try a new effect or say "The voiceover is wrong, we got to do it all over again". While that’s very empowering, I also felt very limited in the amount I was able to grow - I was inherently limited by my own experience.
 
-My work at Facebook is almost complete opposite of everything I do. Everything I learn is the result of other people who are smarter than me. I found that this is a much faster way to grow, to get better and to learn in a much more exponential way – and that I'm more fulfilled by that feeling. The only way to do this is to surround myself with really great people.
+{% twitter https://twitter.com/alexcornell/status/800556614197669888 %}
+
+My work at Facebook is almost the complete opposite of everything I do. Everything I learn is the result of other people who are smarter than me. I found that this is a much faster way to grow, to get better and to learn in a much more exponential way – and that I'm more fulfilled by that feeling. The only way to do this is to surround myself with really great people.
 
 I just didn't feel I was ready yet to be in full control things. I guess I like having kind of been humble in that way in saying "I am not ready for this yet" – it's been a good decision so far.
 
@@ -44,7 +42,7 @@ At the same time I met Julie Zhou, who is the Design Director at Facebook. Talki
 
 A: That's a good question! I write all my ideas down in Evernote, no matter how small they are. There’s this point at which the idea would be elevated out of Evernote into a different form, either an article, or a video or a song or whatever it is. I'm looking at two things to decide whether or not that should happen:
 
-First, whether the idea is compelling enough to the world. For example: "I like Carpet better than hardwood because it feels nice on my feet" is a terrible idea, that idea doesn't need anything else. There’s no reason to write an article about it, there’s no reason to make a video. 
+First, whether the idea is compelling enough to the world. For example: "I like carpet better than hardwood because it feels nice on my feet" is a terrible idea, that idea doesn't need anything else. There’s no reason to write an article about it, there’s no reason to make a video. 
 
 I was speaking to a friend earlier today and he was telling me that in South Africa they’re calling traffic lights "Robots" – I never heard that before. It made me think. Some hilarious cultural differences like that could lead to funny situations. So I wrote that down – that's the type of thing that I would want to explore more. I start thinking about "What’s the best format for that idea to make its way to other people?". In that case, I don’t think writing would be very effective, as there would be a lot of humor in visualizing that. It's always a matter of matching the medium with the type of idea and the scale of it. If it was pretty small, I wouldn’t spend too much time on it.
 
@@ -86,13 +84,15 @@ A: There is this quote from Edsger W. Dijkstra, a computer scientist:
 
 “Raise your quality standards as high as you can live with, avoid wasting your time on routine problems, and always try to work as closely as possible at the boundary of your abilities. Do this, because it is the only way of discovering how that boundary should be moved forward.”
 
+<img src="/img/blog/alex_cornell_quote.jpg">
+
 It has nothing to do with creativity, he speaks about research. He says the reasons why it would be useless to work on something that is too easy, you learn nothing because you’re just repeating skills that you already have. If it’s too hard you learn nothing because you’re not going anywhere. Being really selfaware of your own skillset and the problem that you’re working on is the most important thing. Thinking about it. 
 
 I do find that one easy way for me to gage whether or not I’m in the right place is how quickly it takes me to not like something that I did in the past. The time that it takes me to not like a design I did anymore is a good indicator of how fast I’m improving. So there’s times where I do something today and tomorrow I don’t like it anymore. Sometimes it takes a week. As long as this continues to happen I reckon this is good because presumebly I’m getting better and I learn to see why that thing might not work.
 
 Sometimes if that is not happening and I feel like the work is always exceeding my expectation in a way that is too easy for me then I need to reevaluate what I’m doing. Also if I’m consistently frustrated in making any progress then I'm trying to revaluate the problem I’m working on. Maybe it’s a constraint that needs to be changed. I try to balance working on the problems with an awareness of how I’m experiencing the work, how objectively good or bad it is, how hard or easy it is for me to do.
 
-**Q: Any advice for other designer on how to do that?**
+**Q: Any advice for other designers on how to do that?**
 
 A: There is some really good advice to be found in scientific research. It’s a totally different ball game – people like Dijkstra, scienticts who think about making progress and moving their field forward. You don’t see that kind of writing very often in the design world, people don’t really talk like that.
 
@@ -110,7 +110,7 @@ A: I think so! There will always be a place for branding and visual arts, yet in
 
 **Q: Speaking of visual arts – would you go back to filmmaking exclusively?**
 
-A: I plan to go back to music, not video. I haven’t done music professionally in a long time and I stopped doing it on the side. The day that decide to move away from design, when I’m burned out, which I do think eventually will happen, then I would shift gears to go back to music. We are talking about how design is becoming more and more objective and it’s much less of an artistic expression – music is almost the exact inverse of that. It’s all subjective, all creative expression. I can see that as a very personally fullfilling thing to do later in live. I don’t think at the pace at which I work with my colleagues is sustainable in a very long period of time. So I guess one day I will have to tap out, and when I do, I just look forward to the calm pastures of music.
+A: I plan to go back to music, not video. I haven’t done music professionally in a long time and I stopped doing it on the side. The day that I decide to move away from design, when I’m burned out, which I do think eventually will happen, then I would shift gears to go back to music. We are talking about how design is becoming more and more objective and it’s much less of an artistic expression – music is almost the exact inverse of that. It’s all subjective, all creative expression. I can see that as a very personally fulfilling thing to do later in live. I don’t think at the pace at which I work with my colleagues is sustainable in a very long period of time. So I guess one day I will have to tap out, and when I do, I just look forward to the calm pastures of music.
 
 **Q: Going back to your roots when you worked with Scott Hansen, who’s doing both functions at the same time, being a celebrated musician as [TYCHO](http://www.tychomusic.com/) and a graphic designer as [ISO50](http://blog.iso50.com/).**
 
@@ -122,8 +122,12 @@ A: Musician would be one thing, but I always wanted to be a professional tennis 
 
 **Q: Tennis player?**
 
-A: I love tennis. I think it’s the best sport. It’s one on one. Your skill is pitted against somebody else’s skill. It also reflects the way I work, I work alone, which I consider a weakness, but I think that’s where it comes from.
+A: I love tennis. I think it’s the best sport. It’s one on one. Your skill is pitted against somebody else’s skill. It also reflects the way I work: I work alone, which I consider a weakness, but I think that’s where it comes from.
 
 The game is spread out over so many points so it’s impossible to lose or win based on a fluke, like in soccer. In soccer you can lose on a fluke, and also it’s a team game, so your individual performance might not be as important, whereas in tennis, it’s not. You can’t win or lose by accent. I'm a very competitive person, so I always wished I had persued that. Yet it feels somewhat selfish these days to do something that doesn't have an impact on the people in a positive way. Sport does, but not in a way that I would want. If I wasn’t older, I would still try to do that. (laughs)
 
-Q: Thank you so much!
+**Q: Thank you very much for the interview, Alex!**
+
+--
+
+Head over to [Alex’ Portfolio](http://www.alexcornell.com) to check out the rest of his projects. How did you like interview? Should I do more of this in the future? Tell me [on Twitter](http://twitter.com/johannesippen/) - thank you in advance!
