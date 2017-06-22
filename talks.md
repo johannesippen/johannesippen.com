@@ -50,10 +50,32 @@ permalink: /talks/
 		padding-top: 44px;
 		padding-bottom: 88px;
 	}
+	.inner iframe {
+	  width: 100%;
+	  display: block;
+	  margin-bottom: none;
+	}
 </style>
 <section class="talks">
 	<h1>Talks &amp; Conferences</h1>
   <div class="inner">
+    {% youtube voXUr_TiZkg %}
+    <div class="talk">
+      <img src="/img/talk-web-fatale.jpg">
+      <h2>Web Fatale</h2>
+      <p>Seductive Websites through design, fun and interaction</p>
+			<a href="/blog/creative-mornings/" class="btn">See Presentation</a>
+    </div>
+		<div class="conference">Creative Mornings Berlin 2016</div>
+		<div class="conference">Beyond Tellerrand Berlin Opening 2016</div>
+		<div class="conference">Product Crunch 2017</div>
+    <div class="talk">
+      <img src="/img/talk-passion-projects.jpg">
+      <h2>Passion Projects</h2>
+      <p>How side projects have a positive impact on your well-being and your fulltime job.</p>
+    </div>
+		<div class="conference">Open Web Space 2015</div>
+		<div class="conference">Mobile App Europe 2015</div>
     <div class="talk">
       <img src="/img/breaking-the-web.png">
       <h2>Breaking the Web</h2>
