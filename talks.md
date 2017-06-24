@@ -54,6 +54,7 @@ permalink: /talks/
 	  width: 100%;
 	  display: block;
 	  margin-bottom: none;
+	  border: 0;
 	}
 </style>
 <section class="talks">
