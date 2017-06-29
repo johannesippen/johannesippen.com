@@ -6,6 +6,11 @@ excerpt:
 
 # Is VR the new Flash?
 
+According to Mark Twain, history does not repeat – yet it does rhyme. A while ago, I held a talk called "Breaking the Web", centering around popups got replaced by modals and Flash website intros reincarnated in parallax scrolljacking.
+
+Looking back at university, I always had a difficult relationship with Flash. While I liked the fact how you could visually animate and script digital designs, I really disliked the heavy, soggy outcome. Text copy set in 6px pixel fonts, websites that where so heavy it took them several minutes to load and the pure abandonce of web standards. I was 
+
+
 - Wow, clickbaity headline.
 - Mark Twain said "History does not repeat itself, but it rhymes"
 - I did a talk
