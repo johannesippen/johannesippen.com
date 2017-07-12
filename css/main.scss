@@ -119,24 +119,24 @@ hr {
 /* Navigation */
 
 nav {
-	margin-top: 50px;
+  margin-top: 50px;
 }
 nav ul {
   margin: 20px 0 10px;
   padding: 0;
   list-style: none;
-	line-height: 40px;
+  line-height: 40px;
 }
 nav li {
   display: inline-block;
 }
 nav h1 a {
-	font-weight: 400;
-	font-size: 24px;
-	margin: 0 30px;
-	padding: 0;
-	text-transform: none;
-	letter-spacing: 0;
+  font-weight: 400;
+  font-size: 24px;
+  margin: 0 30px;
+  padding: 0;
+  text-transform: none;
+  letter-spacing: 0;
 }
 nav a {
   display: block;
@@ -152,22 +152,22 @@ nav a sup {
   color: #f20;
 }
 @media (max-width: 640px) {
-	nav {
-		margin-top: 0;
-	}
-	nav h1 a   {
-		width: 44px;
-		height: 44px;
-		border-radius: 44px;
-		background: #ccc url(https://avatars2.githubusercontent.com/u/1385383?v=1&s=88) no-repeat center;
-		background-size: contain;
-		text-indent: -1000px;
-		margin: 0;
-	}
-	nav a {
-	  padding: 0 5px;
-	  font-size: 10px;
-	}
+  nav {
+    margin-top: 0;
+  }
+  nav h1 a   {
+    width: 44px;
+    height: 44px;
+    border-radius: 44px;
+    background: #ccc url(/img/johannesippen_portrait.jpg) no-repeat center;
+    background-size: contain;
+    text-indent: -1000px;
+    margin: 0;
+  }
+  nav a {
+    padding: 0 5px;
+    font-size: 10px;
+  }
 }
 
 /* Works Navigation Grid */
