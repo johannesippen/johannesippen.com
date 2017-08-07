@@ -1,7 +1,7 @@
 ---
 title: The IKEA Principle
 excerpt: The seven phases of guiding users through an online experience – inspired by the Swedish furniture giant.
-image: http://johannesippen.com/img/blog/web-fatale-creative-morning.001.jpeg
+image: /img/blog/web-fatale-creative-morning.001.jpeg
 layout: article
 ---
 
@@ -11,13 +11,13 @@ layout: article
 
 Guiding users and creating experiences is more than only about fixed routes and agendas. It's about having people coming to buy a shelf and going home with a dozen of candles and plants – and still not being unhappy.
 
-If we want to look for great experiences, we need to extend out horizon – we need to look in the physical world. Why not learn from the big guys? The ones who have done this for some decades now? During my research, I discovered 7 essential steps in a user user journey. They come from an e-commerce world, but they work very well of every situation where a user needs to convert somehow.
+If we want to look for great experiences, we need to extend our horizon – we need to look in the physical world. Why not learn from the big guys? The ones who have done this for some decades now? During my research, I discovered 7 essential steps in a user journey. They come from an e-commerce world, but they work very well in every situation where a user needs to convert somehow.
 
-The funny thing: They all can be found in the way that Scandinavian interiour giant IKEA has tailored their experience. So, let me invite you on a little shopping trip to our favorite Swedish furniture shop.
+The funny thing: They all can be found in the way that Scandinavian interior giant IKEA has tailored their experience. So, let me invite you on a little shopping trip to our favorite Swedish furniture shop.
 
 ## Phase 1: Clear the Stage
 
-You park your car, eat a hearty lunch at the shop restaurant, visit the batroom and sink your kids in the ballpit. Before the actual shopping mapping starts, you clear the stage. You prepare for the next 3 hours full of candles, chairs and Kötbullar.
+You park your car, eat a hearty lunch at the shop restaurant, visit the bathroom and sink your kids in the ball pit. Before the actual shopping mapping starts, you clear the stage. You prepare for the next 3 hours full of candles, chairs, and Kötbullar.
 
 In the two-factor theory, hygiene is a factor that helps to prevent unhappiness, without being the central purpose. In other words: I’m not going to IKEA to visit the bathroom, but if I have the chance to, I'm definitely happier.
 
@@ -35,27 +35,27 @@ The purpose is simple: To show you what you can do and achieve with the products
 
 Fashion shopping websites know that very well: Most of them provide an Editorial area in which they show their clothing in context. The home page of Airbnb is a great example. Below the search, you can find inspirational sections. Telling you where to book your next vacation or recommending single hosts.
 
-Inspirational sections on digital products can be of a great benefit for people to understand the products better. Even more: it helps to  also to see them in action and get a sense of all possible usages.
+Inspirational sections on digital products can be of a great benefit for people to understand the products better. Even more: it helps to also to see them in action and get a sense of all possible usages.
 
 ## Phase 3: Time for Decisions
 
-When you are properly inspired, it's time for the hard facts – decision time! Right after the inspirational exhibition, the lights get brighter, the chairs are not nicely arranged. Instead they are put together in one shelf for better comparison.
+When you are properly inspired, it's time for the hard facts – decision time! Right after the inspirational exhibition, the lights get brighter, the chairs are not nicely arranged. Instead, they are put together in one shelf for better comparison.
 
 {% image /img/blog/web-fatale-creative-morning.010.jpeg %}
 
 Making qualified decisions can be really hard. The more information you give people, the easier it will be for them, the more likely it is that they will make a decision without further hesitation. Let them compare products. Tell them all the tech specs. Tell them what they get – and what they don’t.
 
-Airbnb does a great job, listing all the features an apartment has, and crossing out the ones it doesn't. In this phase, there is no room for surprises – either you have it, or you don't. 
+Airbnb does a great job, listing all the features an apartment has and crossing out the ones it doesn't. In this phase, there is no room for surprises – either you have it, or you don't. 
 
 ## Phase 4: Utilise Emotions
 
-You’ve got them. Your user made a big decision, factored a lot of things in, maybe feels exhausted from it. Now it's time to reasure them that what they made is actually the right decision. How so?
+You’ve got them. Your user made a big decision, factored a lot of things in, maybe feels exhausted from it. Now it's time to reassure them that what they made is actually the right decision. How so?
 
-There's two essential ways to do this: The first one one is to appeal to their emotional side. At IKEA, the candles, plants and picture frames come after the the big furniture – that is no coincidence. Adding decisions that are easier or more impulsive to make helps to justify the big decisions. Especially when they are somewhat related to the main decision: "Oh, this picture frame would go well with the new table I just bought." Amazon will recommend you a pouch and an extra battery to the digital camera you chose. Now that I got some fitted accessories, the camera might be the right one already.
+There are two essential ways to do this: The first one one is to appeal to their emotional side. At IKEA, the candles, plants and picture frames come after the big furniture – that is no coincidence. Adding decisions that are easier or more impulsive to make helps to justify the big decisions. Especially when they are somewhat related to the main decision: "Oh, this picture frame would go well with the new table I just bought." Amazon will recommend you a pouch and an extra battery to the digital camera you chose. Now that I got some fitted accessories, the camera might be the right one already.
 
 {% image /img/blog/web-fatale-creative-morning.013.jpeg %}
 
-Back in the days, Apple let you engrave your iPod with a personal message for free – same principle. The emotional weight that comes with the personalisation of your product makes the big decision seem more relevant than before.
+Back in the days, Apple let you engrave your iPod with a personal message for free – same principle. The emotional weight that comes with the personalization of your product makes the big decision seem more relevant than before.
 
 {% image /img/blog/web-fatale-creative-morning.014.jpeg %}
 
@@ -65,7 +65,7 @@ Emotions can also distract from the big decision. Car rental companies let you c
 
 {% image /img/blog/web-fatale-creative-morning.015.jpeg %}
 
-The second way is to appeal to their senses. Get them involved. Market research has figured that people who were able to touch a product are 4 times more likely to buy it. No wonder you have to pick the packaged furnitures in the Swedish interior warehouse yourself. This does not only save money, but helps to sell the goods.
+The second way is to appeal to their senses. Get them involved. Market research has figured that people who were able to touch a product are 4 times more likely to buy it. No wonder you have to pick the packaged furniture in the Swedish interior warehouse yourself. This does not only save money but helps to sell the goods.
 
 How can we recreate this sensation in a digital experience? How can you make people touch products on the screen? Simple: send them a sample. 
 
@@ -73,11 +73,11 @@ How can we recreate this sensation in a digital experience? How can you make peo
 
 German online-carpenter Holzconnection will send you wood samples for free – no strings attached. While this helps you to ease your decision for which wood you want your new shelf to be built in, it also gives you a sensational experience. It also increases the likelihood of you using their service.
 
-But not everyone can send out free samples: Mister Spex, an online shop for glasses, let's you try on their products through the webcam. While this experience is often more funny than helpful, it gives you a feeling of how it might be – and helps you build a connection to your new frames.
+But not everyone can send out free samples: Mister Spex, an online shop for glasses, lets you try on their products through the webcam. While this experience is often more funny than helpful, it gives you a feeling of how it might be – and helps you build a connection to your new frames.
 
 ## Phase 6: Make Yourself Hackable
 
-Now here’s my favourite part: right before the cashiers, there's the area where all the very cheap products are, and/or the ones with little defects – for much less than the original price. The importance here is not the actual savings, but the fact that you can save something, the fact that you can "trick" the shop. 
+Now here’s my favorite part: right before the cashiers, there's the area where all the very cheap products are, and/or the ones with little defects – for much less than the original price. The importance here is not the actual savings, but the fact that you can save something, the fact that you can "trick" the shop. 
 
 {% image /img/blog/web-fatale-creative-morning.019.jpeg %}
 
