@@ -9,7 +9,7 @@ layout: article
 
 {% image /img/blog/books_steve_krug.jpg %}
 
-A few days a reader of my book "[Web Fatale](https://www.amazon.de/gp/product/3836238985/ref=as_li_tl?ie=UTF8&tag=johannesippen-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3836238985&linkId=b25b95e25d83e4105600efb04cac42d7)" wrote me, enthusiastically telling me that he read the whole book – from cover to cover. That alone is pretty impressive, not even my mom did that.
+A few days ago a reader of my book "[Web Fatale](https://www.amazon.de/gp/product/3836238985/ref=as_li_tl?ie=UTF8&tag=johannesippen-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3836238985&linkId=b25b95e25d83e4105600efb04cac42d7)" wrote me, enthusiastically telling me that he read the whole book – from cover to cover. That alone is pretty impressive, not even my mom did that.
 
 But he soaked it up – every single bit of it, and he wanted more. So he asked me if I had any further reading recommendations, especially for people who aspire to create usable and seductive websites. Digital products that you couldn’t resist. I never thought about it before, but I had – lots actually! And I want to share them.
 
@@ -17,7 +17,7 @@ So, in the tradition of [High Fidelity](https://www.amazon.de/gp/product/0826453
 
 ## [Steve Krug - Don’t Make Me Think](https://www.amazon.de/gp/product/0321965515/ref=as_li_tl?ie=UTF8&tag=johannesippen-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321965515&linkId=5d18ce4cc0856fc9141b9054f8667b3f)
 
-When I started my job as a designer at Wooga, our CEO Jens made me (and everyone else who was new) read this book. It’s a quick one, filled with a lot of very simple truths. Steve Krug manages to break down the essence of digital usability into something that is easy to relate, entertaining and memorable. I still consult the book, which has been reissued and updated a few times, every now and then. The best part: This is not only for designers but for everyone. Get a copy for your project manager, your developers, and your clients, too – they will thank you!
+When I started my job as a designer at Wooga, our CEO Jens made everyone in the company read this book. It’s a quick one, filled with a lot of very simple truths. Steve Krug manages to break down the essence of digital usability into something that is easy to relate, entertaining and memorable. I still consult the book, which has been reissued and updated a few times, every now and then. The best part: This is not only for designers but for everyone. Get a copy for your project manager, your developers, and your clients, too – they will thank you!
 
 - **Great for**: Designers, colleagues and clients 
 - **Where to get**: ["Don’t make me think" on Amazon](https://www.amazon.de/gp/product/0321965515/ref=as_li_tl?ie=UTF8&tag=johannesippen-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321965515&linkId=5d18ce4cc0856fc9141b9054f8667b3f)
@@ -60,6 +60,6 @@ I cannot close this article without mentioning my own book: If you want a good s
 
 {% youtube trgU5lFv__w %}
 
-[Buy Web Fatale on Amazon](https://www.amazon.de/gp/product/3836238985/ref=as_li_tl?ie=UTF8&tag=johannesippen-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3836238985&linkId=b25b95e25d83e4105600efb04cac42d7)"
+[Buy Web Fatale on Amazon](https://www.amazon.de/gp/product/3836238985/ref=as_li_tl?ie=UTF8&tag=johannesippen-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3836238985&linkId=b25b95e25d83e4105600efb04cac42d7)
 
 Any other books you would recommend? Drop me an email at [ich@johannesippen.com](mailto:ich@johannesippen.com) to let me know!

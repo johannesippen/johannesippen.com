@@ -54,13 +54,13 @@ I decided it would be better to start from scratch and make a great new Wikipedi
 
 **Q: What makes V for Wiki different from other Wikipedia reader apps is the attention to detail that went into the design of the app. Can you tell us a bit about how you went it and what your favourite detail is?**
 
-A: I started with the typography. Many other apps would start with wireframes and the main screenflow, but I started with the hierarchical view and the typographical view and deciding on typefaces. Balancing all the typographic aspects like text size, line height, spacing, all the stuff that makes a great reading experience – that’s definitely my favourite. That’s also what differentiates it from other apps: I started with the reading experience – the most important thing when you make a reading app.
+A: I started with the typography. Many other apps would start with wireframes and the main screenflow, but I started with the article view and deciding on typefaces. Balancing all the typographic aspects like text size, line height, spacing, all the stuff that makes a great reading experience – that’s definitely my favourite. That’s also what differentiates it from other apps: I started with the reading experience – the most important thing when you make a reading app.
 
 {% image http://v-for-wiki.com/content/devices-sizes@2x.png %}
 
 **Q: Where does this obsession with typography come from? Do you have a background in type design?**
 
-A: Yes, I do! I studied user interface design in Potsdam - pretty much Graphic Design, with illustration, type design and typography combined. I was lucky to have  obsessive type design teachers like Lucas de Groot. I think I took the class 5 times in my education. Type design is a pretty good foundation for graphic design in general. You learn about contrast, you learn about curve quality, balancing shapes. Type design is the best foundation for any kind of design. Text is everywhere – it is the basic material for most of the stuff we do every day as designers.
+A: Yes, I do! I studied user interface design in Potsdam – there was a lot of graphic design, with illustration, type design and typography combined. I was lucky to have  obsessive type design teachers like Lucas de Groot. I think I took the class 5 times in my education. Type design is a pretty good foundation for graphic design in general. You learn about contrast, you learn about curve quality, balancing shapes. Type design is the best foundation for any kind of design. Text is everywhere – it is the basic material for most of the stuff we do every day as designers.
 
 > It’s not possible to make a great user experience without obsessing about the details.
 
@@ -91,6 +91,6 @@ A: I’m pretty happy with what I do. (laughs) I have no idea. I think it wouldn
 --
 
 Go ahead and download Frank’s app [V for Wiki](http://v-for-wiki.com/) today – you won’t regret it!
-How did you like the interview? Should I do more of this in the future? Tell me [on Twitter](http://twitter.com/johannesippen/) - thank you in advance!
+How did you like the interview? Should I do more of this in the future? Tell me [on Twitter](http://twitter.com/johannesippen/) – thank you in advance!
 
 <small>Frank’s Photo by: [Norman Posselt](http://www.normanposselt.com/) License: CC BY 2.0</small>
