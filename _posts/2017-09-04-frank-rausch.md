@@ -93,4 +93,4 @@ A: I’m pretty happy with what I do. (laughs) I have no idea. I think it wouldn
 Go ahead and download Frank’s app [V for Wiki](http://v-for-wiki.com/) today – you won’t regret it!
 How did you like the interview? Should I do more of this in the future? Tell me [on Twitter](http://twitter.com/johannesippen/) – thank you in advance!
 
-<small>Frank’s Photo by: [Norman Posselt](http://www.normanposselt.com/) License: CC BY 2.0</small>
+<small>Frank’s Photo: &copy; [Norman Posselt](http://www.normanposselt.com/)</small>
