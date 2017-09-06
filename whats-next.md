@@ -12,10 +12,32 @@ permalink: /whats-next/
   }
   body {
     font-family: 'League Spartan';
-    font-size: 80px;
     background: #ccc;
+    font-size: 50px;
+    line-height: 100%;
     margin: 0;
     height: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  @media (min-width: 900px) and (min-height: 300px) {
+    body {
+      font-size: 55px;
+    }
+  }
+  @media (min-width: 1030px) and (min-height: 400px) {
+    body {
+      font-size: 60px;
+    }
+  }
+  @media (min-width: 1130px) and (min-height: 500px) {
+    body {
+      font-size: 70px;
+    }
+  }
+  @media (min-width: 1260px) and (min-height: 600px) {
+    body {
+      font-size: 80px;
+    }
   }
   .big-frame {
     display: flex;
@@ -38,7 +60,7 @@ permalink: /whats-next/
     margin-left: -10px;
   }
   .big-frame-answer {
-    display: inline-block;
+    display: block;
     color: #eee;
     text-decoration: none;
   }
@@ -49,11 +71,14 @@ permalink: /whats-next/
 </style>
 
 <div class="big-frame">
-  <h1><span>Lorem ipsum dolor, S it dolores Lorem. </span><b>Lrem’s Ipsi?</b></h1>
+  <h1><span>Lorem ipsum dolor, S it <br>dolores Lorem. </span><b>Lrem’s Ipsi?</b></h1>
   <div class="big-frame-answers">
-    <a class="big-frame-answer">A) Lore misp um!</a>
-    <a class="big-frame-answer">B) Lorem a doloresim!</a>
-    <a class="big-frame-answer">C) Dolor sit doloresit!</a>
+    <a class="big-frame-answer">
+    &#127312; Lore misp um!</a>
+    <a class="big-frame-answer">
+    &#127313; Lorem a doloresim!</a>
+    <a class="big-frame-answer">
+    &#127314; Dolor sit doloresit!</a>
   </div>
 </div>
 
