@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <style>
 .opener {
         font-size: 30px;

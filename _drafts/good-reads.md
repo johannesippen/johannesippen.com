@@ -1,7 +1,9 @@
 ---
 title: My Top 5 Books for UX Designers
-excerpt: If you’re an aspiring UX designer, there is no way around these 5 books. Number 3 will … just kidding, they will all blow your mind.
-image: /img/blog/books_don_norman.jpg
+date: 2018-05-15 20:33:07.635000000 Z
+excerpt: If you’re an aspiring UX designer, there is no way around these 5 books.
+  Number 3 will … just kidding, they will all blow your mind.
+image: "/img/blog/books_don_norman.jpg"
 layout: article
 ---
 

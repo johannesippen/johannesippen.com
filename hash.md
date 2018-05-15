@@ -1,8 +1,8 @@
 ---
 title: Hash
+permalink: "/hash/"
 layout: casestudy
 image: http://johannesippen.com/img/hash.jpg
-permalink: /hash/
 excerpt: Sometimes, a hastag says it all. Case study for a social media prototype.
 ---
 

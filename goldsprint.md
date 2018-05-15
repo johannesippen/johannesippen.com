@@ -1,11 +1,11 @@
 ---
 title: Goldsprint Berlin
+permalink: "/goldsprint/"
 layout: casestudy
-image: /img/goldsprint.jpg
-permalink: /goldsprint/
+image: "/img/goldsprint.jpg"
 excerpt: Creating a logo for one of the most most loved Berlin bike brands.
-
 ---
+
 <section class="block">
   <img src="/img/goldsprint/logo.jpg">
 </section>

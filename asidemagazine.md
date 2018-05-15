@@ -1,10 +1,12 @@
 ---
 title: Aside Magazine
+permalink: "/asidemag/"
 layout: casestudy
-image: /img/asidemag.jpg
-permalink: /asidemag/
-excerpt: The first full interactive magazine for the iPad made entirely with web standards - A case study.
+image: "/img/asidemag.jpg"
+excerpt: The first full interactive magazine for the iPad made entirely with web standards
+  - A case study.
 ---
+
 <section class="block">
   <img src="/img/asidemag/aside-browser-bkp.jpg">
 </section>

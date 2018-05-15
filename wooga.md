@@ -1,5 +1,6 @@
 ---
 title: Wooga
 layout: casestudy
-image: /img/wooga.jpg
+image: "/img/wooga.jpg"
 ---
+

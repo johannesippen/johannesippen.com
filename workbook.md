@@ -1,8 +1,8 @@
 ---
 title: Workbook
+permalink: "/workbook/"
 layout: simple
-image: /
-permalink: /workbook/
+image: "/"
 excerpt: Download all templates from my Workbook here.
 ---
 

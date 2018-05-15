@@ -1,9 +1,10 @@
 ---
 title: Graphical Cooking
+permalink: "/graphicalcooking/"
 layout: casestudy
-image: /img/graphicalcooking.jpg
-permalink: /graphicalcooking/
-excerpt: Graphical Cooking will make you a better and more creative cook. Visual recipes, redesigned from the ground up. A case study
+image: "/img/graphicalcooking.jpg"
+excerpt: Graphical Cooking will make you a better and more creative cook. Visual recipes,
+  redesigned from the ground up. A case study
 ---
 
 <section class="block">

@@ -1,9 +1,12 @@
 ---
 title: Improving my Productivity
+date: 2017-01-24 00:00:00 Z
 layout: article
-excerpt: I stopped using Wunderlist to become better in tracking and improving my workflow – here’s what I found.
-image: /img/blog/todo2016-johannesippen.png
+excerpt: I stopped using Wunderlist to become better in tracking and improving my
+  workflow – here’s what I found.
+image: "/img/blog/todo2016-johannesippen.png"
 ---
+
 # Improving my Productivity
 
 Fitness trackers, health trackers, and time trackers: the quantified self is a big thing right now. For almost every aspect of our work and lives, there is a way to use data to learn. But for simple, everyday task management?

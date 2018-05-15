@@ -1,16 +1,29 @@
-# Site settings
+---
 title: Johannes Ippen, Designer and Author
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: me@johannesippen.com
-description: > # This is the portfolio of designer and author Johannes Ippen from Berlin, 
-  Head of Product Marketing at Wooga and Founder at Thanksalot Design Collective. New blog article every Wednesday.
-baseurl: ""
-url: "http://johannesippen.com"
+description: 'Head of Product Marketing at Wooga and Founder at Thanksalot Design
+  Collective. New blog article every Wednesday.
+
+'
+baseurl: ''
+url: http://johannesippen.com
 twitter_username: presskind
-exclude: ["/_sources/", "README.md"]
-
-# Build settings
+exclude:
+- "/_sources/"
+- README.md
 markdown: kramdown
-permalink: /:year/:title/
-
+permalink: "/:year/:title/"
 kramdown:
-    smart_quotes: ["rdquo", "rsquo", "ldquo", "rdquo"]
+  smart_quotes:
+  - rdquo
+  - rsquo
+  - ldquo
+  - rdquo

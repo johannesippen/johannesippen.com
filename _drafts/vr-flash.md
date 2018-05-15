@@ -1,5 +1,6 @@
 ---
 title: The most simple approach to branding
+date: 2018-05-15 20:33:07.664000000 Z
 layout: article
 excerpt: 
 ---
