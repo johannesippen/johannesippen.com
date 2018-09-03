@@ -1,5 +1,6 @@
 ---
 title: Can a Product be too good?
+date: 2018-09-03 22:52:30.213000000 Z
 layout: article
 excerpt: 
 ---
