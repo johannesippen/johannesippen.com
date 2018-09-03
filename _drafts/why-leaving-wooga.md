@@ -1,5 +1,6 @@
 ---
 title: Why I’m leaving Wooga
+date: 2018-05-15 20:33:07.693000000 Z
 excerpt: 
 image: 
 layout: article

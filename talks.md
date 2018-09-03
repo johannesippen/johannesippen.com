@@ -1,8 +1,9 @@
 ---
 title: Talks & Keynotes by Johannes Ippen
+permalink: "/talks/"
 layout: default
-permalink: /talks/
 ---
+
 <style>
   .talks {
     background: #F1F1F1;

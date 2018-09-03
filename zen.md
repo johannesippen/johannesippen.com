@@ -1,8 +1,9 @@
 ---
 title: Zen Software
+permalink: "/zen/"
 layout: default
-permalink: /zen/
 ---
+
 # Zen
 
 When walking, walk.<br>

@@ -1,8 +1,9 @@
 ---
 title: About Johannes Ippen
-permalink: /about/
+permalink: "/about/"
 layout: default
 ---
+
 <style>
 	.about h1 {
 		font-weight: 400;

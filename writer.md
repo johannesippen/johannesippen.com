@@ -1,8 +1,9 @@
 ---
 title: Books & Articles by Johannes Ippen
+permalink: "/publications/"
 layout: default
-permalink: /publications/
 ---
+
 <style>
   .writer {
     background: #F1F1F1;

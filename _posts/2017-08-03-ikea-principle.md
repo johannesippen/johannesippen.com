@@ -1,7 +1,9 @@
 ---
 title: The IKEA Principle
-excerpt: The seven phases of guiding users through an online experience – inspired by the Swedish furniture giant.
-image: /img/blog/web-fatale-creative-morning.001.jpeg
+date: 2017-08-03 00:00:00 Z
+excerpt: The seven phases of guiding users through an online experience – inspired
+  by the Swedish furniture giant.
+image: "/img/blog/web-fatale-creative-morning.001.jpeg"
 layout: article
 ---
 

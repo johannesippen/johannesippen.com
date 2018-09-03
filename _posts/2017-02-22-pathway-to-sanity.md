@@ -1,8 +1,9 @@
 ---
 title: Pathway to Sanity
+date: 2017-02-22 00:00:00 Z
 layout: article
 excerpt: We spend too much time consuming content online. Time to fix this.
-image: /img/blog/sanity-cover.jpg
+image: "/img/blog/sanity-cover.jpg"
 ---
 
 # Pathway to Sanity

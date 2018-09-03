@@ -1,10 +1,11 @@
 ---
 title: Johannes Ippen – What’s Next?
+permalink: "/whats-next/"
 excerpt: After seven years, I’m leaving Wooga. Tell me what I should do next.
-image: /whats-next/whats-next-cover.jpg
+image: "/whats-next/whats-next-cover.jpg"
 layout: whatsnext
-permalink: /whats-next/
 ---
+
 <meta name="format-detection" content="telephone=no">
 <link rel="stylesheet" href="league-webfont/stylesheet.css" type="text/css" charset="utf-8">
 <style type="text/css">

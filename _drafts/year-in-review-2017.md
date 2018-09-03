@@ -1,7 +1,9 @@
 ---
 title: Here’s to 2017
-excerpt: A year full of Fun, Details, Populism, Design Talks. My personal year in review.
-image: /img/blog/review-2017.jpg
+date: 2018-05-15 20:33:07.722000000 Z
+excerpt: A year full of Fun, Details, Populism, Design Talks. My personal year in
+  review.
+image: "/img/blog/review-2017.jpg"
 layout: article
 ---
 

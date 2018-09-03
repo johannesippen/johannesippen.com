@@ -1,10 +1,12 @@
 ---
 title: Crosswalk
+permalink: "/crosswalk/"
 layout: casestudy
-image: /img/crosswalk.jpg
-permalink: /crosswalk/
-excerpt: Crosswalk is a location-based social network concept created in 2009 by Johannes Ippen
+image: "/img/crosswalk.jpg"
+excerpt: Crosswalk is a location-based social network concept created in 2009 by Johannes
+  Ippen
 ---
+
 <section class="block">
 	<img src="/img/crosswalk/crosswalk-header.jpg">
 </section>

@@ -1,10 +1,12 @@
 ---
 title: Diamond Dash Logo
+permalink: "/diamonddash/"
 layout: casestudy
-permalink: /diamonddash/
-image: /img/diamonddash.jpg
-excerpt: How I created the logo for a game that is played by over 200 million people worldwide.
+image: "/img/diamonddash.jpg"
+excerpt: How I created the logo for a game that is played by over 200 million people
+  worldwide.
 ---
+
 <section class="block">
   <img src="/img/diamonddash/diamonddash-header.jpg">
 </section>

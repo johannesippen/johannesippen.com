@@ -1,13 +1,16 @@
 ---
 title: Speaking at CreativeMornings Berlin
-excerpt: In November 2016, I had the honor to give a talk at CreativeMornings Berlin – here’s my summary.
+date: 2016-11-19 00:00:00 Z
+excerpt: In November 2016, I had the honor to give a talk at CreativeMornings Berlin
+  – here’s my summary.
 layout: article
-image: /img/blog/30949473052_66772e58b6_k.jpg
+image: "/img/blog/30949473052_66772e58b6_k.jpg"
 previous:
-  url: /2017/details/
+  url: "/2017/details/"
   title: Delightful Details
-  image: /img/blog/details_aldrin.jpg
+  image: "/img/blog/details_aldrin.jpg"
 ---
+
 # Speaking at CreativeMornings
 
 ![](/img/blog/30949473052_66772e58b6_k.jpg)

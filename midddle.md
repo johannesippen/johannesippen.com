@@ -1,10 +1,12 @@
 ---
 title: Midddle
+permalink: "/midddle/"
 layout: casestudy
-image: /img/midddle.jpg
-permalink: /midddle/
-excerpt: Midddle is an app concept that makes meeting your best friends super easy. A case study.
+image: "/img/midddle.jpg"
+excerpt: Midddle is an app concept that makes meeting your best friends super easy.
+  A case study.
 ---
+
 <section id="content" class="intro">
 	<div class="inner">
 		<img src="/img/midddle/icon.png" style="max-width: 200px">

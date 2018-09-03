@@ -1,8 +1,10 @@
 ---
-title: “I Forget to Make Small Moves” – Interview with Aaron Draplin
+title: "“I Forget to Make Small Moves” – Interview with Aaron Draplin"
+date: 2017-06-16 00:00:00 Z
 layout: article
-excerpt: Speaking with designer legend Aaron James Draplin of Draplin Design Co. about Dribbble, scaling up his company and building record shelves.
-image: /img/blog/aaron-draplin-cover.jpg
+excerpt: Speaking with designer legend Aaron James Draplin of Draplin Design Co. about
+  Dribbble, scaling up his company and building record shelves.
+image: "/img/blog/aaron-draplin-cover.jpg"
 ---
 
 ## «I Forget to Make Small Moves» – Interview with Aaron James Draplin

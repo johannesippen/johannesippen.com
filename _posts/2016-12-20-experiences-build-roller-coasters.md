@@ -1,8 +1,10 @@
 ---
 title: Experiences! or How to Build Roller Coasters
-"excerpt": "There’s over a billion websites live today. And the question: how can we stand out?"
+date: 2016-12-20 00:00:00 Z
+excerpt: 'There’s over a billion websites live today. And the question: how can we
+  stand out?'
 layout: article
-image: /img/blog/1-pU6bH1AQlBffjZWkQOuT-Q.png
+image: "/img/blog/1-pU6bH1AQlBffjZWkQOuT-Q.png"
 ---
 
 # Experiences! or: How to Build Roller Coasters
