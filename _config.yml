@@ -14,3 +14,5 @@ permalink: /:year/:title/
 
 kramdown:
     smart_quotes: ["rdquo", "rsquo", "ldquo", "rdquo"]
+
+gems: ['jekyll-image_resizer']
