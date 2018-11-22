@@ -3,6 +3,7 @@ title: Midddle
 permalink: "/midddle/"
 layout: casestudy
 image: "/img/midddle.jpg"
+oneline: Mobile App Concept
 excerpt: Midddle is an app concept that makes meeting your best friends super easy.
   A case study.
 ---

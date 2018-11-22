@@ -2,6 +2,7 @@
 title: Have I Lost My Mind
 layout: casestudy
 image: "/img/haveilostmymind.jpg"
+oneline: Album Cover Artwork
 excerpt: Album Cover and Landing Page for the Singer-Songwriter Duo
 ---
 

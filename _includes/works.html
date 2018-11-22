@@ -8,8 +8,11 @@
 		<img src="{{page.image}}">
 		{% endif %}
 		<span class="work-item-info">
-			<strong>{{ page.title }}</strong>
-			<span class="further">Case Study</span>
+			<span cass="work-item-text">
+				<strong>{{ page.title }}</strong>
+				<span class="further">{{ page.oneline }}</span>
+			</span>
+			<span class="work-item-action">Caase Study</span>
 		</span>
   </a>
 	{% else %}
@@ -18,8 +21,10 @@
 		<img src="{{page.image}}">
 		{% endif %}
 		<span class="work-item-info">
-			<strong>{{ page.title }}</strong>
-			<span class="soon">Coming Soon!</span>
+			<span cass="work-item-text">
+				<strong>{{ page.title }}</strong>
+				<span class="further">{{ page.oneline }}</span>
+			</span>
 		</span>
 	</a>
   {% endif %}

@@ -3,6 +3,7 @@ title: Diamond Dash Logo
 permalink: "/diamonddash/"
 layout: casestudy
 image: "/img/diamonddash.jpg"
+oneline: Mobile Game Brand
 excerpt: How I created the logo for a game that is played by over 200 million people
   worldwide.
 ---
