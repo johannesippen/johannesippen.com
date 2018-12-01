@@ -9,7 +9,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
@@ -19,11 +19,11 @@
   <meta name="twitter:creator" content="@johannesippen" />
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.excerpt }}" />
-  <meta name="twitter:image" content="http://johannesippen.com/{{ page.image }}" />
+  <meta name="twitter:image" content="https://johannesippen.com/{{ page.image }}" />
   <meta name="twitter:image:alt" content="Read more on Johannes’ blog" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:image" content="http://johannesippen.com/{{ page.image }}" />
+  <meta property="og:image" content="https://johannesippen.com/{{ page.image }}" />
   <meta property="og:description" content="{{ page.excerpt }}" />
 </head>
