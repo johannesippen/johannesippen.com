@@ -184,6 +184,8 @@ nav a sup {
 .work-item img {
   width: 100%;
   display: block;
+  transition: transform .3s ease-in-out;
+  transform-origin: 50% 100%;
 }
 .work-item a {
   display: block;
@@ -192,6 +194,10 @@ nav a sup {
   padding: 10px;
   line-height: 90%;
   color: #000;
+}
+.work-item a:hover img {
+  transform: scale(1.05);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.22);
 }
 .work-item-info {
   display: block;
@@ -212,6 +218,7 @@ nav a sup {
   background: #000;
   color: #fff;
   font-size: 12px;
+  line-height: 36px;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -227,14 +234,22 @@ nav a sup {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-@media (max-width: 399px) {
+@media (max-width: 550px) {
   .work-item-info {
+    padding-left: 0;
   }
   .work-item-info strong {
   }
   .work-item img {
   }
   .further {
+    font-size: 10px;
+  }
+  .work-item-action {
+    display: none;
+  }
+  .work-item a {
+    line-height: 100%;
   }
 }
 @media (min-width: 600px) {

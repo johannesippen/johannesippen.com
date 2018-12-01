@@ -1,6 +1,7 @@
 <section class="work">
-{% for page in site.pages %}
-{% if page.layout == 'casestudy' %}
+{% for page in site.data.work %}
+{% if page.image contains 'placehold.it' %}{% else %}
+{% if page.permalink != '' %}
 <div class="work-item">
 	{% if page.permalink %}
 	<a href="{{ page.permalink }}#content">
@@ -12,11 +13,11 @@
 				<strong>{{ page.title }}</strong>
 				<span class="further">{{ page.oneline }}</span>
 			</span>
-			<span class="work-item-action">Caase Study</span>
+			<span class="work-item-action">&rarr; Case Study</span>
 		</span>
   </a>
 	{% else %}
-	<a href="/#updates" class="coming-soon">
+	<a href="/#updates" class="">
 		{% if page.image %}
 		<img src="{{page.image}}">
 		{% endif %}
@@ -29,6 +30,7 @@
 	</a>
   {% endif %}
 </div>
+{% endif %}
 {% endif %}
 {% endfor %}
 <hr>
