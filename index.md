@@ -39,7 +39,7 @@ layout: default
 </style>
 <div class="opener">
         <div class="opener-text">Johannes Ippen is a designer and author from Berlin. His latest book, Amazon bestseller <em>Web&nbsp;Fatale</em>, is available now &ndash; you should really <a href="http://webfatale.com">check it out</a>!</div>
-        <div class="opener-image"><a href="http://webfatale.com"><img src="http://webfatale.com/images/cover.png"></a></div>
+        <div class="opener-image"><a href="http://webfatale.com"><img src="/img/cover.png"></a></div>
 </div>
 
 {% include works.html %}
