@@ -1,5 +1,6 @@
 ---
 title: Design Process Evolution
+date: 2018-12-01 00:41:38.680000000 Z
 excerpt: 
 image: "/img/blog/books_don_norman.jpg"
 layout: article
