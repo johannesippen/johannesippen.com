@@ -1,5 +1,5 @@
 ---
-title: "Design Process Battle: Which One is the Best?"
+title: 'Design Process Battle: Which One is the Best?'
 date: 2018-12-01 00:41:38.680000000 Z
 excerpt: Great products don’t get cranked out – they’re a result of structured work
 image: "/img/blog/design-process/design-process.jpg"
