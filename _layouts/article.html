@@ -119,7 +119,7 @@
     <section class="more-posts">
     <div class="blog-item">
       <a href="{{ page.previous.url }}">
-        <img src="{% if page.previous.image %}http://edge.zimage.io/?format=png&mode=crop&width=440&height=224&url=http://johannesippen.com{{ page.previous.image }}{% else %}/img/dots.png{% endif %}">
+        <img src="{% if page.previous.image %}{{ page.previous.image }}{% else %}/img/dots.png{% endif %}">
         <span class="blog-item-info">
           <strong class="blog-item-date">Read next:</strong>
           <strong>{{ page.previous.title }}</strong>
