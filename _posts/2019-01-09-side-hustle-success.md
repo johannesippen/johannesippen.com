@@ -1,7 +1,8 @@
 ---
 title: How to Find Time for Your Side Hustle
 date: 2019-01-09 00:41:38.680000000 Z
-excerpt: «Do you ever sleep?» How to start a successful side hustle without cutting work or family life.
+excerpt: "«Do you ever sleep?» How to start a successful side hustle without cutting
+  work or family life."
 image: "/img/blog/hash-side-hustle.jpg"
 layout: article
 ---
