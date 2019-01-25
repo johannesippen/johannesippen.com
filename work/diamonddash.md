@@ -65,7 +65,7 @@ excerpt: How I created the logo for a game that is played by over 200 million pe
           Release: March 2011
         </li>
         <li>
-          <a href="http://wooga.com/games/diamonddash/">Official Website</a>
+          <a href="https://www.wooga.com/games/diamond-dash/">Official Website</a>
         </li>
       </ul>
     </div>

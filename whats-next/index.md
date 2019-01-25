@@ -192,7 +192,7 @@ layout: whatsnext
     <a id="answer-link-survey" class="big-frame-answer answer-link-short" href="https://docs.google.com/forms/d/e/1FAIpQLSf-09xK9ZMllVFRsY3stnwcN4wMj-jcw-znjzN3XJvyy6grCQ/viewform?usp=sf_link" target="_blank">&#127314; I have a better idea …</a>
   </div>
   <div id="answers-country" class="big-frame-answers">
-    <a class="big-frame-answer" id="answer-link-phone" href="phone:00491743614567">&#127312; +49 174 361 45 67</a>
+    <a class="big-frame-answer" id="answer-link-phone" href="tel:00491743614567">&#127312; +49 174 361 45 67</a>
     <a class="big-frame-answer" id="answer-link-email" href="mailto:ich@johannesippen.com">&#127313; Email</a>
     <a class="big-frame-answer" id="answer-link-web" href="http://johannesippen.com">&#127314; Web</a>
   </div>

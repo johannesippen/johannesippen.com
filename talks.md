@@ -66,7 +66,7 @@ layout: default
       <img src="/img/talk-web-fatale.jpg">
       <h2>Web Fatale</h2>
       <p>Seductive Websites through design, fun and interaction</p>
-			<a href="/blog/creative-mornings/" class="btn">See Presentation</a>
+			<a href="/2016/creative-mornings-video/" class="btn">See Presentation</a>
     </div>
 		<div class="conference">Creative Mornings Berlin 2016</div>
 		<div class="conference">Beyond Tellerrand Berlin Opening 2016</div>
