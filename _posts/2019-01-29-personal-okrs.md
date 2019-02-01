@@ -1,7 +1,8 @@
 ---
 title: Personal OKRs
 date: 2019-01-29 00:00:00 Z
-excerpt: A brief chat with my buddy Max about personal goal setting, using OKRs and Bill&nbsp;&&nbsp;Ted.
+excerpt: A brief chat with my buddy Max about personal goal setting, using OKRs and
+  Bill&nbsp;&&nbsp;Ted.
 image: "/img/blog/bill-ted.jpg"
 layout: article
 ---
