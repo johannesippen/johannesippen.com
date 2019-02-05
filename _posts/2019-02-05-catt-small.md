@@ -1,7 +1,8 @@
 ---
 title: Being Successful in Making Games – Interview with Catt Small
 date: 2019-02-05 00:00:00 Z
-excerpt: I spoke with UX designer, game developer and TEDx speaker Catt Small about side projects, diversity in games and how to stay motivated.
+excerpt: I spoke with UX designer, game developer and TEDx speaker Catt Small about
+  side projects, diversity in games and how to stay motivated.
 image: "/img/blog/catt-small/catt-small.jpeg"
 layout: article
 ---
