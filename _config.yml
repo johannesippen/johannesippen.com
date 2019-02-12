@@ -18,7 +18,7 @@ description: 'Head of Product Marketing at Wooga and Founder at Thanksalot Desig
 '
 baseurl: ''
 url: http://johannesippen.com
-twitter_username: presskind
+twitter_username: johannesippen
 exclude:
 - "/_sources/"
 - README.md
@@ -30,5 +30,5 @@ kramdown:
   - rsquo
   - ldquo
   - rdquo
-gems:
+plugins:
 - jekyll-image_resizer
