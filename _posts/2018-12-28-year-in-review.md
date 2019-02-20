@@ -1,10 +1,11 @@
 ---
 title: 2018 - Year in Review
 date: 2018-12-28 00:41:38.680000000 Z
+categories:
+- Designer’s Life
 excerpt: 2018. A lot has happenend. Here is my review.
 image: "/img/blog/year-in-review-2018.jpg"
 layout: article
-category: Designer’s Life
 ---
 
 # This was 2018

@@ -1,11 +1,12 @@
 ---
 title: "«Details Make the Experience» – Interview with Frank Rausch"
 date: 2017-09-04 00:00:00 Z
+categories:
+- Interviews
 excerpt: The award-winning app designer & developer about reading experiences, inspiration
   and detail obsession.
 image: "/img/blog/frank-rausch-opener.jpg"
 layout: article
-category: Interviews
 ---
 
 <style>

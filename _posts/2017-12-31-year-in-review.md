@@ -1,11 +1,12 @@
 ---
 title: Here’s to 2017
 date: 2017-12-31 00:00:00 Z
+categories:
+- Designer’s Life
 excerpt: A year full of Fun, Details, Populism, Design Talks. My personal year in
   review.
 image: "/img/blog/review-2017.jpg"
 layout: article
-category: Designer’s Life
 ---
 
 <h1>Here’s to 2017</h1>

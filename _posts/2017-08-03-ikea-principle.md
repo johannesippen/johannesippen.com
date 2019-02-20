@@ -1,11 +1,12 @@
 ---
 title: The IKEA Principle
 date: 2017-08-03 00:00:00 Z
+categories:
+- Designer’s Life
 excerpt: The seven phases of guiding users through an online experience – inspired
   by the Swedish furniture giant.
 image: "/img/blog/web-fatale-creative-morning.001.jpeg"
 layout: article
-category: Designer’s Life
 ---
 
 # The IKEA Principle

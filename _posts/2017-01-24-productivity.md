@@ -1,11 +1,12 @@
 ---
 title: Improving my Productivity
 date: 2017-01-24 00:00:00 Z
+categories:
+- Productivity
 layout: article
 excerpt: I stopped using Wunderlist to become better in tracking and improving my
   workflow – here’s what I found.
 image: "/img/blog/todo2016-johannesippen.png"
-category: Productivity
 ---
 
 # Improving my Productivity

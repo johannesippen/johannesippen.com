@@ -1,6 +1,8 @@
 ---
 title: Speaking at CreativeMornings Berlin
 date: 2016-11-19 00:00:00 Z
+categories:
+- Designer’s Life
 excerpt: In November 2016, I had the honor to give a talk at CreativeMornings Berlin
   – here’s my summary.
 layout: article
@@ -9,7 +11,6 @@ previous:
   url: "/2017/details/"
   title: Delightful Details
   image: "/img/blog/details_aldrin.jpg"
-category: Designer’s Life
 ---
 
 # Speaking at CreativeMornings

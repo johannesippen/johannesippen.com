@@ -1,11 +1,12 @@
 ---
 title: Experiences! or How to Build Roller Coasters
 date: 2016-12-20 00:00:00 Z
+categories:
+- Human Experience Design
 excerpt: 'There’s over a billion websites live today. And the question: how can we
   stand out?'
 layout: article
 image: "/img/blog/1-pU6bH1AQlBffjZWkQOuT-Q.png"
-category: Human Experience Design
 ---
 
 # Experiences! or: How to Build Roller Coasters

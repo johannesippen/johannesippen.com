@@ -1,11 +1,12 @@
 ---
 title: Personal OKRs
 date: 2019-01-29 00:00:00 Z
+categories:
+- Productivity
 excerpt: A brief chat with my buddy Max about personal goal setting, using OKRs and
   Bill&nbsp;&&nbsp;Ted.
 image: "/img/blog/bill-ted.jpg"
 layout: article
-category: Productivity
 ---
 
 # Personal OKRs

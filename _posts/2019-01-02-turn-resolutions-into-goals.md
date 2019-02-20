@@ -1,10 +1,11 @@
 ---
 title: How to Turn Your New Year’s Resolutions Into Goals
 date: 2019-01-02 00:41:38.680000000 Z
+categories:
+- Productivity
 excerpt: 3 productivity hacks that help you stick to your new years resolutions
 image: "/img/blog/turn-resolutions-into-goals/header.jpg"
 layout: article
-category: Productivity
 ---
 
 # How to Turn Your New Year’s Resolutions Into Goals

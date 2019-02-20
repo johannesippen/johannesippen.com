@@ -1,11 +1,12 @@
 ---
 title: 'Design Process Battle: Which One is the Best?'
 date: 2018-12-11 00:41:38.680000000 Z
+categories:
+- Productivity
 excerpt: What does a good design process look like? And what can we learn from Apple
   and Google?
 image: "/img/blog/design-process/design-process.jpg"
 layout: article
-category: Productivity
 ---
 
 # Design Process Battle: Which One is the Best? 

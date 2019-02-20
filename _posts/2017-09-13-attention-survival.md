@@ -1,11 +1,12 @@
 ---
 title: Survival Guide for the Attention Economy
 date: 2017-09-13 00:00:00 Z
+categories:
+- Designer’s Life
 layout: article
 excerpt: Election in Germany is coming up, time to give a little advice on how to
   avoid being manipulated by players you don’t like.
 image: "/img/blog/kleiner-fuenf-attention.png"
-category: Designer’s Life
 ---
 
 # Survival Guide for the Attention&nbsp;Economy

@@ -1,11 +1,12 @@
 ---
 title: Demystifying Editorial Design
 date: 2017-02-15 00:00:00 Z
+categories:
+- Designer’s Life
 layout: article
 excerpt: Besides VR, AR and AI, the web is still 90% about text. How do I get people
   to read?
 image: "/img/blog/editorial_opener.jpg"
-category: Designer’s Life
 ---
 
 # Demystifying Editorial Design
