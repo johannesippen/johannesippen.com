@@ -5,6 +5,7 @@ layout: article
 excerpt: Speaking with designer legend Aaron James Draplin of Draplin Design Co. about
   Dribbble, scaling up his company and building record shelves.
 image: "/img/blog/aaron-draplin-cover.jpg"
+category: Interviews
 ---
 
 ## «I Forget to Make Small Moves» – Interview with Aaron James Draplin

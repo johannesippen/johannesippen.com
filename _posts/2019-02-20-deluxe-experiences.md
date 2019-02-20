@@ -4,6 +4,7 @@ date: 2019-02-20 00:00:00 Z
 excerpt: How to take full control over an experience and its influence.
 image: "/img/blog/deluxe-experiences.jpg"
 layout: article
+category: Human Experience Design
 ---
 
 # Deluxe Experiences

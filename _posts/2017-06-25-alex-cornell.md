@@ -5,6 +5,7 @@ layout: article
 image: "/img/blog/alex_cornell_header.jpg"
 excerpt: Designer & filmmaker Alex Cornell talks about how he almost ended up on “Shark
   Tank” and why he gave up his design studio to join Facebook.
+category: Interviews
 ---
 
 # Move your Boundaries – Interview with Alex Cornell

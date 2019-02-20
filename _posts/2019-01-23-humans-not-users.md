@@ -4,6 +4,7 @@ date: 2019-01-23 00:00:00 Z
 excerpt: There’s a fundamental problem with UX – here’s how to fix it.
 image: "/img/blog/humans-not-users/header.jpg"
 layout: article
+category: Human Experience Design
 ---
 
 # Humans, not Users

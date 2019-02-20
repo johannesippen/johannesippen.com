@@ -5,6 +5,7 @@ excerpt: The award-winning app designer & developer about reading experiences, i
   and detail obsession.
 image: "/img/blog/frank-rausch-opener.jpg"
 layout: article
+category: Interviews
 ---
 
 <style>

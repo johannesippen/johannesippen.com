@@ -9,6 +9,7 @@ previous:
   url: "/2017/details/"
   title: Delightful Details
   image: "/img/blog/details_aldrin.jpg"
+category: Designer’s Life
 ---
 
 # Speaking at CreativeMornings

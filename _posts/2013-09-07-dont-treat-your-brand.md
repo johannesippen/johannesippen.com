@@ -6,5 +6,6 @@ excerpt: Yahoo just changed their logo, and I like it. What I don’t like is th
 medium: Medium
 image: "/img/blog/panic.png"
 weblink: https://medium.com/@presskind/dont-treat-your-brand-like-a-pet-project-e096179dc0c7
+category: Designer’s Life
 ---
 

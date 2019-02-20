@@ -5,6 +5,7 @@ layout: article
 excerpt: Besides VR, AR and AI, the web is still 90% about text. How do I get people
   to read?
 image: "/img/blog/editorial_opener.jpg"
+category: Designer’s Life
 ---
 
 # Demystifying Editorial Design

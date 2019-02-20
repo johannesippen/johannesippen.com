@@ -4,6 +4,7 @@ date: 2017-05-24 00:00:00 Z
 layout: article
 excerpt: 7 key lessons from the filmmaker legend’s “Manifesto of not giving a fuck”
 image: "/img/blog/larry_clark.jpg"
+category: Designer’s Life
 ---
 
 <style>

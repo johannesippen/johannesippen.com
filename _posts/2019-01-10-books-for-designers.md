@@ -5,6 +5,7 @@ excerpt: If you’re an aspiring UX designer, there is no way around these 5 boo
   Number 3 will … just kidding, they will all blow your mind.
 image: "/img/blog/books-for-designers/book-make-time.jpg"
 layout: article
+category: Designer’s Life
 ---
 
 # Books for Designers, Vol. II

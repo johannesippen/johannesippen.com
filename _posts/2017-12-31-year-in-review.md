@@ -5,6 +5,7 @@ excerpt: A year full of Fun, Details, Populism, Design Talks. My personal year i
   review.
 image: "/img/blog/review-2017.jpg"
 layout: article
+category: Designer’s Life
 ---
 
 <h1>Here’s to 2017</h1>

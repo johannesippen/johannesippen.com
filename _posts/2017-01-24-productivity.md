@@ -5,6 +5,7 @@ layout: article
 excerpt: I stopped using Wunderlist to become better in tracking and improving my
   workflow – here’s what I found.
 image: "/img/blog/todo2016-johannesippen.png"
+category: Productivity
 ---
 
 # Improving my Productivity

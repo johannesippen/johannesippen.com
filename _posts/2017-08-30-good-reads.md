@@ -5,6 +5,7 @@ excerpt: If you’re an aspiring UX designer, there is no way around these 5 boo
   Number 3 will … just kidding, they will all blow your mind.
 image: "/img/blog/books_don_norman.jpg"
 layout: article
+category: Designer’s Life
 ---
 
 # Book Recommendation for UX Designers

@@ -4,6 +4,7 @@ date: 2018-12-18 00:36:38.680000000 Z
 excerpt: An intro to Design Sprints – from getting started to getting successful.
 image: "/img/blog/design-sprint/header.jpg"
 layout: article
+category: Human Experience Design
 ---
 
 # Design Sprint 101

@@ -5,6 +5,7 @@ excerpt: A brief chat with my buddy Max about personal goal setting, using OKRs 
   Bill&nbsp;&&nbsp;Ted.
 image: "/img/blog/bill-ted.jpg"
 layout: article
+category: Productivity
 ---
 
 # Personal OKRs

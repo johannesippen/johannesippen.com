@@ -5,6 +5,7 @@ excerpt: I spoke with UX designer, game developer and TEDx speaker Catt Small ab
   side projects, diversity in games and how to stay motivated.
 image: "/img/blog/catt-small/catt-small.jpeg"
 layout: article
+category: Interviews
 ---
 
 # Catt Small on Being Successful in Making Games

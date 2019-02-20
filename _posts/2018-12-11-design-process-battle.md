@@ -5,6 +5,7 @@ excerpt: What does a good design process look like? And what can we learn from A
   and Google?
 image: "/img/blog/design-process/design-process.jpg"
 layout: article
+category: Productivity
 ---
 
 # Design Process Battle: Which One is the Best? 

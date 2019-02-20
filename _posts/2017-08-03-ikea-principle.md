@@ -5,6 +5,7 @@ excerpt: The seven phases of guiding users through an online experience – insp
   by the Swedish furniture giant.
 image: "/img/blog/web-fatale-creative-morning.001.jpeg"
 layout: article
+category: Designer’s Life
 ---
 
 # The IKEA Principle

@@ -5,6 +5,7 @@ excerpt: "«Do you ever sleep?» How to start a successful side hustle without c
   work or family life."
 image: "/img/blog/hash-side-hustle.jpg"
 layout: article
+category: Productivity
 ---
 
 # How to Find Time for Your Side&nbsp;Hustle

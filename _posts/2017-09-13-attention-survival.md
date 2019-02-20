@@ -5,6 +5,7 @@ layout: article
 excerpt: Election in Germany is coming up, time to give a little advice on how to
   avoid being manipulated by players you don’t like.
 image: "/img/blog/kleiner-fuenf-attention.png"
+category: Designer’s Life
 ---
 
 # Survival Guide for the Attention&nbsp;Economy
