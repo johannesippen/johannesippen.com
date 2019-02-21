@@ -2,10 +2,11 @@
 ---
 
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700|Poppins:500,700);
 
 body {
   margin: 0;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   line-height: 160%;
   text-align: center;
@@ -444,7 +445,7 @@ footer a:hover path {
 .blog-item-info span {
   display: block;
   font-weight: normal;
-  font-family: Georgia;
+  font-family: 'Libre Baskerville', Georgia;
   margin-top: 15px;
 }
 .blog-item-info strong.blog-item-date {

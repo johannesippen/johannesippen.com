@@ -31,6 +31,8 @@ layout: default
   <hr>
 </section>
 
+<div class="blog__wrapper">
+
 <h2>Human Experience Design</h2>
 <section class="blog category-human-experience-design">
 {% for post in site.categories['Human Experience Design'] %}
@@ -107,6 +109,19 @@ layout: default
 <hr>
 </section>
 
+</div>
+
+<style>
+  .blog__wrapper {
+    background: #f1f1f1;
+    padding-top: 1px;
+  }
+  .blog__wrapper h2 {
+    border-bottom: 1px solid;
+    text-align: left;
+    margin: 1em 1em 0em;
+  }
+</style>
 
 <style>
   .books {
