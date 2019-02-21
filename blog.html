@@ -30,8 +30,10 @@ layout: default
   </div>
   <hr>
 </section>
-<section class="blog">
-{% for post in site.posts %}
+
+<h2>Human Experience Design</h2>
+<section class="blog category-human-experience-design">
+{% for post in site.categories['Human Experience Design'] %}
 <div class="blog-item">
   <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
     
@@ -47,6 +49,65 @@ layout: default
 {% endfor %}
 <hr>
 </section>
+
+<h2>Productivity</h2>
+<section class="blog category-human-experience-design">
+{% for post in site.categories['Productivity'] %}
+<div class="blog-item">
+  <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
+    
+    <img src="{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}">
+    <span class="blog-item-info">
+      <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>
+      <strong>{{ post.title }}</strong>
+      <span>{{ post.excerpt }}</span>
+      <span class="blog-item-info-mobile-cta">Read More &rarr;</span>
+    </span>
+  </a>
+</div>
+{% endfor %}
+<hr>
+</section>
+
+<h2>Interviews</h2>
+<section class="blog category-human-experience-design">
+{% for post in site.categories['Interviews'] %}
+<div class="blog-item">
+  <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
+    
+    <img src="{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}">
+    <span class="blog-item-info">
+      <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>
+      <strong>{{ post.title }}</strong>
+      <span>{{ post.excerpt }}</span>
+      <span class="blog-item-info-mobile-cta">Read More &rarr;</span>
+    </span>
+  </a>
+</div>
+{% endfor %}
+<hr>
+</section>
+
+<h2>Designer’s Life</h2>
+<section class="blog category-human-experience-design">
+{% for post in site.categories['Designer’s Life'] %}
+<div class="blog-item">
+  <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
+    
+    <img src="{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}">
+    <span class="blog-item-info">
+      <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>
+      <strong>{{ post.title }}</strong>
+      <span>{{ post.excerpt }}</span>
+      <span class="blog-item-info-mobile-cta">Read More &rarr;</span>
+    </span>
+  </a>
+</div>
+{% endfor %}
+<hr>
+</section>
+
+
 <style>
   .books {
     background: #D61D7D;
