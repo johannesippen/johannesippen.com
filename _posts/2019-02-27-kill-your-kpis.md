@@ -3,7 +3,8 @@ title: Kill Your KPIs
 date: 2019-02-27 00:00:00 Z
 categories:
 - Human Experience Design
-excerpt: Don’t fall for the data porn trap. Here is how designing for data can negatively impact your product.
+excerpt: Don’t fall for the data porn trap. Here is how designing for data can negatively
+  impact your product.
 image: "/img/blog/kpi.jpg"
 layout: article
 ---
