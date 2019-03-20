@@ -3,7 +3,8 @@ title: The 5 Stages of Product Designers
 date: 2019-03-06 00:00:00 Z
 categories:
 - Human Experience Design
-excerpt: From Pixelpusher to Human Experience Design – What every designer goes through in their career.
+excerpt: From Pixelpusher to Human Experience Design – What every designer goes through
+  in their career.
 image: "/img/blog/five-stages.jpg"
 layout: article
 ---
