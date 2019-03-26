@@ -3,7 +3,8 @@ title: Access over Ownership
 date: 2019-03-20 00:00:00 Z
 categories:
 - Designer’s Life
-excerpt: Design has changed, as have the tools. Here is a list of easy-to-access design apps and websites that can help you create professional output.
+excerpt: Design has changed, as have the tools. Here is a list of easy-to-access design
+  apps and websites that can help you create professional output.
 image: "/img/blog/access-over-ownership.png"
 layout: article
 ---
