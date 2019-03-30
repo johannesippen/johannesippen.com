@@ -3,7 +3,8 @@ title: Are Designers Important?
 date: 2019-03-26 00:00:00 Z
 categories:
 - Designer’s Life
-excerpt: What skills does a designer need to have in 2019? What is really important? How has the discipline changed? 
+excerpt: What skills does a designer need to have in 2019? What is really important?
+  How has the discipline changed?
 image: "/img/blog/designers2019.jpg"
 layout: article
 ---
