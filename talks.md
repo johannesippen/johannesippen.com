@@ -57,10 +57,44 @@ layout: default
 	  margin-bottom: none;
 	  border: 0;
 	}
+	.about h1 {
+		font-weight: 400;
+		text-align: left;
+		margin-left: 15px;
+		line-height: 140%;
+	}
+	.inner li {
+		text-align: left;
+	}
+	.about img {
+		max-height: 90vh;
+	}
 </style>
+{% image /img/blog/30949473052_66772e58b6_k.jpg %}
+<section class="about">
+	<div class="inner">
+		<h1>Johannes Ippen is an experienced and passionate conference speaker, covering design topics from infographics to HX design.</h1>
+		<p>He has spoken at dozens of national and international events, including <a href="https://creativemornings.com/cities/ber">Creative Mornings</a>, <a href="https://beyondtellerrand.com/">Beyond Tellerrand Warmup</a> and <a href="https://dibiconference.com/">dibi Newcastle</a>. You can request Jo to speak at your event:</p>
+		<p>
+			<a class="btn" href="mailto:ich@johannesippen.com">🗓 Request Johannes Ippen as Speaker</a>
+		</p>
+		<p>
+			<a class="btn" href="https://www.dropbox.com/sh/zgtaa6n4vkx39vm/AAA7e9nKqfix35qKr4kxo3hMa?dl=0">📦 Download Bio & Headshot</a>
+		</p>
+	</div>
+</section>
 <section class="talks">
 	<h1>Talks &amp; Conferences</h1>
   <div class="inner">
+  	<div class="talk">
+      <img src="/img/talk-infographic.jpeg">
+      <h2>Print 2 Web – Interactive Infographics</h2>
+      <p>A brief summary of how infographics can turn information into experiences.</p>
+    </div>
+		<div class="conference">dpa Infografik Event 2019 (extended version)</div>
+		<div class="conference">Beyond Tellerrand Berlin Opening 2018</div>
+		<div class="conference">dpa client conference 2018</div>
+		<br>
     {% youtube voXUr_TiZkg %}
     <div class="talk">
       <img src="/img/talk-web-fatale.jpg">
@@ -68,9 +102,10 @@ layout: default
       <p>Seductive Websites through design, fun and interaction</p>
 			<a href="/2016/creative-mornings-video/" class="btn">See Presentation</a>
     </div>
+    	<div class="conference">Product Crunch 2017</div>
+    	<div class="conference">dibi Newcastle 2017</div>
 		<div class="conference">Creative Mornings Berlin 2016</div>
 		<div class="conference">Beyond Tellerrand Berlin Opening 2016</div>
-		<div class="conference">Product Crunch 2017</div>
     <div class="talk">
       <img src="/img/talk-passion-projects.jpg">
       <h2>Passion Projects</h2>
@@ -110,9 +145,5 @@ layout: default
 		<div class="conference">Xinnovations 2011</div>
 		<div class="conference">Fraunhofer Forum 2011</div>
 		<div class="conference">Mobile Tech Con 2011</div>
-  </div>
-	<div class="inner hireme">
-		<h2>Hire me as a Speaker!</h2>
-		Want me to speak at your conference or event? Write me: <a href="mailto:ich@johannesippen.com">ich@johannesippen.com</a>
 	</div>
 </section>
