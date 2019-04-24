@@ -3,7 +3,8 @@ title: Manage your day with Todo Tiles
 date: 2019-04-17 00:00:00 Z
 categories:
 - Productivity
-excerpt: Here is a simple and effective method to get an overview over your daily tasks.
+excerpt: Here is a simple and effective method to get an overview over your daily
+  tasks.
 image: "/img/blog/todo-tiles.jpg"
 layout: article
 ---
