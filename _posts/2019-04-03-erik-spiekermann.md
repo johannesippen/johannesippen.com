@@ -3,7 +3,9 @@ title: Interview with Erik Spiekermann, Part I
 date: 2019-04-03 00:00:00 Z
 categories:
 - Interviews
-excerpt: «Make sure you have a good idea that can survive, even badly designed» – Design legend Erik Spiekermann talks about travel, design challenges and not getting killed over beer.
+excerpt: "«Make sure you have a good idea that can survive, even badly designed» –
+  Design legend Erik Spiekermann talks about travel, design challenges and not getting
+  killed over beer."
 image: "/img/blog/erik-spiekermann/erik-spiekermann-header.JPG"
 layout: article
 ---

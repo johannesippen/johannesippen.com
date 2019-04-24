@@ -3,7 +3,9 @@ title: Interview with Erik Spiekermann, Part II
 date: 2019-04-10 00:00:00 Z
 categories:
 - Interviews
-excerpt: «We want to see how we can use the old machines and bring them into the present» – in part 2 of our interview, Erik speaks about creative limitations, city planning and poaching eggs.
+excerpt: "«We want to see how we can use the old machines and bring them into the
+  present» – in part 2 of our interview, Erik speaks about creative limitations, city
+  planning and poaching eggs."
 image: "/img/blog/erik-spiekermann/erik-spiekermann-johannes-ippen-header.JPG"
 layout: article
 ---
