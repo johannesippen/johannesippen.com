@@ -3,7 +3,8 @@ title: What Mike Monteiro Taught me About Feedback
 date: 2019-05-08 00:00:00 Z
 categories:
 - Designer’s Life
-excerpt: Working with long-form feedback doesn’t have to be painful – here’s a lesson from the designer who calls his boss an asshole.
+excerpt: Working with long-form feedback doesn’t have to be painful – here’s a lesson
+  from the designer who calls his boss an asshole.
 image: "/img/blog/feedback.jpg"
 layout: article
 ---

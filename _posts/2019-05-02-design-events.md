@@ -3,7 +3,8 @@ title: The 5 Best Design Events
 date: 2019-05-02 00:00:00 Z
 categories:
 - Designer’s Life
-excerpt: Photo by Norman Posselt. Dusty meeting rooms, smelly carpets, cheap coffee – conferences are lame. Here are 5 events that definitely are not!
+excerpt: Photo by Norman Posselt. Dusty meeting rooms, smelly carpets, cheap coffee
+  – conferences are lame. Here are 5 events that definitely are not!
 image: "/img/blog/design-conferences.jpg"
 layout: article
 ---
