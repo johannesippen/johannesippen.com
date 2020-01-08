@@ -4,42 +4,39 @@ layout: default
 
 <style>
 .opener {
-        font-size: 30px;
-        line-height: 40px;
-        max-width: 900px;
-        text-align: left;
-        margin: 50px auto 0;
-        padding: 0 15px;
-        display: flex;
-}
-.opener em {
-        text-transform: uppercase;
-        font-size: 90%;
-        font-style: normal;
-}
-.opener-text a {
-        color: #D61D7D;
-        text-decoration: none;
-        border-bottom: 1px solid;
+        background-image: url(/img/blog/30949473052_66772e58b6_k.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 60vh;
+        margin-bottom: 3rem;
 }
 .opener-text {
-        margin-top: 50px;
+        width: 33vw;
+        color: #fff;
+        text-align: left;
+        position: absolute;
+        right: 55%;
+        font-size: 2rem;
+        height: 60vh;
+        display: flex;
+        align-items: center;
 }
-.opener-image img {
-        max-width: 400px;
-}
-@media (max-width: 900px) {
-        .opener-image {
-                display: none;
-        }
+@media (max-width: 600px) {
         .opener-text {
-                margin: 50px 20px;
+                width: 90%;
+                margin: 0 auto;
+                color: #fff;
+                text-align: center;
+                position: static;
+                font-size: 1.5rem;
+                height: auto;
+                padding-top: 3rem;
         }
 }
 </style>
 <div class="opener">
-        <div class="opener-text">Johannes Ippen is a designer and author from Berlin. His latest book, Amazon bestseller <em>Web&nbsp;Fatale</em>, is available now &ndash; you should really <a href="http://webfatale.com">check it out</a>!</div>
-        <div class="opener-image"><a href="http://webfatale.com"><img src="/img/cover.png"></a></div>
+        <div class="opener-text">Johannes Ippen is a designer, author and TEDx-Speaker from Berlin. <br>He is the co-founder of the Human Deluxe Design Studio.</div>
 </div>
 
 {% include works.html %}
