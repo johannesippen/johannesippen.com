@@ -32,3 +32,4 @@ kramdown:
   - rdquo
 plugins:
 - jekyll-image_resizer
+- jekyll-feed
