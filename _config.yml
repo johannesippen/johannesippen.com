@@ -17,7 +17,7 @@ description: 'Head of Product Marketing at Wooga and Founder at Thanksalot Desig
 
 '
 baseurl: ''
-url: //johannesippen.com
+url: "//johannesippen.com"
 twitter_username: johannesippen
 exclude:
 - "/_sources/"
