@@ -1,6 +1,6 @@
 ---
 title: Mobile Design Trends in 2020
-date: 2019-05-22 00:00:00 Z
+date: 2020-07-20 00:00:00 Z
 categories:
 - Human Experience Design
 excerpt: UX Design is ever evolving. In today’s global and restless society, technical and social changes trickle down into product design very quick. Almost daily.
@@ -26,7 +26,7 @@ Instead, let’s look into some different trends that focus on two things: easy 
 
 Illustrations in UI design and branding have worked their way up from being associated with kids apps to becoming a staple in business brands and tech startups. Dropbox, Microsoft, IBM – you can find them almost everywhere.
 
-One thing most of these flat illustrations have in common: They serve a rather decorative purpose. This is, until you look at Unwind:
+One thing most of these flat illustrations have in common: They serve a rather decorative purpose. This is, until you look at [Unwind](https://theunwindapp.com/):
 
 ![](/img/blog/design-trends-unwind.png)
 
@@ -57,3 +57,9 @@ Pushing, Pulling Spinning – there is a lot of opportunites still to explore in
 **Part 1:** Juicy Illustrations & Meaningful Gestures
 
 **Part 2:** [Product Heroes & Neomorphism. Read now &rarr;](https://toolbox.humandeluxe.com/)
+
+<style>
+  iframe {
+    margin-left: 15px!important;
+  }
+</style>
