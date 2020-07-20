@@ -12,7 +12,7 @@ layout: article
 
 {% image /img/blog/design-trends-2020.jpg %}
 
-*This article first appeared in the print issue of [t3n #60](https://t3n.de/store/order/t3nmagazinnr60print) in German language. Read part 2 of this article on the [Human Deluxe Toolbox](https://toolbox.humandeluxe.com/)*
+*This article first appeared in the print issue of [t3n #60](https://t3n.de/store/order/t3nmagazinnr60print) in German language. Read part 2 of this article on the [Human Deluxe Toolbox](https://toolbox.humandeluxe.com/2020/07/20/design-trends)*
 
 UX Design is ever evolving. In today’s global and restless society, technical and social changes trickle down into product design very quick. Almost daily.
 
@@ -56,7 +56,7 @@ Pushing, Pulling Spinning – there is a lot of opportunites still to explore in
 
 **Part 1:** Juicy Illustrations & Meaningful Gestures
 
-**Part 2:** [Product Heroes & Neomorphism. Read now &rarr;](https://toolbox.humandeluxe.com/)
+**Part 2:** [Product Heroes & Neomorphism. Read now &rarr;](https://toolbox.humandeluxe.com/2020/07/20/design-trends)
 
 <style>
   iframe {
