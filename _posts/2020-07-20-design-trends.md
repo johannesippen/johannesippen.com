@@ -3,7 +3,8 @@ title: Mobile Design Trends in 2020
 date: 2020-07-20 00:00:00 Z
 categories:
 - Human Experience Design
-excerpt: UX Design is ever evolving. In today’s global and restless society, technical and social changes trickle down into product design very quick. Almost daily.
+excerpt: UX Design is ever evolving. In today’s global and restless society, technical
+  and social changes trickle down into product design very quick. Almost daily.
 image: "/img/blog/design-trends-2020.jpg"
 layout: article
 ---
