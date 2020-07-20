@@ -90,7 +90,7 @@ A: You are looking at what is popular and what people are doing. If you like thi
 
 I like unearthing things. If I saw something went by that would wow me, I would recreate that thing. It could have been something retro. I like to play with those things, I like to put a little twist on them so it feels new now. That doesn't need to go out of style, it doesn't have to be only for the 70s, it could be now. Thick lines or whatever you'd like to call it.
 
-<iframe src="http://player.vimeo.com/video/204925838?title=0&amp;byline=0&amp;portrait=0&amp;color=ff2200" width="100%" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="video"></iframe>
+<iframe src="//player.vimeo.com/video/204925838?title=0&amp;byline=0&amp;portrait=0&amp;color=ff2200" width="100%" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="video"></iframe>
 <style>
   .video {
     width: 100%;
