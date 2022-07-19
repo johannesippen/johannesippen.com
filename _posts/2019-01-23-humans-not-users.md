@@ -6,6 +6,7 @@ categories:
 excerpt: There’s a fundamental problem with UX – here’s how to fix it.
 image: "/img/blog/humans-not-users/header.jpg"
 layout: article
+featured: true
 ---
 
 # Humans, not Users

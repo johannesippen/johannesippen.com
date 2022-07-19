@@ -31,10 +31,23 @@ layout: default
   <hr>
 </section>
 <section class="blog">
+{% assign featured_posts = site.posts | where: 'featured', true %}
+{% for post in featured_posts %}
+<div class="blog-item">
+  <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
+    <img src="{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}">
+    <span class="blog-item-info">
+      <strong>{{ post.title }}</strong>
+      <span>{{ post.excerpt }}</span>
+      <span class="blog-item-info-mobile-cta">Read More &rarr;</span>
+    </span>
+  </a>
+</div>
+{% endfor %}
+<hr>
 {% for post in site.posts %}
 <div class="blog-item">
   <a href="{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}">
-    
     <img src="{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}">
     <span class="blog-item-info">
       <strong class="blog-item-date">{% if post.medium %}{{ post.date | date_to_string }} on {{ post.medium }}{% else %}{{ post.date | date_to_string }}{% endif %}</strong>

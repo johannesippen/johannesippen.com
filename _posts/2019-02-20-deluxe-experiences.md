@@ -6,6 +6,7 @@ categories:
 excerpt: How to take full control over an experience and its influence.
 image: "/img/blog/deluxe-experiences.jpg"
 layout: article
+featured: true
 ---
 
 # Deluxe Experiences
