@@ -1,3 +1,27 @@
+- title: FarmVille 3
+  image: "/img/farmville3-website.jpg"
+  oneline: Website for Mobile Game
+
+- title: Makers of Tomorrow
+  image: "/img/makersoftomorrow-concept.png"
+  oneline: Brand Design for Government
+
+- title: Heimkapital
+  image: "/img/heimkapital-logo@2x.jpg"
+  oneline: Brand Design for Finance Startup
+
+- title: Idle Coffee Corp.
+  image: "/img/idle-coffee-corp-brand.jpeg"
+  oneline: Logo Design for Mobile Game
+
+- title: Social First
+  image: "/img/socialfirst-sketches.jpg"
+  oneline: Brand Design for Game Studio
+
+- title: Interval
+  image: "/img/interval-browser-home.jpg"
+  oneline: Website for Political Advisory
+
 - title: Diamond Dash Logo
   permalink: "/diamonddash/"
   image: "/img/diamonddash.jpg"
@@ -17,7 +41,7 @@
   oneline: Social Network Concept
 
 - title: The Gentle Jaunt
-  image: http://placehold.it/800x600/
+  image: "/img/the-gentle-jaunt-intro.jpg"
   oneline: Outdoor Bike Brand Website
 
 - title: Human Deluxe
@@ -90,4 +114,4 @@
   
 - title: Wooga
   oneline: Mobile Games Startup Brand
-  image: "/img/wooga.jpg"
+  image: "/img/wooga-website-players.png"
