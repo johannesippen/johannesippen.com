@@ -74,7 +74,7 @@ layout: default
 <section class="about">
 	<div class="inner">
 		<h1>Johannes Ippen is an experienced and passionate conference speaker, covering design topics from infographics to HX design.</h1>
-		<p>He has spoken at dozens of national and international events, including <a href="https://creativemornings.com/cities/ber">Creative Mornings</a>, <a href="https://beyondtellerrand.com/">Beyond Tellerrand Warmup</a> and <a href="https://dibiconference.com/">dibi Newcastle</a>. You can request Jo to speak at your event:</p>
+		<p>He has spoken at dozens of national and international events, including TEDx Youngstown, <a href="https://creativemornings.com/cities/ber">Creative Mornings</a>, <a href="https://beyondtellerrand.com/">Beyond Tellerrand Warmup</a> and <a href="https://dibiconference.com/">dibi Newcastle</a>. You can request Jo to speak at your event:</p>
 		<p>
 			<a class="btn" href="mailto:ich@johannesippen.com">🗓 Request Johannes Ippen as Speaker</a>
 		</p>
@@ -86,6 +86,13 @@ layout: default
 <section class="talks">
 	<h1>Talks &amp; Conferences</h1>
   <div class="inner">
+  	{% youtube dpXBV3COwJM %}
+  	<div class="conference">
+      <h2>Humans, not Users: Why UX is a Problem</h2>
+      <p style="margin-left: 0;">Great User Experience Design has become the driving force behind successful products – at the expense of happiness, mental health and purpose. It is time for UX design to step up and evolve.</p>
+    </div>
+		<div class="conference">TEDx Youngstown 2019</div>
+		<br>
   	<div class="talk">
       <img src="/img/talk-infographic.jpeg">
       <h2>Print 2 Web – Interactive Infographics</h2>
