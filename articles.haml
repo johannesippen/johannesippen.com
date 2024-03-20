@@ -1,0 +1,14 @@
+---
+title: Articles
+permalink: /articles/
+layout: precise
+---
+
+{% for post in site.posts %}
+%a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+	%img{ src: '{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}' }
+	.block-text
+		.tag Article
+		.title {{ post.title }}
+		.desc {{ post.excerpt }}
+{% endfor %}
