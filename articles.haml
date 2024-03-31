@@ -4,11 +4,37 @@ permalink: /articles/
 layout: precise
 ---
 
-{% for post in site.posts %}
-%a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
-	%img{ src: '{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}' }
-	.block-text
-		.tag Article
-		.title {{ post.title }}
-		.desc {{ post.excerpt }}
+{% assign featured_posts = site.posts | where: 'featured', true %}
+.featured
+  %h2 
+    .text Popular Articles
+    %a{ href: '/articles/' } Read all &rarr;
+{% for post in featured_posts %}
+  %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+    %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
+    .block.meta
+      .tag.outline Article
+      .block.text
+        .title {{ post.title }}
+        .desc {{ post.excerpt }}
 {% endfor %}
+
+
+.articles
+  %h2 All Articles
+{% for post in site.posts %}
+  %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+    %img{ src: '{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}' }
+    .block.meta
+      .tag.outline Article
+      .block.text
+        .title {{ post.title }}
+        .desc {{ post.excerpt }}
+{% endfor %}
+
+:css
+  .articles { display: grid; gap: 0; grid-template-columns: repeat(3, 1fr); margin: 2vw; } 
+  .articles h2 { border-top: 1px solid rgba(0,0,0,.2); margin: 2vw; padding-top: 1rem; opacity: .8; }
+  .articles a.block { padding: 2vw; }
+  .articles a.block:hover { background: #fff; }
+  .articles a.block img { width: 100%; aspect-ratio: 16/9; object-fit: cover; }

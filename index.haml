@@ -1,0 +1,26 @@
+---
+layout: precise
+title: Johannes Ippen
+---
+
+.header
+  .ted-talk Ted
+
+{% assign featured_posts = site.posts | where: 'featured', true %}
+.featured
+  %h2 
+    .text Popular Articles
+    %a{ href: '/articles/' } Read all &rarr;
+{% for post in featured_posts %}
+  %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+    %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
+    .block.meta
+      .tag.outline Article
+      .block.text
+        .title {{ post.title }}
+        .desc {{ post.excerpt }}
+{% endfor %}
+
+:css
+  .header { width: 100%; min-height: 80vw; background: url(/img/johannes-ippen-header.jpg) no-repeat; background-size: cover; box-sizing: border-box; padding: 0 4vw; align-items: flex-end; display: flex; }
+  .ted-talk { aspect-ratio: 16/9; background: var(--text); width: 60vw; }

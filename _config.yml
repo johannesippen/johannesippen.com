@@ -30,6 +30,7 @@ github_username:  johannesippen
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-image_resizer
 
 # Exclude from processing.
 # The following items will not be processed, by default.
