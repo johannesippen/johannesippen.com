@@ -17,6 +17,10 @@ h1 div, h2 div, h3 div, .button div, a div { display: inline-block; vertical-ali
 p, ul { font-size: 1rem; font-weight: 500; line-height: 1.5; margin: 0; max-width: 40rem; }
 p.large { font-size: 2rem; line-height: 1.25; letter-spacing: -.05rem; color: rgba(17,34,51,.8); }
 
+a[lang=de]:after { display: inline-block; width: .5rem; height: .5rem; background: linear-gradient(to bottom, #0d1f3f 35%, #F51062 35%, #F51062 65%, #FFCE2E 65%); content: '(de)'; margin-left: .5rem; margin-top: -4px; text-indent: -10000px; vertical-align: middle; border-radius: 1rem; }
+a[lang=de]:hover:after { transform: scale(1.25); }
+
+
 .tag { display: inline-block; font-size: .75rem; line-height: 1; background: #123; color: #fff; padding: .375rem .75rem; border-radius: 2rem; text-decoration: none; }
 .tag.outline { border: .0625rem solid rgba(17,34,51,.1); padding: .3125rem .6875rem; background: none; color: rgba(17,34,51,.8); }
 .tag.superline { border: none; background: none; color: var(--text);; padding: .375rem 0; }
@@ -108,8 +112,8 @@ a.block .block.text { font-size: 1.5rem; font-weight: 500; letter-spacing: -.03r
 a.block .desc { opacity: .5; }
 
 .featured { display: grid; gap: 0; margin: 4vw;  grid-template-columns: 1fr 1fr 1fr; grid-template-areas: "t a a" "d a a" "d b c"; }
-.featured h2 { grid-area: t; border-top: 1px solid rgba(0,0,0,.2); border-bottom: 1px solid rgba(0,0,0,.2); margin: 0 2vw 2vw 0; padding-top: 1rem; opacity: .8;; }
-.featured h2 a { font-size: 1rem; letter-spacing: 0; }
+.featured h2 { grid-area: t; margin: 0 2vw 2vw 0; padding: 2rem; opacity: .8; background: #888F9E; font-size: 3rem; font-weight: 500; aspect-ratio: 2/1; display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start; color: #fff; }
+.featured h2 a { font-size: 1rem; letter-spacing: 0; display: inline-block; text-decoration: none; border: .0625rem solid rgba(17,34,51,.1); padding: .3125rem .6875rem; border-radius: 2rem; color: inherit;  }
 .featured a.block { padding: 1vw; }
 .featured a.block:nth-child(2) { grid-area: a; background: #fff; margin-bottom: 2vw; align-items: center; }
 .featured a.block:nth-child(2) .block.meta { text-align: center; align-items: center; padding-bottom: 1vw; }

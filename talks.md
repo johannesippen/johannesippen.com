@@ -1,6 +1,6 @@
 ---
 title: Talks & Keynotes by Johannes Ippen
-permalink: "/talks/"
+permalink: "/talks-legacy/"
 layout: default
 ---
 
