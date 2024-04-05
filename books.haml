@@ -1,0 +1,67 @@
+---
+layout: precise
+title: Johannes Ippen
+permalink: /books
+---
+
+.header
+  %h2 Books & Articles
+.bookshelf
+  .book
+    %img{ src: "/img/web-fatale.jpg" }
+    .block.meta
+      .text 2016
+      .text Web Fatale
+      .text Wie du Webseiten gestaltest, denen niemand widerstehen kann. Lerne, wie Du die Usability Deiner Website perfektionierst und den Website-Besuch zu einem rundum gelungenen Erlebnis gestaltest. Platz 1 in der Amazon-Bestsellerliste ‘Usability’.
+  .book
+    %img{ src: "/img/infografik.jpg" }
+    .block.meta
+      .text 2013
+      .text Apps mit HTML5, CSS3 und JavaScript
+      .text Entdecken Sie die Möglichkeiten von HTML5 und CSS3 für die Entwicklung von modernen und plattformübergreifenden Apps. Dritte Auflage, Amazon Bestseller!
+
+  .book
+    %img{ src: "/img/apps-red.jpg" }
+    .block.meta
+      .text 2013
+      .text Apps mit HTML5, CSS3 und JavaScript
+      .text Entdecken Sie die Möglichkeiten von HTML5 und CSS3 für die Entwicklung von modernen und plattformübergreifenden Apps. Dritte Auflage, Amazon Bestseller!
+  .book
+    %img{ src: "/img/apps-green.jpg" }
+    .block.meta
+      .text 2012
+      .text Apps mit HTML5 und CSS3 - Neuauflage
+      .text Entdecken Sie die Möglichkeiten von HTML5 und CSS3 für die Entwicklung von modernen und plattformübergreifenden Apps.
+  .book
+    %img{ src: "/img/apps-blue.jpg" }
+    .block.meta
+      .text 2012
+      .text Apps entwickeln mit HTML5 und CSS3
+      .text Digitale Magazine und Web-Apps entwickeln — für iPhone, iPad und Android. Interaktive DVD
+  .book
+    %img{ src: "/img/apps-blue.jpg" }
+    .block.meta
+      .text 2011
+      .text Apps mit HTML5 und CSS3
+      .text Entdecken Sie die Möglichkeiten von HTML5 und CSS3 für die Entwicklung von modernen und plattformübergreifenden Apps. Amazon Bestseller!
+
+:css
+  .header { padding: 20rem 5vw 0;  }
+  .bookshelf { display: flex; flex-wrap: wrap; }
+  .book {
+    border-bottom: 2rem solid #f2f2f2;
+    padding: 2vw 5vw 0;
+    background: linear-gradient(to top, #ddd 0%, #f2f2f2 80%, #ddd 100%);
+    width: auto;
+    flex-grow: 1;
+    display: flex;
+    align-items: flex-end;
+  }
+  .book img {
+    display: block;
+    width: 30vw;
+    max-width: 20rem;
+    box-shadow: 0 -.5rem 2rem -.5rem rgba(0,0,0,.2);
+  }
+  .book .meta { width: 6vw; background: #fff; padding: 1vw; width: 30vw; max-width: 20rem; position:absolute; opacity: 0; transition: opacity .3s ease-in }
+  .book:hover .meta, .book:focus .meta { transform: scale(1,1); display: flex; opacity: 1; }
