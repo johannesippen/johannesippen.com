@@ -11,11 +11,11 @@ layout: precise
   .feature
     %img{ src: "/img/johannes-ippen-ted-talk.jpg" }
     .block.meta
-      .tag.outline Featured Talk
       .block.text
+        .tag.outline Featured Talk
         .title Humans, not Users: Why UX is a Problem
         .desc Great User Experience Design has become the driving force behind successful products – at the expense of happiness, mental health and purpose. It is time for UX design to step up and evolve.
-        %a{ href: "https://www.youtube.com/watch?v=dpXBV3COwJM" } Watch on Youtube
+      %a.button{ href: "https://www.youtube.com/watch?v=dpXBV3COwJM" } Watch on Youtube
   %ul{ title: '2023' }
     %li IGEL S&F Day
     %li GuideCom UX Day 2023
@@ -38,11 +38,11 @@ layout: precise
   .feature
     %img{ src: "/img/talk-creative-morning.jpg" }
     .block.meta
-      .tag.outline Featured Talk
       .block.text
+        .tag.outline Featured Talk
         .title Creative Mornings Berlin
         .desc Web Fatale – or how to design seductive websites through design, fun and interaction.
-        %a{ href: "https://www.youtube.com/watch?v=voXUr_TiZkg" } Watch on Youtube
+      %a.button{ href: "https://www.youtube.com/watch?v=voXUr_TiZkg" } Watch on Youtube
 
   %ul{ title: '2016' }
     %li Creative Mornings Berlin 2016
@@ -66,12 +66,19 @@ layout: precise
 :css
   .header { padding: 20rem 5vw 0;  }
   .talks { padding: 4vw; }
-  .talks ul { margin: 0 auto; border-left: 1px solid rgba(17,34,51,.1); padding: 2.5rem; }
+  .talks ul { margin: 0 3rem; border-left: 1px solid rgba(17,34,51,.1); padding: 2.5rem; }
   .talks ul:before { content: attr(title); position: absolute; font-size: .75rem; display: inline-block; line-height: 1;  border-radius: 2rem; border: .0625rem solid rgba(17,34,51,.1); padding: .3125rem .6875rem; background: #f2f2f2; color: rgba(17,34,51,.8); width: 2rem; margin-left: -4.25rem; text-align:center; }
   .talks ul li { padding-bottom: 1rem; }
   .talks ul li a, .talks ul li a:hover { display: inline; padding: 0; background: none; }
   
-  .feature { background: #fff; padding: 2vw; display: flex; gap: 1vw; }
-  .feature img { flex-grow: 2; width: 75%; }
-  .feature .block.meta { min-width: 20rem; }
+  .feature { background: #fff; padding: 2vw; display: flex; flex-direction: column; gap: 1vw; }
+  .feature .block.meta { min-width: 20rem; justify-content: space-between; padding: 1vw; }
   .feature .block.text { font-size: 1.5rem; font-weight: 500; letter-spacing: -.03rem; gap: 0; }
+  .feature .desc { opacity: .5; }
+  .feature .tag { margin: 0 0 1rem -.25rem; }
+  .feature .button { background: #E83324; margin-left: -.25rem; }
+  @media(min-width: 60rem) {
+    .talks ul { margin: 0 auto; }
+    .feature { flex-direction: row; }
+    .feature img { flex-grow: 2; min-width: 60%; object-fit: cover; }
+  }

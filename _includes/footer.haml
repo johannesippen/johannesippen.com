@@ -1,55 +1,60 @@
-.footer.branded
+.footer
   .row
-    .block
-      %h3 Johannes Ippen
-      %p Designer. Author. TEDx-Speaker. Co-founder of Human Deluxe Design Studio.
-      %a.box
-        .box-label Book me as a Speaker
-    %ul
-      %li
-        %h3 Books
-      %li
-        %a{ href: '#' } Web Fatale
-      %li
-        %a{ href: '#' } Infografik
-      %li
-        %a{ href: '#' } Apps mit HTML 5, CSS3 & JavaScript
-    %ul
-      %li
-        %h3 Popular Articles
-      %li
-        %a{ href: '#' } Deluxe Experiences
-      %li
-        %a{ href: '#' } Love in UX Design
-      %li
-        %a{ href: '#' } Humans, not Users
-      %li
-        %a{ href: '#' } The Rise of Tech Brutalism
-    %ul
-      %li
-        %h3 Talks
-      %li
-        %a{ href: '#' } TEDxYoungstown
-      %li
-        %a{ href: '#' } Creative Mornings Berlin
-      %li
-        %a{ href: '#' } dibi Newcastle
-    %ul
-      %li
-        %h3 Interviews
-      %li
-        %a{ href: '#' } Erik&nbsp;Spiekermann
-      %li
-        %a{ href: '#' } Aaron&nbsp;Draplin
-      %li
-        %a{ href: '#' } Catt&nbsp;Small
-      %li
-        %a{ href: '#' } Khoi&nbsp;Vinh
+    .block.text
+      .title Johannes Ippen
+      .desc Designer. Author. TEDx-Speaker. <br>Founder of Human&nbsp;Deluxe Design Studio.
+    .row
+      %ul
+        %li
+          %h3 Navigation
+        %li
+          %a{ href: '/talks/' } Talks
+        %li
+          %a{ href: '/books/' } Publications
+      %ul
+        %li
+          %h3 Popular Articles
+        %li
+          %a{ href: '/2022/tech-brutalism/' } The Rise of Tech Brutalism
+        %li
+          %a{ href: '/2019/deluxe-experiences/' } Deluxe Experiences
+        %li
+          %a{ href: '/2019/love/' } Love in UX Design
+        %li
+          %a{ href: '/2019/humans-not-users/' } Humans, not Users
+      %ul
+        %li
+          %h3 Interviews
+        %li
+          %a{ href: '/2019/erik-spiekermann/' } Erik&nbsp;Spiekermann
+        %li
+          %a{ href: '/2019/aaron-draplin/' } Aaron&nbsp;Draplin
+        %li
+          %a{ href: '/2019/catt-small/' } Catt&nbsp;Small
+        %li
+          %a{ href: '/2019/khoi-vinh/' } Khoi&nbsp;Vinh
+      %ul
+        %li
+          %h3 Legal
+        %li
+          %a{ href: '/impressum/' } Impressum
+        %li
+          %a{ href: '/datenschutz/' } Datenschutz
+
 
 
 :css 
-  .footer.branded { background: #012; font-size: 80%; }
-  .footer.branded h3 { color: gold; }
-  .footer.branded a.box { background: gold; border: none; color: #123; }
-  .footer.branded li a { max-width: 12rem; transition: color .3s ease-in-out; }
-  .footer.branded li a:hover { color: gold; }
+  .footer { background: #012; font-size: 80%; padding: 4vw; }
+  .footer .row { display: flex; justify-content: space-between; }
+  .footer .row .row { gap: 4vw; }
+  .footer .block.text { gap: 0; font-size: 1.5rem; font-weight: 400; letter-spacing: -.03rem; color: #fff; max-width: 24rem; }
+  .footer .desc { opacity: .5; }
+  .footer h3 { margin-top: 0; font-size: .75rem; }
+  .footer a.box { background: gold; border: none; color: #123; }
+  .footer li a { transition: opacity .3s ease-in-out; opacity: .5; }
+  .footer li a:hover { opacity: 1; }
+  @media (max-width: 56rem) {
+    .footer .row { flex-direction: column; }
+    .footer .row .row { display: grid; grid-template-columns: 1fr 1fr; }
+    .footer ul a, .footer ul h3 { padding: 0; }
+  }

@@ -10,10 +10,30 @@
     %li
       %a{ href: '/talks' } Talks
     %li
-      %a{ href: '/books' } Publications
+      %a{ href: '/books', lang: 'de' } Publications
+  %details.menu
+    %summary Menu
+    %ul
+      %li
+        %a{ href: '/about' } About
+      %li
+        %a{ href: '/articles' } Articles
+      %li
+        %a{ href: '/talks' } Talks
+      %li
+        %a{ href: '/books', lang: 'de' } Publications
 
 :css
-  nav { position: absolute; display: flex; top: 0; left: 0; right: 0; padding: 4vw; gap: 3rem; align-items: center; }
+  nav { position: absolute; display: flex; top: 0; left: 0; right: 0; padding: 0 4vw; gap: 3rem; align-items: center; }
   nav .text { font-size: 1.5rem; font-weight: 500; letter-spacing: -.05rem; }
   nav .text a { text-decoration: none; }
-  nav .text a img { height: 6rem; }
+  nav .text a img { height: 6rem; margin-top: 1.5rem; }
+  nav details { padding: 0; display: none; }
+  nav details summary { padding: .5rem 4rem .5rem .5rem; }
+  nav details summary:after { transform: none; border-left: none; border-top: 2px solid; border-bottom: 2px solid; width: 2rem; height: .5rem;  }
+  nav details ul { position: absolute; background: #fff; padding: 1rem; margin: 0 -1rem 0; }
+  @media(max-width: 60rem) {
+    nav details { display: block; }
+    nav .nav { display: none; }
+  }
+
