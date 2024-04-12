@@ -4,9 +4,12 @@ permalink: /articles/
 layout: precise
 ---
 
+.header
+  %h2 Popular Articles
+
 {% assign featured_posts = site.posts | where: 'featured', true %}
 .featured
-  %h2 Popular<br>Articles
+  %br/
 {% for post in featured_posts %}
   %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
     %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
@@ -31,7 +34,8 @@ layout: precise
 {% endfor %}
 
 :css
-  .featured { margin: 0.83rem 0; padding: 20rem 5vw; }
+  .header { padding: 20rem 5vw 0;  }
+  .featured { margin: 0.83rem 0; padding: 5vw; }
   .articles { display: grid; gap: 0; grid-template-columns: repeat(3, 1fr); margin: 2vw; } 
   .articles h2 { border-top: 1px solid rgba(0,0,0,.2); margin: 2vw; padding-top: 1rem; opacity: .8; }
   .articles a.block { padding: 2vw; }

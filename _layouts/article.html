@@ -2,10 +2,25 @@
 layout: precise
 ---
 
+<div class="article-header">
+  <h1>{{ page.title }}</h1>
+  <div class="article-meta">
+    <span>{{ page.url }}</span>
+    <span>Author: Johannes Ippen</span>
+    {% for category in page.categories %}
+    <span class="tag outline">{{ category }}</span>
+    {% endfor %}
+  </div>
+</div>
+
 <div class="text-content">
   {{ content }}
 </div>
 
 <style>
-  .text-content { margin: 10rem auto 4vw; }
+  .text-content { margin: 4vw auto; }
+  .text-content h1 { display: none; }
+  .article-header { margin:20rem 4vw 4vw; display: flex; flex-direction: row-reverse; border-top: 1px solid; padding-top:4vw; justify-content: stretch; gap: 4vw; }
+  .article-header h1 { font-weight: 500; margin: 0; }
+  .article-meta { font-size: .75rem; display: flex; flex-direction: column; align-items: flex-start; padding-top: 1rem; gap: .5rem; }
 </style>
