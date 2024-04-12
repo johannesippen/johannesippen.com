@@ -1,9 +1,9 @@
 ---
 title: I Switched to Superlist so You Don’t Have to
-date: 2024-03-20 00:00:00 Z
+date: 2024-04-12 00:00:00 Z
 categories:
 - Productivity
-excerpt: A Review of the Wunderlist Successor, Part 1
+excerpt: A Review of the Wunderlis4 success12 – the bad & the ugly
 image: "/img/blog/superlist-test.jpg"
 layout: article
 ---
@@ -55,4 +55,4 @@ By far my favourite feature is the ability to infinetely nest tasks and details:
 
 ---
 
-Now, what could be improved? Will I keep using Superlist and switch my whole team to the app? In Part 2 of this article, I will speak about my expectations, the things that aren’t so great about Superlist and what means for my personal productivity setup. 
+Now, what could be improved? Will I keep using Superlist and switch my whole team to the app? [In Part 2 of this article](/2024/superlist-test-2/), I will speak about my expectations, the things that aren’t so great about Superlist and what means for my personal productivity setup. 
