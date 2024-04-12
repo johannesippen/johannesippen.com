@@ -3,7 +3,7 @@ title: I Switched to Superlist so You Don’t Have to
 date: 2024-04-12 00:00:00 Z
 categories:
 - Productivity
-excerpt: A Review of the Wunderlis4 success12 – the bad & the ugly
+excerpt: A Review of the Wunderlist successor, Part 1
 image: "/img/blog/superlist-test.jpg"
 layout: article
 ---

@@ -1,9 +1,9 @@
 ---
 title: Superlist Review – Part 2
-date: 2024-03-31 00:00:00 Z
+date: 2024-04-12 00:00:00 Z
 categories:
 - Productivity
-excerpt: A Review of the Wunderlist Successor, Part 2
+excerpt: A Review of the Wunderlist Successor, – the bad & the ugly
 image: "/img/blog/superlist-second.jpg"
 layout: article
 ---
