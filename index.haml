@@ -1,0 +1,33 @@
+---
+layout: precise
+title: Johannes Ippen
+---
+
+.header
+  %h1 Johannes Ippen <span><br>Designer.<br>Author.<br>Speaker.</span>
+
+{% assign featured_posts = site.posts | where: 'featured', true %}
+.featured
+  %h2 
+    .text Popular Articles
+    %a{ href: '/articles/' } Read all &rarr;
+{% for post in featured_posts %}
+  %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+    %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
+    .block.meta
+      .tag.outline Article
+      .block.text
+        .title {{ post.title }}
+        .desc {{ post.excerpt }}
+{% endfor %}
+
+:css
+  nav { opacity: .5; }
+  .header { width: 100%; aspect-ratio: 16/9; background: url(/img/johannes-ippen-header.jpg) no-repeat center; background-size: cover; box-sizing: border-box; padding: 0 4vw 4vw; justify-content: flex-end; display: flex; flex-direction: column; gap: 4vw; }
+  .header h1 { width: auto; max-width: none; font-size: 5vw; font-weight: 400; letter-spacing: -.3vw; margin: 6vw 0 0; opacity: .8; }
+  .header h1 span { opacity: .5; }
+  @media(max-width: 38rem) {
+    .header { aspect-ratio: 4/5; background-position: top right; background-size: 200% }
+    .header h1 { font-size: 11vw; }
+    nav { justify-content: space-around; }
+  }

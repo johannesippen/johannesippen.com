@@ -6,6 +6,7 @@ categories:
 excerpt: A Review of the Wunderlist successor, Part 1
 image: "/img/blog/superlist-test.jpg"
 layout: article
+featured: true
 ---
 
 # I Switched to Superlist so You Don’t Have to (1/2)

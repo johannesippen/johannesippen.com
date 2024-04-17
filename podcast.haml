@@ -1,0 +1,46 @@
+---
+layout: precise
+title: Super – Der Filmpodcast
+lang: de
+---
+
+.podcast
+  %img{ src: '/img/super-cover.jpg' }
+  .col
+    %iframe{ allow: "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture", allowfullscreen: "", frameborder: "0", height: "152", loading: "lazy", src: "https://open.spotify.com/embed/show/374ZpWdhUuD3ggTvFyLAYb?utm_source=generator&theme=0", style: "border-radius:12px", width: "100%" }
+    %h2 Synopsis
+    %p In «Super – Der Filmpodcast» sprechen die Cineasten Anja und Jo über Filme, die schon längst aus dem Kino verschwunden sind. Der Podcast kümmert sich um all die Klassiker, die man mal wieder oder überhaupt einmal schauen kann – inklusive Fun Facts, Backgroundinfos und knallhart investigativen Wasserrutschenrecherchen.
+    %p Die beiden Medienschaffenden werden dabei tatkräftig von Tom «dem Podcaster» unterstützt, der zwar keine Ahnung von Filmen hat, dafür aber um so mehr von Soundeffekten und gesellschaftlichen Einordnungen.
+    %h2 Cast
+    %ul
+      %li Anja
+      %li Johannes Ippen
+      %li Tom «Der Podcaster»
+    %h2 Links  
+    %p 
+      %a{ href: "https://www.instagram.com/super.filmpodcast" } Instagram
+    %p
+      %a{ href: "https://open.spotify.com/show/374ZpWdhUuD3ggTvFyLAYb?si=dce80f3656f64e35" } Spotify
+
+:css
+  nav a, nav .nav a { color: #fff; opacity: .4; transition: opacity .2s ease-in; }
+  nav a:hover, nav .nav a:hover { opacity: 1; }
+  .podcast {
+    background: #000;
+    color: #fff;
+    display: flex;
+  }
+  .podcast img {
+    width: 50vw;
+    object-fit: contain;
+  }
+  .podcast .col {
+    padding: 10rem 5vw 5vw;
+  }
+  .podcast h2 {
+    font-size: 2rem;
+    letter-spacing: 0;
+  }
+  .podcast a {
+    color: #F8D648;
+  }
