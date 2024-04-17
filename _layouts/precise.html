@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,7 +40,7 @@
 }
 
 body { color: var(--text); font-family: "BDO Grotesk", Inter, sans-serif; background: #f4f5f6; padding: 0; margin: 0; }
-h1 { font-size: 6rem; letter-spacing: -.25rem; line-height: .9; max-width: 60rem; }
+h1 { font-size: clamp(2rem, 10vw, 6rem); letter-spacing: clamp(-.1rem, -.5vw, -.5rem); line-height: .9; max-width: 60rem; }
 h2 { font-size: 4rem; letter-spacing: -.25rem; line-height: 1; max-width: 30rem; font-weight: 500; }
 h3 { font-size: 1.5rem; font-weight: 600; letter-spacing: -.03rem; line-height: 1; max-width: 60rem; }
 
@@ -48,6 +48,8 @@ h1 div, h2 div, h3 div, .button div, a div { display: inline-block; vertical-ali
 
 p, ul { font-size: 1rem; font-weight: 500; line-height: 1.5; margin: 0; max-width: 40rem; }
 p.large { font-size: 2rem; line-height: 1.25; letter-spacing: -.05rem; color: rgba(17,34,51,.8); }
+
+p a { color: mediumblue; text-decoration: none; }
 
 a[lang=de]:after { display: inline-block; width: .5rem; height: .5rem; background: linear-gradient(to bottom, #0d1f3f 35%, #F51062 35%, #F51062 65%, #FFCE2E 65%); content: '(de)'; margin-left: .5rem; margin-top: -4px; text-indent: -10000px; vertical-align: middle; border-radius: 1rem; }
 a[lang=de]:hover:after { transform: scale(1.25); }
