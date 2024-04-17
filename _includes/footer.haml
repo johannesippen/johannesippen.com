@@ -58,3 +58,8 @@
     .footer .row .row { display: grid; grid-template-columns: 1fr 1fr; }
     .footer ul a, .footer ul h3 { padding: 0; }
   }
+  @media (max-width: 25rem) {
+    .footer .row { flex-direction: column; gap: 3rem; }
+    .footer .row .row { display: flex; flex-direction: column; gap: 2rem; }
+    .footer ul a, .footer ul h3 { padding: 0; }
+  }

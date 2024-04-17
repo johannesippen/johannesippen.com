@@ -29,9 +29,12 @@
   nav .text a { text-decoration: none; }
   nav .text a img { height: 6rem; margin-top: 1.5rem; }
   nav details { padding: 0; display: none; }
+  nav details a { white-space: nowrap; }
   nav details summary { padding: .5rem 4rem .5rem .5rem; }
-  nav details summary:after { transform: none; border-left: none; border-top: 2px solid; border-bottom: 2px solid; width: 2rem; height: .5rem;  }
-  nav details ul { position: absolute; background: #fff; padding: 1rem; margin: 0 -1rem 0; }
+  nav details summary:after { transform: none; border-left: none; border-top: 2px solid; border-bottom: 2px solid; width: 2rem; height: .5rem; transition: height .3s ease-in; }
+  nav details[open] { background: #fff;  }
+  nav details[open] summary:after { transform: none; height: 0; border-top: 1px solid; border-bottom: 1px solid;  }
+  nav details ul { position: absolute; background: #fff; padding: 1rem; margin: 0; }
   @media(max-width: 60rem) {
     nav details { display: block; }
     nav .nav { display: none; }

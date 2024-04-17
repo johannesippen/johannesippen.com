@@ -36,7 +36,13 @@ layout: precise
 :css
   .header { padding: 20rem 5vw 0;  }
   .featured { margin: 0.83rem 0; padding: 5vw; }
-  .articles { display: grid; gap: 0; grid-template-columns: repeat(3, 1fr); margin: 2vw; } 
+  .articles { display: grid; gap: 0; grid-template-columns: repeat(1, 1fr); margin: 2vw; }  
+  @media(min-width: 35rem) {
+    .articles { grid-template-columns: repeat(2, 1fr); }  
+  }
+  @media(min-width: 66rem) {
+    .articles { grid-template-columns: repeat(3, 1fr); }  
+  }
   .articles h2 { border-top: 1px solid rgba(0,0,0,.2); margin: 2vw; padding-top: 1rem; opacity: .8; }
   .articles a.block { padding: 2vw; }
   .articles a.block:hover { background: #fff; }
