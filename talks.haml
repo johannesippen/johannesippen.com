@@ -63,6 +63,10 @@ layout: precise
     %li Fraunhofer Forum 2011
     %li Mobile Tech Con 2011
 
+  .feature.booking
+    %h2 Book me as a speaker for your event:
+    %a.button{ href: "mailto:ich@johannesippen.com" } Send me an Email
+
 :css
   .header { padding: 20rem 5vw 0;  }
   .talks { padding: 4vw; }
@@ -80,8 +84,11 @@ layout: precise
   .feature .desc { opacity: .5; }
   .feature .tag { margin: 0 0 1rem -.25rem; }
   .feature .button { background: #E83324; margin-left: -.25rem; }
+  .feature.booking { align-items:flex-start; justify-content:flex-start; gap: 2rem; }
+  .feature.booking h2 { margin: 0; max-width: clamp(18.75rem, 40vw, 40rem); }
   @media(min-width: 60rem) {
     .talks ul { margin: 0 auto; }
     .feature { flex-direction: row; }
     .feature img { flex-grow: 2; min-width: 60%; object-fit: cover; }
+    .feature.booking { flex-direction: column; }
   }
