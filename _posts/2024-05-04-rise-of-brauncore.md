@@ -1,59 +1,61 @@
 ---
-title: Superlist Review – Part 2
+title: The Rise of Brauncore
 date: 2024-04-12 00:00:00 Z
 categories:
-- Productivity
-excerpt: A Review of the Wunderlist Successor, – the bad & the ugly
-image: "/img/blog/superlist-second.jpg"
+- Human Experience Design
+excerpt: Beyond the touch screen, there’s a new trend rising.
+image: "/img/blog/brauncore-cover.jpg"
 layout: article
 ---
 
-# I Switched to Superlist so You Don’t Have to (2/2)
+# The Rise of Brauncore
 
-{% image /img/blog/superlist-second.jpg %}
+{% image /img/blog/brauncore-cover.jpg %}
 
-Before we start: This is part 2 of my review of Superlist, the new productivity app by Christian Reber & team. If you haven’t read part 1 yet, [read part 1 now](/2024/superlist-test/). 
+By now we’ve all seen the tech reviews of the Rabbit R1, how it’s [basically an Android device in disguise](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a) and how it’s barely able to spot the difference between a [Monstera and a coffee tree](https://www.youtube.com/watch?v=ddTV12hErTc). But man, is this thing good-looking? Bright orange colors, actual physical buttons and finally, finally a device that does not rely on its touch screen.
 
-## What could be improved?
+{% image /img/blog/brauncore-mic.jpg %}
 
-Let's keep it short: a lot. At this point in time, I have stopped using Superlist, and here is why: From a tool that you use every single day, you do expect a lot. You tend to be far less forgiving for all the little bits and pieces that are not quite there yet. You set the bar high.
+Designed by Teenage Engineering, you can clearly see their design language shining bright in the R1. Looking back at a long history of beautiful industrial hardware designs, starting with mini synth OP-1, the lovely TP-7 audio recorder or the K.O.II sampler. Clear edges, a lot of visible details and physical buttons, everwhere. I discovered Teenage Engineering when they build the Playdate, a bright yellow gaming console that did not only feature the typical buttons, but a hand crank. How cool is that.
 
-For me, the deal breaker came in form of text editing: For a productivity and ideation tool, the WYSIWYG editor does feel a way too clunky. No quite as productive to write as you would expect. If you are familiar with typing in Apple Notes, Obsidian or even Google Docs, you do have a different expectation from how typing, formatting and browsing your copy should feel like. I like the fact that I could type up a whole blog post or meeting notes inside of Superlist, however the missing export options make it quite pointless to do so.
+{% image /img/blog/brauncore-playdate.jpg %}
 
-{% image /img/blog/superlist-text.jpg %}
+Teenage Engineering is not alone in their aesthetic – recently, we’ve seen a big trend towards this minimalist, technophile hardware style. 
 
-Superlist does have a quick launcher that helps you to create a new task from anywhere in on your Mac – quite a nifty feature, if the key combination (Option + Shift + Space) wouldn’t be the same as for a non-breaking space character – a character I use quite a lot in my day to day-work as a designer. Unfortunately, this shortcut cannot be changed.
+Hoto Tools is building drills, screwdrivers and glue guns that you would put on display in a your mid-century living room rather than hide it in a toolbox.
 
-Task creation still seems a clunky overall: Sometimes, tasks aren’t really created because you didn’t push the button (because other tools left you with the expectation that a simple tap on Tab would do), sometimes tags are appended to your task because you didn’t deactivate them. 
+{% image /img/blog/brauncore-opal.jpg %}
 
-{% image /img/blog/superlist-widget.jpg %}
+The Opal C1, a hyped webcam during the Zoomer years, could also be a part of a 1970s Hi-Fi set with it's boxy, grip-texture design and it's cheesegrater mic grill. 
 
-It's these tiny things that make Superlist still feel a bit «buggy» and unpolished, like tiny pebbles in your shoes on your way to work: not quite hurtful, but still a bit annyoing. If Superlist would optimise a lot in these [delightful details](/2017/details/), it would become a real charm and an actual addition in my productivity stack. Speaking of which:
+Designer Jon Lax coined a term for that style: Brauncore.
 
-## The Features I did not use (and why)
+{% twitter https://twitter.com/jlax/status/1727794565372125671 %}
 
-There’s a bunch of features that looked good on paper and that I frankly thought would make Superlist a powerhouse – but I ended up not using them at all. What a pitty.
+## Back in the 1950s
 
-{% image /img/blog/superlist-messages.jpg %}
+Braun. German company. Household appliances. Never the cool guy. I grew up with Braun hair dryers, mixers, shavers – all boasting this clean, functional design. Braun was this company that made everything, and you wouldn’t pay a lot of attention to it. This, however, changed in 2001.
 
-**Messaging**. I don’t know why I thought that Superlist could even replace Slack in my company, but the current implementation of messaging is just not it. There’s a lot of potential though – the idea of putting chats straight on lists and tasks is pretty nifty.
+{% youtube AZU5xP5lNHk %}
 
-**Sharing**. Creating and managing tasks together requires a lot of coordination and agreement – in the part 1, I told you that I was thinking of introducing Superlist for the whole team – I ended up not doing it. The way that sharing tasks currently works requires a lot of commitment from everyone involved. If I could share task details or a list document with someone in a more casual, noncommital way (like a cooking recipe or event details), this would be hot!
+When the original iPod was released, it was celebrated for its simple, minimalist design. Up until then, audio devices either tried to look elegant and expensive or hip spaceships. The iPod was different – and it reminded the design community of something. Quickly, it became clear that iPod design Jony Ive was inspired by a German designer: Dieter Rams. As head designer for Braun, he was responsible for the look and feel for a big part of the Braun lineup. The iPod did not just ressemble, but almost looked like a carbon copy of the Braun T3 pocket radio - when turned 90° to the side.
 
-**AI features**. I like the idea of using generative AI in todo lists – in my opinion, there is a lot of potential. As this feature is part of the paid plan, I have no idea of what it actually does (Nor do I expect a lot from it).
+Rams, ever since become a design legend, famed outside of the design community. His design principles act like the ten commandments for aspiring creatives world-wide. Good design is innovative. Good design makes a product useful. Good design is aesthetic. Good design is honest. Less, but better.
 
-**Weekly lists** (or other templates). Templates are generally pretty cool – a great way to start if you want to get to know the product and structure your work. In Superlist, the way that weekly templates work goes against the way that tasks will be sorted in the Tasks view – no chance I could propagate my weekly list automatically or sync between the week view and task view. Maybe this is what the AI feature is for?
+{% image /img/blog/brauncore-radio.jpg %}
 
-## What I wish for Superlist to be
+{% image /img/blog/brauncore-hifi.jpg %}
 
-Granted: Finding the holy grail in productivity tools is tricky. Imaging zooming out and seeing your whole life, everything that you do, experience or capture as a huge, organized list of tasks and learnings – no matter how big or small, how important or unimportant – everything could be stored in a big, hierarchical list. The more information we have about the things we do and we have done, the more a tool like could support us:
+## Brauncore Principles
 
-You buy a box of oat milk every Tuesday? Here’s your milk subscription.
+In an era where every device is operated through a touch screen, it seems like we have lost a lot of these design qualities. When not in use black mirrors give little hint to their function. No affordance. Every fridge, car console, watch, phone or thermostat does have its own learning curve. The tech fatigue is real.
 
-You plan on flying to New York? Here’s a recommendation of a cheap flight to book.
+Brauncore is much more than an aesthetic trend – it is the effort to design honest devices, following a few guiding principles:
 
-You have a big project at work? Here's how you could split it up into smaller parts.
+- **Do one thing well, not many things poorly.** A single, focused purpose. Brauncore devices are designed to do one thing exceptionally well, rejecting the "kitchen sink" approach of cramming every feature imaginable into a single product. 
+- **Affordance through visibility** Instead of hiding functions behind touch screens, bright and visible buttons, dials and sliders indicate the function of each device.
+- **Light, minimalist colors.** Think white, black, pops of primary. It's a color palette that's both sophisticated and playful, combined with neutral, yet matte metallic colors.
+- **Exposed screws and materials.** Honesty in construction, a celebration of function. Brauncore rejects the idea of hiding everything behind a seamless facade. Those screws? They're not a mistake, they're a design statement, a way of acknowledging the craftsmanship that goes into the product.
+- **Boxy, geometric shapes.** Clean lines, a focus on pure form. Brauncore embraces simplicity, shunning the curvy, organic shapes that dominated tech for a while. It's a return to the confident, geometric forms that defined Braun's golden age.
 
-Big Data. AI. Call it whatever you want, I want a tool that helps me organize my life by understanding the sum of all the parts of it. Superlist seems to take on the challenge – but is nowhere near just yet. I’m excited to see what is going to happen and how close the team can get to this goal. I will definitely check back in a couple of months.
-
-For now, I am out. I started using Google Tasks again and developed a way of organising my lists and boards in a more productive manner – but that’s a story for a different article.
+Personally, I’m a huge fan of Brauncore. Looking forward to seeing more and more devices exploring these principles. What would a Brauncore car control look like? How can we take Ram’s principles into the age of modern entertainment devices like gaming consoles? What would a Brauncore Phone look like? I guess this will a topic of another article.
