@@ -1,33 +1,55 @@
 ---
-layout: precise
+layout: default
 title: Johannes Ippen
 ---
 
-.header
-  %h1 Johannes Ippen <span><br>Designer.<br>Author.<br>Speaker.</span>
+.intro
+  .xxl Everything is Design
+  %img{ src: '/img/johannes-ippen-header.jpg' }
+  .text.xl Good is design is honest, long-lasting and transformational. As designers, it is our job to enable confidence and clarity. Aim for the experience, not the product.
 
-{% assign featured_posts = site.posts | where: 'featured', true %}
-.featured
-  %h2 
-    .text Popular Articles
-    %a{ href: '/articles/' } Read all &rarr;
-{% for post in featured_posts %}
-  %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
-    %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
-    .block.meta
-      .tag.outline Article
-      .block.text
-        .title {{ post.title }}
-        .desc {{ post.excerpt }}
+.articles
+  %h2 New Articles, Interviews and Design Videos
+{% assign featured_posts = site.posts %}
+  .articles-grid
+{% for post in featured_posts limit:6 %}
+    %a.block.l{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+      %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
+      .block.meta
+        .tag.outline Article
+        .block.text
+          .title {{ post.title }}
+          .desc {{ post.excerpt }}
 {% endfor %}
 
+- # .concepts 
+- #  %h2 Design Concepts - coming soon.
+
+- # humandeluxe
+- #   %h2 Human Deluxe is a Design Studio founded by Johannes Ippen and Nico Engelhardt in 2018, partnering with companies like <a href="#">Sony</a>, <a href="#">Zynga</a> or <a href="#">SAP</a>.
+
 :css
-  nav { opacity: .5; }
-  .header { width: 100%; aspect-ratio: 16/9; background: url(/img/johannes-ippen-header.jpg) no-repeat center; background-size: cover; box-sizing: border-box; padding: 0 4vw 4vw; justify-content: flex-end; display: flex; flex-direction: column; gap: 4vw; }
-  .header h1 { width: auto; max-width: none; font-size: 5vw; font-weight: 400; letter-spacing: -.3vw; margin: 6vw 0 0; opacity: .8; }
-  .header h1 span { opacity: .5; }
-  @media(max-width: 38rem) {
-    .header { height: 100vh; max-height: 138vw; background-position: top right; background-size: 200% }
-    .header h1 { font-size: 7vw; }
-    nav { justify-content: space-around; }
+  .intro { display: flex; flex-direction: column; position: relative; z-index: -1; }
+  .intro img { height: 100vw; width: 100vw; object-fit: cover; }
+  .intro .text { padding: var(--sidepadding); }
+  .intro .xxl { position: absolute; bottom: 0; left: 0; padding: var(--sidepadding); max-width: 50vw; font-size:8vw; letter-spacing: -.4vw; display: none; }
+  @media(min-width: 35rem) { 
+    .intro { height: 100vh; flex-direction: row; } 
+    .intro img { height: 100%; max-width: 60vw; }
+    .intro .text { min-width: 20rem; }
+    .intro .xxl { display: block; }
   }
+  .articles { padding: var(--sidepadding); min-height: 100vh; }
+  .concepts { padding: var(--sidepadding); min-height: 100vh; }
+  .humandeluxe { padding: var(--sidepadding); min-height: 100vh; }
+  .humandeluxe h2 { max-width: 52rem; }
+
+  .articles-grid { display: grid; gap: 0; grid-template-columns: repeat(1, 1fr); margin: 0 -2rem; }  
+  @media(min-width: 35rem) { .articles-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media(min-width: 66rem) { .articles-grid { grid-template-columns: repeat(3, 1fr); } }
+  .articles-grid a.block { padding: 2rem; }
+  .articles-grid a.block:hover { background: #fff; }
+  .articles-grid a.block img { width: 100%; aspect-ratio: 16/9; object-fit: cover; }
+  .articles-grid a.block .tag { font-size: .75rem; margin-top:.5rem; margin-bottom: .5rem; letter-spacing:0; }
+  .articles-grid a.block .title { display: inline; }
+  .articles-grid a.block .desc { opacity: .5; }

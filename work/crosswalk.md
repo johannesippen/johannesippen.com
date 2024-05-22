@@ -1,7 +1,7 @@
 ---
 title: Crosswalk
 permalink: "/crosswalk/"
-layout: casestudy
+layout: default
 image: "/img/crosswalk.jpg"
 oneline: Social Network Concept
 excerpt: Crosswalk is a location-based social network concept created in 2009 by Johannes

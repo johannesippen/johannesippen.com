@@ -1,7 +1,7 @@
 ---
 title: Hash
 permalink: "/hash/"
-layout: casestudy
+layout: default
 oneline: Social Media Concept
 image: http://johannesippen.com/img/hash.jpg
 excerpt: Sometimes, a hastag says it all. Case study for a social media prototype.

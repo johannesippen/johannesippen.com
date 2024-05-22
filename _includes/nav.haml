@@ -1,42 +1,40 @@
+%header
+  %a{ href: '/' } <b>Johannes Ippen</b> Designer
+
+:css
+  header { position: fixed; top: 0; left: 0; }
+  header a { display: block; text-decoration: inherit; color: inherit; padding: var(--sidepadding); font-size: .75rem; opacity: .8; }
+
 %nav
-  .text
-    %a{ href: '/' }
-      %img{ src: '/img/johannes-ippen-sign.png', alt: "Johannes Ippen" }
-  %ul.nav
-    %li
-      %a{ href: '/about' } About
-    %li
-      %a{ href: '/articles' } Articles
-    %li
-      %a{ href: '/talks' } Talks
-    %li
-      %a{ href: '/books', lang: 'de' } Publications
-  %details.menu
+  %details
     %summary Menu
     %ul
       %li
-        %a{ href: '/about' } About
+        %a{ href: '/' } About
       %li
         %a{ href: '/articles' } Articles
       %li
-        %a{ href: '/talks' } Talks
+        %a{ href: '/books' } Publications
       %li
-        %a{ href: '/books', lang: 'de' } Publications
+        %a{ href: '/talks' } Talks
 
 :css
-  nav { position: absolute; display: flex; top: 0; left: 0; right: 0; padding: 0 4vw; gap: 3rem; align-items: center; }
-  nav .text { font-size: 1.5rem; font-weight: 500; letter-spacing: -.05rem; }
-  nav .text a { text-decoration: none; }
-  nav .text a img { height: 6rem; margin-top: 1.5rem; }
-  nav details { padding: 0; display: none; }
-  nav details a { white-space: nowrap; }
-  nav details summary { padding: .5rem 4rem .5rem .5rem; }
-  nav details summary:after { transform: none; border-left: none; border-top: 2px solid; border-bottom: 2px solid; width: 2rem; height: .5rem; transition: height .3s ease-in; }
-  nav details[open] { background: #fff;  }
-  nav details[open] summary:after { transform: none; height: 0; border-top: 1px solid; border-bottom: 1px solid;  }
-  nav details ul { position: absolute; background: #fff; padding: 1rem; margin: 0; }
-  @media(max-width: 60rem) {
-    nav details { display: block; }
-    nav .nav { display: none; }
+  nav { position: fixed; bottom: 1rem; left: 1rem; right: 1rem; display: flex; justify-content: center; color: #fff; font-size: 1.5rem; font-weight: 500; user-select: none; }
+  nav details { position: relative; width: 12rem; }
+  nav ul,
+  nav li { padding: 0; margin: 0; list-style: none; width: 100%; }
+  nav ul { position: absolute; bottom: 3.5rem; padding: 1rem 0; }
+  nav ul, nav summary { border-radius: 1.5rem; overflow: hidden; background: #000; }
+  nav a, nav summary { height: 3rem; line-height: 3rem; box-sizing: border-box; padding: 0 1rem; b }
+  nav a { display: block; text-decoration: inherit; color: inherit; }
+  nav a:hover { background: #fff; color: #000; }
+  details summary {
+    cursor: pointer;
+    transition: margin 150ms ease-out;
   }
-
+  details[open] summary {
+    margin-top: .5rem;
+  }
+  details summary::marker { content: ''; }
+  details summary:before { content: ' '; border-top: .5px solid #fff; border-bottom: .5px solid #fff; width: 1rem; height: .25rem; display:inline-block; margin-right: 1rem; margin-left: .5rem; vertical-align: middle; transition: height .3s ease-out; }
+  details[open] summary:before { height: 0; }

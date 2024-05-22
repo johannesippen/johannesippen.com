@@ -1,20 +1,83 @@
 <!DOCTYPE html>
 <html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/favicon-16.png" sizes="16x16" type="image/png">  
+    <link rel="icon" href="/img/favicon-32.png" sizes="32x32" type="image/png">  
+    <link rel="icon" href="/img/favicon-48.png" sizes="48x48" type="image/png">  
+    <link rel="icon" href="/img/favicon-62.png" sizes="62x62" type="image/png">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@johannesippen" />
+    <meta name="twitter:creator" content="@johannesippen" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.excerpt }}" />
+    <meta name="twitter:image" content="https://johannesippen.com/{{ page.image }}" />
+    <meta name="twitter:image:alt" content="Read more on Johannes’ blog" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:image" content="https://johannesippen.com/{{ page.image }}" />
+    <meta property="og:description" content="{{ page.excerpt }}" />
+    <style>
+      :root {
+        --sidepadding: clamp(1rem, 3vw, 3rem);
+      }
+      @font-face {
+        font-family: "BDO Grotesk";
+        src: url("/css/BDOGrotesk-Regular.woff2") format("woff2");
+        font-weight: normal;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: "BDO Grotesk";
+        src: url("/css/BDOGrotesk-Medium.woff2") format("woff2");
+        font-weight: 500;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: "BDO Grotesk";
+        src: url("/css/BDOGrotesk-Bold.woff2") format("woff2");
+        font-weight: bold;
+        font-style: normal;
+      }
+      body {
+        font-family: "BDO Grotesk", sans-serif;
+        font-weight: normal;
+        background: #F7F6F5;
+        color: #121110;
+        font-size: 1rem;
+        padding: 0;
+        margin: 0;
+      }
+      p, li {
+        line-height: 165%;
+        margin-bottom: 1rem;
+      }
+      a { color: #000; }
+      img {
+        max-width: 100%;
+      }
+      h1, .xxl { font-size: 3rem; letter-spacing: -.125rem; line-height: 90%; }
+      h2, .xl { font-size: 2rem; letter-spacing: -.1rem; line-height: 100%; font-weight: 500; }
+      h3, .l { font-size: 1.25rem; letter-spacing: -.02rem; font-weight: 500; }
+      @media(min-width: 35rem) {
+        h1, .xxl { font-size: 6rem; letter-spacing: -.35rem; }
+        h2, .xl { font-size: 3rem; letter-spacing: -.15rem; }
+        h3, .l { font-size: 1.5rem; letter-spacing: -.03rem; }
+      }
 
-  {% include head.html %}
-
+      .block { display: block; color: inherit; text-decoration: inherit; }
+    </style>
+  </head>
   <body>
-
-		{% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-    
+  {% include nav.haml %}
+  {{ content }}
+  {% include footer.haml %}
   </body>
-
 </html>
