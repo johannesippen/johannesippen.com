@@ -1,9 +1,25 @@
 %header
   %a{ href: '/' } <b>Johannes Ippen</b> Designer
+%footer
+  .text-content 
+    %p <span><b>Johannes Ippen</b> Designer</span>, Author & Speaker from Berlin. Founder of Human Deluxe.
+    %p
+      %a{ href: 'https://www.linkedin.com/in/johannesippen/' } Linkedin
+      %a{ href: 'https://www.instagram.com/johannesippen' } Instagram
+      %a{ href: 'https://www.youtube.com/johannesippen' } Youtube
+    %p
+      %a{ href: '/impressum' } Imprint
+      %a{ href: '/datenschutz' } Privacy Policy
+
 
 :css
   header { position: fixed; top: 0; left: 0; }
   header a { display: block; text-decoration: inherit; color: inherit; padding: var(--sidepadding); font-size: .75rem; opacity: .8; }
+  footer { padding: var(--sidepadding); min-height: 100vh; box-sizing: border-box; font-size: .75rem; }
+  footer p { margin: 0 0 2rem; padding: 0; }
+  footer span { visibility: hidden; }
+  footer .text-content { margin: 0; max-width: 12rem; }
+  footer .text-content a { display: block; }
 
 %nav
   %details
