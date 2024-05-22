@@ -17,8 +17,11 @@ layout: default
   .text-content { margin: 4vw auto; padding: 0 .5rem 0 1rem; max-width: 35rem; }
   .text-content h1 { display: none; }
   .text-content ul li { list-style: square; margin-left: 1rem; }
-  .text-content img { margin: 2rem -2rem; width: calc(100% + 4rem); max-width: none; }
-  .text-content h2 { width: 50%; }
+  .text-content img, .text-content iframe { margin: 2rem 0; max-width: 100%; border: none; }
+  @media(min-width: 35rem) {
+    .text-content img { margin: 2rem -2rem; width: calc(100% + 4rem); max-width: none; }
+    .text-content h2 { width: 50%; }
+  }
   .text-content p a:hover, .text-content li a:hover { background: #fc2; }
   .article-header { margin: 20rem auto 4rem; text-align: center; padding: 0; max-width: 60rem; }
   .article-header h1 { font-weight: 500; margin: 2rem 0; text-wrap: balance; }
