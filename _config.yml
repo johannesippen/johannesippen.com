@@ -27,10 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: johannesippen
 github_username:  johannesippen
 
+permalink: "/:year/:title/"
+
 # Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-image_resizer
+# plugins:
+#  - jekyll-feed
+#  - jekyll-image_resizer
 
 # Exclude from processing.
 # The following items will not be processed, by default.

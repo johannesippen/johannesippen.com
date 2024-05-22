@@ -1,7 +1,7 @@
 ---
 title: Graphical Cooking
 permalink: "/graphicalcooking/"
-layout: casestudy
+layout: default
 image: "/img/graphicalcooking.jpg"
 oneline: Print Infographics
 excerpt: Graphical Cooking will make you a better and more creative cook. Visual recipes,

@@ -1,7 +1,7 @@
 ---
 title: Workbook
 permalink: "/workbook/"
-layout: simple
+layout: default
 image: "/"
 excerpt: Download all templates from my Workbook here.
 ---

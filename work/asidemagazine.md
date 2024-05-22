@@ -1,7 +1,7 @@
 ---
 title: Aside Magazine
 permalink: "/asidemag/"
-layout: casestudy
+layout: default
 image: "/img/asidemag.jpg"
 oneline: Digital Magazine Design
 excerpt: The first full interactive magazine for the iPad made entirely with web standards

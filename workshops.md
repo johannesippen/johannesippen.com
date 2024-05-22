@@ -1,7 +1,7 @@
 ---
 title: UX Design Workshop
 permalink: "/workshop/"
-layout: simple
+layout: default
 image: "/"
 excerpt: Learn about Experience Design, Digital Development Process, Rapid Prototyping,
   Design Sprints and User Testing in my unique Workshops.

@@ -1,7 +1,7 @@
 ---
 title: Goldsprint Berlin
 permalink: "/goldsprint/"
-layout: casestudy
+layout: default
 image: "/img/goldsprint.jpg"
 oneline: Bike Shop Brand
 excerpt: Creating a logo for one of the most most loved Berlin bike brands.
