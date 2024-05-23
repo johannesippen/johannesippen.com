@@ -1,7 +1,18 @@
 %header
   %a{ href: '/' } <b>Johannes Ippen</b> Designer
 %footer
-  .text-content 
+  {% assign featured_posts = site.posts | where: 'featured', true %}
+  .recommended
+    {% for post in featured_posts limit:3 %}
+    %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
+      %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
+      .block.meta
+        .tag.outline Recommended Article
+        .block.text.l
+          .title {{ post.title }}
+          .desc {{ post.excerpt }}
+    {% endfor %}
+  .info
     %p <span><b>Johannes Ippen</b> Designer</span>, Author & Speaker from Berlin. Founder of Human Deluxe.
     %p
       %a{ href: 'https://www.linkedin.com/in/johannesippen/' } Linkedin
@@ -11,15 +22,36 @@
       %a{ href: '/impressum' } Imprint
       %a{ href: '/datenschutz' } Privacy Policy
 
-
 :css
   header { position: fixed; top: 0; left: 0; }
   header a { display: block; text-decoration: inherit; color: inherit; padding: var(--sidepadding); font-size: .75rem; opacity: .8; }
-  footer { padding: var(--sidepadding); min-height: 100vh; box-sizing: border-box; font-size: .75rem; }
+  footer { padding: var(--sidepadding); min-height: 100vh; box-sizing: border-box; font-size: .75rem; margin-top: 10rem; }
   footer p { margin: 0 0 2rem; padding: 0; }
   footer span { visibility: hidden; }
-  footer .text-content { margin: 0; max-width: 12rem; }
-  footer .text-content a { display: block; }
+  footer .info { margin: 0; min-width: 12rem; max-width: 12rem; flex-grow: 1; position:sticky; top: calc(var(--sidepadding) + 0rem); }
+  footer .info a { display: block; }
+
+  footer { display:flex; flex-direction: column; gap: var(--sidepadding); align-items: flex-start; }
+  @media(min-width: 35rem) { 
+    footer { flex-direction: row-reverse; } 
+  }
+  footer .recommended { display: grid; gap: calc(var(--sidepadding) / 2); grid-template-areas: "a" "b" "c"; grid-template-columns: 1fr; flex 1; }
+  @media(min-width: 35rem) { footer .recommended { grid-template-areas: "a a" "b c"; grid-template-columns: 1fr 1fr;} }
+  @media(min-width: 66rem) { footer .recommended {  grid-template-areas: "a a b" "a a c"; grid-template-columns: 3fr 3fr 4fr;} }
+  @media(max-width: 35rem) { 
+    footer .recommended { display: none; }
+  }
+  footer .recommended a.block { background: #fff; display: flex; flex-direction: column-reverse; justify-content: flex-end; border: 1px solid #ccc; border-radius: 1.5rem; overflow: hidden; opacity: .9; transition: all .3s ease-in-out; }
+  footer .recommended a.block:hover { border-color: #aaa;  opacity: 1; }
+  footer .recommended a.block:first-child { grid-area: a; }
+  footer .recommended a.block:first-child img { aspect-ratio: 16 / 11; }
+
+  footer .recommended a.block .block.meta { padding: 1.5rem; flex-grow: 1; }
+  footer .recommended a.block:hover { background: #fff; }
+  footer .recommended a.block img { width: 100%; aspect-ratio: 4/1; object-fit: cover; }
+  footer .recommended a.block .tag { font-size: .75rem; margin-bottom: .5rem; letter-spacing:0; }
+  footer .recommended a.block .title { display: inline; }
+  footer .recommended a.block .desc { opacity: .5; }
 
 %nav
   %details
@@ -40,10 +72,12 @@
   nav ul,
   nav li { padding: 0; margin: 0; list-style: none; width: 100%; }
   nav ul { position: absolute; bottom: 3.5rem; padding: 1rem 0; }
-  nav ul, nav summary { border-radius: 1.5rem; overflow: hidden; background: #000; }
-  nav a, nav summary { height: 3rem; line-height: 3rem; box-sizing: border-box; padding: 0 1rem; b }
+  nav ul, nav summary { border-radius: 1.5rem; overflow: hidden; background: rgba(0,0,0,.8); backdrop-filter: blur(.25rem); }
+  nav:hover ul, nav:hover summary {  background: rgba(0,0,0,1); }
+  nav a, nav summary { height: 3rem; line-height: 2.8rem; box-sizing: border-box; padding: 0 1rem; b }
   nav a { display: block; text-decoration: inherit; color: inherit; }
   nav a:hover { background: #fff; color: #000; }
+  nav details:hover { opacity: 1; }
   details summary {
     cursor: pointer;
     transition: margin 150ms ease-out;
@@ -52,5 +86,5 @@
     margin-top: .5rem;
   }
   details summary::marker { content: ''; }
-  details summary:before { content: ' '; border-top: .5px solid #fff; border-bottom: .5px solid #fff; width: 1rem; height: .25rem; display:inline-block; margin-right: 1rem; margin-left: .5rem; vertical-align: middle; transition: height .3s ease-out; }
+  details summary:before { content: ' '; border-top: .5px solid #fff; border-bottom: .5px solid #fff; width: 1rem; height: .25rem; display:inline-block; margin-right: 1.5rem; margin-left: .5rem; vertical-align: middle; transition: height .3s ease-out; }
   details[open] summary:before { height: 0; }
