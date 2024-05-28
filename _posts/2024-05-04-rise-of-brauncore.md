@@ -6,6 +6,7 @@ categories:
 excerpt: Beyond the touch screen, there’s a new trend rising.
 image: "/img/blog/brauncore-cover.jpg"
 layout: article
+featured: true
 ---
 
 # The Rise of Brauncore
