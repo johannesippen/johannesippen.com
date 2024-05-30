@@ -22,8 +22,18 @@ title: Johannes Ippen
           .desc {{ post.excerpt }}
 {% endfor %}
 
-- # .concepts 
-- #  %h2 Design Concepts - coming soon.
+.concepts 
+  %div
+    %h2 Design Concepts
+  .concepts-grid
+    .concept
+      .tag.outline Coming Soon
+    .concept
+      .tag.outline Coming Soon
+    .concept
+      .tag.outline Coming Soon
+    .concept
+      .tag.outline Coming Soon
 
 - # humandeluxe
 - #   %h2 Human Deluxe is a Design Studio founded by Johannes Ippen and Nico Engelhardt in 2018, partnering with companies like <a href="#">Sony</a>, <a href="#">Zynga</a> or <a href="#">SAP</a>.
@@ -40,7 +50,15 @@ title: Johannes Ippen
     .intro .xxl { display: block; }
   }
   .articles { padding: var(--sidepadding); min-height: 100vh; }
-  .concepts { padding: var(--sidepadding); min-height: 100vh; }
+
+  .concepts { padding: var(--sidepadding); background: #fc2; }
+  .concepts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--sidepadding); flex-grow: 1; width: 100%; }
+  .concept { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: rgba(255,255,255,.5); }
+  .concept .tag { border-radius: 3rem; padding: .5rem 2rem; background: #fff; }
+  @media(min-width: 66rem) { 
+    .concepts { display: flex; gap: var(--sidepadding); }
+    .concepts h2 { position: sticky; top: calc(var(--sidepadding) * 2) }
+  }  
   .humandeluxe { padding: var(--sidepadding); min-height: 100vh; }
   .humandeluxe h2 { max-width: 52rem; }
 
