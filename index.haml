@@ -21,6 +21,8 @@ title: Johannes Ippen
           .title {{ post.title }}
           .desc {{ post.excerpt }}
 {% endfor %}
+  .more
+    %a.xl{ href: '/articles' } All Articles
 
 - # .concepts 
 - #  %h2 Design Concepts - coming soon.
@@ -53,3 +55,5 @@ title: Johannes Ippen
   .articles-grid a.block .tag { font-size: .75rem; margin-top:.5rem; margin-bottom: .5rem; letter-spacing:0; }
   .articles-grid a.block .title { display: inline; }
   .articles-grid a.block .desc { opacity: .5; }
+  .more a { display: block; border: 1px solid; text-decoration: none; padding: 2rem 4rem; margin: 2rem auto; text-align: center; width: 50%; min-width: 12rem; max-width: 90vw; border-radius: 5rem; opacity: .8; }
+  .more a:hover { opacity: 1; }
