@@ -16,7 +16,7 @@ title: Johannes Ippen
     %a.block.l{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
       %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
       .block.meta
-        .tag.outline Article
+        .tag.outline {{ post.layout | capitalize }}
         .block.text
           .title {{ post.title }}
           .desc {{ post.excerpt }}
