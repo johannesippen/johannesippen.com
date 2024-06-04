@@ -3,7 +3,7 @@ title: Is Canva Getting Good?
 date: 2024-06-04 00:00:00 Z
 categories:
 - Design Tools
-excerpt: Is your auntie’s favourite toy turning into a serious design tool?
+excerpt: Your auntie’s toy has the ambition to become a serious design tool.
 image: "/img/blog/canva-cover.png"
 layout: article
 ---
@@ -16,7 +16,7 @@ Canva. if you talk to a professional designer about Canva, the first reaction is
 
 In fact, Canva has one of the most impressive startup success stories out there – founded in 2013, female-led, Aussie company. Mostly popular with enthusiasts and hobbyists, it has been the go-to choice for Instagram entrepreneurs, personal brands and people who «just want to try something».
 
-Famous for its big library of accessible templates, notorious for its asthetics. Can you do stuff in Canva? You can. Does it look good? Or professional? Not necessarily.
+Famous for its big library of accessible templates, notorious for its aesthetics. Can you do stuff in Canva? You can. Does it look good? Or professional? Not necessarily.
 
 Well, this is about to change.
 
