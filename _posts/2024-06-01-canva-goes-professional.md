@@ -6,6 +6,7 @@ categories:
 excerpt: Your auntie’s toy has the ambition to become a serious design tool.
 image: "/img/blog/canva-cover.png"
 layout: article
+featured: true
 ---
 
 {% image /img/blog/canva-cover.png %}
