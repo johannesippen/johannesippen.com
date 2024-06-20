@@ -3,10 +3,12 @@ layout: default
 ---
 
 <div class="article-header">
-  {% for category in page.categories %}
-    <span class="tag outline">{{ category }}</span>
-    {% endfor %}
   <h1>{{ page.title }}</h1>
+  <div class="article-meta">
+    <div class="article-concept">Concept 001</div>
+    <div class="article-author">Author: Johannes Ippen</div>
+    <div class="article-date">Release Date: {{ page.date }}</div>
+  </div>
 </div>
 
 <section class="concept">
@@ -28,6 +30,9 @@ layout: default
     .concept img { margin-left: -20rem; min-width: calc(100vw - (var(--sidepadding) * 2));  }
   }
   .concept p a:hover, .concept li a:hover { background: #fc2; }
-  .article-header { margin: 20rem auto 4rem; text-align: center; padding: 0; max-width: 60rem; }
-  .article-header h1 { font-weight: 500; margin: 2rem 0; text-wrap: balance; }
+  .article-header { margin: 20rem var(--sidepadding) 4rem; text-align: center; padding: 0; border: 1px solid; }
+  .article-header h1 { font-weight: 500; margin: 2rem 0; text-wrap: balance; padding: 2rem; }
+  .article-meta { border-top: 1px solid; display: flex; }
+  .article-author, .article-concept, .article-date { padding: 1rem;  }
+  .article-author { border-left: 1px solid; border-right: 1px solid; }
 </style>

@@ -1,15 +1,16 @@
 ---
 title: The Brauncore Phone
 layout: concept
+date: 2024-06-20 00:00:00 Z
 ---
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-overview.jpg)
 
+Let’s start with the obvious question: Why would you want to reinvent the mobile phone in 2024? We do have established brands, iterations over iterations of hardware, 
 
+It is impossible to think of a life without the smartphone. Having a device in our pockets that organizes our days, entertains us and enables us to create and share - so versatile, and yet it has a core issue: The modern smartphone is a device that everything well, but nothing great.
 
-A new generation of phone
-
-Problem: A device that does everything okayish, but nothing great
+In this concept, I will try to answer the question: What if one the greatest designers of all time had created a phone.
 
 all kind of audiences use the same device. no matter if you are a creator, a gamer or a housewife, you are all using the same device
 
@@ -28,19 +29,13 @@ We identified 3 target audiences and create not one, but 3 very distinct phones
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-essential.jpg)
 
 
-Smaller than most phones
+The Essential is the perfect everyday phone. Smaller than most contemporary smartphones, it is truly pocketable. Smartz power management and a meticulous focus on the most important features allow it to stay on for days.
 
-true pocket device
+We designed The Essential to be your everyday companion – the place for your digital wallet, your tickets and access codes, your shopping list and reminders. 
 
-Smart power management and focus
+The phone borrows features and design details from the Braun era, making it simple and joyful to use. Not matter if you write an email, organize your day or make a quick phone call.
 
-everyday companion
-
-the place for your wallet, your qr codes, your shopping lists and reminders
-
-Made from airplane-grade aluminium
-
-borrows a lot of details from the Braun era
+Made from airplane-grade aluminium, The Essential is an instant classic design icon. From the angle of the rounded screen corners to the haptic side buttons and screw-mounted back plate, The Essential is full of lovely design details waiting to be discovered.
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-essential-uses.jpg)
 
@@ -63,21 +58,19 @@ borrows a lot of details from the Braun era
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-creator.jpg)
 
-second phone in the lineup
+The second phone in the lineup comes with a twist: It does feature an amazing stabilized 108MP camera – pointing to the front, not the back. The Creator is the first phone ever to feature an exclusive flagship selfie camera. 
 
-has a great camera, with a difference: Instead of pointing away, it points at. something no other phone vendor does today
+Accompanied by a built-in condensor microphone, this makes it the perfect setup for vlogging, streaming, video conferencing or just taking selfies.
 
-selfie, streaming, vlog
-
-not for everyone – it is for you, the creator
+The Creator is not for everyone – it is a phone specifically designed for you, the creator community. For the first time, you are able to create high quality imaginery of yourself while monitoring yourself, on the device you edit and post your content.
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-creator-detail.jpg)
 
-great microphone
+The Creator comes with a magnetic snap-on action camera mount, which is compatible with most action cam accessories, making it compatible with you existing camera gear.
 
-Action cam mount
+The smart button on the side of the device lets you snap photos, video or shorts without having to open the dedicated app: Tap the button once to take a selfie, double-tap to record a video or hold to record a 15 second short.
 
-smart button on the side lets you snap photos, video or shorts
+Obviously, The Creator features a full Android with Brauncore UI, which allows you to use it as a regular phone.
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-creator-use.jpg)
 
@@ -98,13 +91,13 @@ smart button on the side lets you snap photos, video or shorts
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-entertainer.jpg)
 
-third phone dedicated to watch & play
-
-bigger chipset & higher frame rate
+The final device of the Brauncore lineup is dedicated to watch & play. The Entertainer comes with a bigger chipset, allowing for a higher framerate and a more fluent playing experience. It is the perfect device for casual or core gamers, as well as travellers, enabling them to enjoy a movie or a show on the go. 
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-entertainer-detail.jpg)
 
-dedicated button set that adapts to most horizontal console games, but can also be used in a vertical way
+The dedicated button set adapts to most horizontal console games, but can also be used in a portrait orientation, improving the player experience for casual or classic arcade games.
+
+When flipped to the top, the button sets works as quick access to control video playback.
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-entertainer-use.jpg)
 
@@ -126,3 +119,5 @@ dedicated button set that adapts to most horizontal console games, but can also 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-lineup.jpg)
 
 ![](/img/concept/brauncore-phone/brauncore-concept-johannesippen-concepts.jpg)
+
+The Brauncore phone is a concept by Johannes Ippen. It is not associated or endorsed by Braun/Procter & Gamble Service GmbH
