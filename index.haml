@@ -16,11 +16,13 @@ title: Johannes Ippen
     %a.block.l{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
       %img{ src: '{% if post.image %}{% if forloop.index <= 1 %}{{ post.image | resize:1080,600 }}{% else %}{{ post.image | resize:440,224 }}{% endif %}{% else %}/img/dots.png{% endif %}' }
       .block.meta
-        .tag.outline Article
+        .tag.outline {{ post.layout | capitalize }}
         .block.text
           .title {{ post.title }}
           .desc {{ post.excerpt }}
 {% endfor %}
+  .more
+    %a.xl{ href: '/articles' } All Articles
 
 .concepts 
   %div
@@ -71,3 +73,5 @@ title: Johannes Ippen
   .articles-grid a.block .tag { font-size: .75rem; margin-top:.5rem; margin-bottom: .5rem; letter-spacing:0; }
   .articles-grid a.block .title { display: inline; }
   .articles-grid a.block .desc { opacity: .5; }
+  .more a { display: block; border: 1px solid; text-decoration: none; padding: 2rem 4rem; margin: 2rem auto; text-align: center; width: 50%; min-width: 12rem; max-width: 90vw; border-radius: 5rem; opacity: .8; }
+  .more a:hover { opacity: 1; }

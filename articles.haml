@@ -13,7 +13,7 @@ layout: default
     %a.block{ href: '{% if post.weblink %}{{ post.weblink }}{% else %}{{ post.url }}{% endif %}' }
       %img{ src: '{% if post.image %}{{ post.image | resize:440,224 }}{% else %}/img/dots.png{% endif %}' }
       .block.meta
-        .tag.outline Article
+        .tag.outline {{ post.layout | capitalize }}
         .block.text
           .title {{ post.title }}
           .desc {{ post.excerpt }}
