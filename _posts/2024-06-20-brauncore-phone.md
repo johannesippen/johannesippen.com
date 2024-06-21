@@ -1,7 +1,7 @@
 ---
 title: The Brauncore Phone
 layout: concept
-excerpt: What if the legendary design company made a phone? 
+excerpt: What if the legendary design company created a phone? 
 image: "/img/concept/brauncore-phone/brauncore-concept-johannesippen-overview.jpg"
 date: 2024-06-21 07:10:00 Z
 ---
