@@ -10,19 +10,19 @@ layout: article
 
 ![](/img/blog/pablo-stanley.jpg)
 
-You might know Pablo Stanley as an artist, from his Youtube channel SketchTogether or one of his many design tool startups. I’ve come across Pablos work first in 2017 with «[The Design Team](https://thedesignteam.io/)», a cartoon series about the life of designers. I am still baffled by how versatile and all over the place he is.
+You might know Pablo Stanley as an artist, from his Youtube channel SketchTogether or one of his many design tool startups. I’ve come across Pablo’s work first in 2017 with «[The Design Team](https://thedesignteam.io/)», a cartoon series about the life of designers. I am still baffled by how versatile and all over the place he is.
 
-I meet Pablo in the lobby of the Linkedin office in Downtown, San Francisco. It is the morning of day 2 of Config, Figma did just annouce a whole load of features and products the day before. During the conference, Pablo was part of multiple podcast recordings, gave a talk himself and did a portfolio review session until late at night in the frog design HQ. Now he is sitting here, on a huge Apple Store-like wooden table finishing a video, showing no signs of fatigue. I’d love to have this level of energy.
+I met Pablo in the lobby of the Linkedin office in Downtown, San Francisco. It is the morning of day 2 of Config, Figma had just announced a whole load of features and products the day before. During the conference, Pablo was part of multiple podcast recordings, gave a talk himself and did a portfolio review session until late at night in the frog design HQ. Now he is sitting here, on a huge Apple Store-like wooden table finishing a video, showing no signs of fatigue. I’d love to have this level of energy.
 
 **Jo: Pablo, you're a YouTuber, podcaster, illustrator, designer, entrepreneur – how do you call yourself?**
 
-Pablo: Haha – I am a modern renaissance man. I want to do it all. You do hear from a lot of people: "You have to focus" – "Find that one thing" – "Dive deep into that skill". I always like to try something different, which might look chaotic from the outside, but there is a common theme to all of the things I do: curiosity. That is what drives me, and I do have the privilege to explore and try a lot of new things. If you boil it down to one word: Artist. Diguised as a designer. Doing cool shit.
+Pablo: Haha – I am a modern renaissance man. I want to do it all. You do hear from a lot of people: "You have to focus" – "Find that one thing" – "Dive deep into that skill". I always like to try something different, which might look chaotic from the outside, but there is a common theme to all of the things I do: curiosity. That is what drives me, and I do have the privilege to explore and try a lot of new things. If you boil it down to one word: Artist. Disguised as a designer. Doing cool shit.
 
 {% youtube n5gJgkO2Dg0 %}
 
 **Jo: Speaking of cool shit: Last night we've had the privilege to witness Figma’s new features release live on stage: Figma Slides, AI and many more – with all of these new things, where do you see the industry and the role of the designer headed?**
 
-Pablo: Design will become more collaborative. These new features will designers out of their silos, their island of solitude. It’s not only the designers designing, but the product managers, the enigneers, the developers, the copywriters, different roles in the company, making awesome stuff.
+Pablo: Design will become more collaborative. These new features will take designers out of their silos, their island of solitude. It’s not only the designers designing, but the product managers, the engineers, the developers, the copywriters, different roles in the company, making awesome stuff.
 
 **Jo: Democratization of design.**
 
@@ -58,7 +58,7 @@ Pablo: Typography. I see too many designers not caring about that, even though t
 
 **Jo: Isn’t typography something that AI could do for us?**
 
-Pablo: I know people who are working on generative typography, which is really exciting. You could generate your own font with a simple prompt – but I do want my typography to feel human, care about the little details, right? I want to remain sceptical – there has to be one thing that robots can’t do. Come on, there has to be one things left for us! (laughs).
+Pablo: I know people who are working on generative typography, which is really exciting. You could generate your own font with a simple prompt – but I do want my typography to feel human, care about the little details, right? I want to remain sceptical – there has to be one thing that robots can’t do. Come on, there has to be one thing left for us! (laughs).
 
 **Jo: Could you judge a design by its typography?**
 
@@ -74,7 +74,7 @@ Pablo: Don’t do it. Stop now.
 
 **Jo: Okay, Haha!**
 
-Pablo: I would always advice anyone to just have a side project, and a side project to the side project. What if I take one of them a little bit more serious? Try to see if I can make them successful, see if I maybe even can earn a bit of money with it? However, treat them as creative outlets, allow them to be silly. If you are trying too hard, they will turn into an obligation and you start hating them.
+Pablo: I would always advise anyone to just have a side project, and a side project to the side project. What if I take one of them a little bit more seriously? Try to see if I can make them successful, see if I maybe even can earn a bit of money with it? However, treat them as creative outlets, allow them to be silly. If you are trying too hard, they will turn into an obligation and you start hating them.
 
 **Jo: If you weren’t a designer, what would you rather do?**
 
