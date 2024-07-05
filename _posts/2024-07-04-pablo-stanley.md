@@ -1,6 +1,6 @@
 ---
 title: Interview with Pablo Stanley
-date: 2024-06-29 00:00:00 Z
+date: 2024-07-04 00:00:00 Z
 categories:
 - Interviews
 excerpt: Speaking with the designer about AI, the new design process and the importance of typography.
