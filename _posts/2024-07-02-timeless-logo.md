@@ -1,24 +1,26 @@
 ---
 title: How to Create a Timeless Logo
-date: 2024-07-09 00:00:00 Z
+date: 2024-07-23 00:00:00 Z
 categories:
 - Brand Design
 excerpt: According to Jessica Hische
-image: "/img/blog/brauncore-cover.jpg"
+image: "/img/blog/timeless-logos.png"
 layout: video
 ---
+
+{% image /img/blog/timeless-logos.png %}
 
 Apple. Nike. McDonalds. Coca Cola. These are the brands we think about when we talk about timeless logos. Iconic logos. Logos that outlast a generation. 
 
 It is every brand designers dream to create a logo that becomes a timeless icon – but how?
 
-The design Jessica Hische speaks about that topic in her talk at Config 2024 – Jessica is mostly known for her work Wes Anderson, Mailchimp or Instagram. She calls herself lettering artist or «procrastiworker», and of course all of her work is a great source of inspiration.
+The designer Jessica Hische speaks about that topic in her talk at Config 2024 – Jessica is mostly known for her work Wes Anderson, Mailchimp or Instagram. She calls herself lettering artist or «procrastiworker», and of course all of her work is a great source of inspiration.
 
 So, what makes a timeless logo?
 
 ## 1. Be a successful company
 
-What you have Apple, Nike, McDonalds or Coca Cola in common? It is not a certain shape, a style or the minimalism of their logo. It is even simpler: They are successful companies. Market leaders for generations. 
+What do have Apple, Nike, McDonalds or Coca Cola in common? It is not a certain shape, a style or the minimalism of their logo. It is even simpler: They are successful companies. Market leaders for generations. 
 
 If you want to create a timeless logo, you will have to make sure that you are (or work for) a successful company. The graphic quality of brand mark doesn’t matter too much, as long as you can associate the logo with the company. Take Coca Cola: Their script font isn't too approachable or readable, but you can easily associate it with a product that you have known since your childhood.
 
@@ -27,6 +29,8 @@ The Apple logo has been iterated over and over in the last decades, but the famo
 ## 2. Have your logo designed by a famous person
 
 Not every timeless logo has been designed by a famous person, but it helps. If the logo designer is famous, it helps to expose the logo and elevate it's qualities. Take the logos for abc, IBM or UPS – all products of Paul Rand. United Airlines, at&t or Warner – works or Saul Bass, otherwise famous for his movie title designs.
+
+{% youtube Q_Mo0MqICXI %}
 
 If your logo has been created by a famous person and isn’t touched too much in the decades after, it becomes easier to claim that it is timeless rather than «it's a product of it’s era».
 
