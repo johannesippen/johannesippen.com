@@ -6,6 +6,7 @@ categories:
 excerpt: According to Jessica Hische
 image: "/img/blog/timeless-logos.png"
 layout: video
+featured: true
 ---
 
 {% image /img/blog/timeless-logos.png %}

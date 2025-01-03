@@ -6,7 +6,7 @@ categories:
 excerpt: From Design Systems to Eames, Shitty Robots and Gen Z
 image: "/img/blog/config-best-talks.jpg"
 layout: video
-featured: true
+featured: false
 ---
 
 Config 2024 has wrapped, we’ve all reviewed and test-driven the new features. But aside from product announcements, there were a lot of insightful talks. Here are my top 5:
