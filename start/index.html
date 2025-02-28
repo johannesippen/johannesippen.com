@@ -15,14 +15,63 @@
       .big-letter { width: 10rem; height: 10rem; background: #f4f5f6; display: flex; align-items: center; justify-content: center; font-size: 5rem; line-height: 5rem; border-radius: 2rem; cursor: pointer; }
       .big-svg { width: 20rem; }
       .big-letter:hover { background: #f1f2f3; }
+      .colors { display: flex; flex-direction: column; align-items: flex-end; gap: 1rem; padding-right:1.5rem; }
+      .color-group { display: flex; }
+      .color { width: 4rem; aspect-ratio: 1 / 1; border-radius: 100%; margin-right: -1.5rem; cursor: pointer; transition: transform .1s ease-in-out; }
+      .color:hover { transform: scale(1.1); }
     </style>
   </head>
   <body>
     <div class="grid">
+    <div class="colors">
+      <div class="color-group">
+        <div class="color" title="#F16"></div>
+        <div class="color" title="#F65"></div>
+        <div class="color" title="#FC2"></div>
+        <div class="color" title="#0EA"></div>
+        <div class="color" title="#09D"></div>
+        <div class="color" title="#42D"></div>
+      </div>
+      <div class="color-group">
+        <div class="color" title="#F4F5F6"></div>
+        <div class="color" title="#DDE0E2"></div>
+        <div class="color" title="#C7CBCF"></div>
+        <div class="color" title="#B0B6BB"></div>
+        <div class="color" title="#99A1A8"></div>
+        <div class="color" title="#828B94"></div>
+        <div class="color" title="#6C7681"></div>
+        <div class="color" title="#55616E"></div>
+        <div class="color" title="#3E4C5A"></div>
+        <div class="color" title="#283747"></div>
+        <div class="color" title="#112233"></div>
+      </div>
+      <div class="color-group">
+        <div class="color" title="#F5F5F4"></div>
+        <div class="color" title="#DAD9D8"></div>
+        <div class="color" title="#BEBEBD"></div>
+        <div class="color" title="#A3A2A1"></div>
+        <div class="color" title="#888785"></div>
+        <div class="color" title="#6D6C6A"></div>
+        <div class="color" title="#52504E"></div>
+        <div class="color" title="#363533"></div>
+        <div class="color" title="#1B1917"></div>
+      </div>
+    </div>
     <div class="big-letter copy-letter">&times;</div>
     <div class="big-letter copy-letter">&rarr;</div>
     <div class="big-letter copy-letter" title="shy;">&shy;</div>
     <div class="big-letter copy-letter" title="nbsp;">&nbsp;</div>
+<div class="big-letter big-svg copy-svg">
+    <svg width="209" height="64" viewBox="0 0 209 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M184.203 35.1644C174.531 36.0047 164.846 37.1808 155.184 37.6439C110.937 39.6062 66.6767 41.4024 22.4467 43.0706C17.4854 43.2507 12.5078 42.763 7.56093 42.1473C3.88462 41.7138 0.684855 40.0261 0.679751 35.6351C0.678254 31.2856 3.7754 29.3854 7.46981 29.0644C23.0019 27.7985 38.5267 26.4496 54.1093 25.7649C89.9 24.2027 125.72 22.9726 161.792 20.8003C160.281 20.2624 158.767 19.683 157.219 19.1902C148.229 16.3325 139.202 13.5201 130.209 10.6209C128.661 10.1281 127.049 9.38985 125.721 8.54332C123.068 6.89175 122.889 5.31797 123.057 3.88138C123.281 1.64527 124.943 1.04078 127.403 0.95252C128.946 0.902098 130.724 0.663981 132.303 1.02866C153.875 6.22255 175.41 11.4615 196.917 16.8702C199.612 17.5562 202.308 18.7439 204.614 20.2583C210.424 24.0614 209.948 31.5891 203.873 34.8355C186.642 43.9863 169.408 53.0957 152.173 62.205C151.013 62.8077 150.498 63.1452 148.535 63.6504C146.816 64.0924 144.562 62.699 143.696 61.3941C143.021 60.3653 143.451 57.6094 144.413 56.6475C146.223 54.8591 148.707 53.5978 151.077 52.4717C161.074 47.6717 171.123 42.9926 181.169 38.272C182.295 37.7559 183.365 37.0774 184.488 36.5198C185.793 35.6536 186.632 35.2043 184.203 35.1644Z" fill="#123"/>
+</svg>
+</div>
+<div class="big-letter big-svg copy-svg">
+<svg width="329" height="101" viewBox="0 0 329 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M272.043 15.3729C242.408 9.53244 203.466 6.91797 153.605 8.4138C137.915 8.88451 123.214 9.75648 112.432 10.5112C107.042 10.8885 102.635 11.2362 99.578 11.4895C98.0493 11.6161 96.8582 11.719 96.0505 11.7902C95.6467 11.8258 95.3387 11.8535 95.1323 11.8722L94.9481 11.889L88.0763 13.1997L79.9261 7.29482L89.5 5.5C89.5 5.5 91.5 8 92 5.5C92 5.5 90.5 4.5 90 5.5C89.5 6.5 92 5.5 92 5.5C92 5.5 93.7882 5.01919 94 5C94.2118 4.98081 95.0262 4.85338 95.4359 4.81727C96.2551 4.74505 97.4585 4.64102 99.0002 4.51334C102.083 4.25798 106.52 3.9079 111.943 3.5283C122.786 2.76929 137.585 1.89126 153.395 1.41695C203.534 -0.0872143 246.051 0.524505 276.396 6.50498C291.544 9.49022 303.871 15.3545 312.633 20.0976C321.259 24.7666 327.309 30.7888 327.992 38.4351C328.632 45.5923 325.553 52.5473 319.314 58.8681C313.11 65.1531 303.6 73.0249 290.725 78.2758C264.957 88.7847 224.868 95.1436 168.16 98.9022C129.008 101.497 88.2319 100.344 56.8906 95.5742C41.2479 93.1936 27.7546 89.8829 17.9484 85.5796C13.0474 83.4289 8.89299 80.9558 5.84314 78.0871C2.77232 75.1987 0.657721 71.7437 0.298288 67.722C-0.105482 63.2042 1.56304 58.9139 4.5061 55.02C7.43259 51.1481 9.65037 49.9586 15 46.5C25.7047 39.5793 35.7742 37.3343 54.5 31.7267H64.0005C45.5741 37.2446 30.8197 43.485 20.9022 49.8967C15.9407 53.1044 10.3471 57.2551 8.09048 60.2408C5.85042 63.2046 5.06573 65.8077 5.2705 68.0988C5.43342 69.9218 8.40487 70.8867 10.6391 72.9882C10.8943 76.1094 16.2639 77.196 20.7613 79.1697C29.7518 83.115 42.5527 86.3115 57.9438 88.6539C88.6704 93.3303 128.922 93.4875 167.697 90.9175C224.062 87.1817 263.306 79.8985 288.081 69.7941C300.478 64.7384 309.041 59.3107 314.332 53.9506C319.588 48.6263 321.425 43.5905 321.02 39.0582C320.659 35.0151 316.31 31.5887 308.301 27.2537C300.43 22.9929 286.886 18.2981 272.043 15.3729Z" fill="#123"/>
+</svg>
+</div>
+
       <div class="big-letter big-svg copy-svg">
         <svg width="275" height="119" viewBox="0 0 275 119" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M215.05 27.8632C214.163 21.0314 213.099 14.3242 212.535 7.61148C212.326 5.34426 211.613 1.86524 213.869 0.65621C215.384 0.205525 217.817 2.24075 219.472 3.46824C238.572 17.6733 255.96 33.7137 270.002 53.0794C276.618 62.184 276.606 64.5527 269.433 72.6006C254.318 89.6059 237.303 104.202 218.195 116.339C217.374 116.834 211.584 119.776 210.945 117.386C211.425 108.643 211.867 100.376 212.366 91.6983C207.513 91.8883 202.943 92.0658 198.373 92.2433C147.734 94.162 97.1837 97.3442 47.4722 108.161C35.761 110.714 24.0694 113.334 12.3583 115.888C6.57835 117.178 4.89273 116.21 4.23242 109.777C3.08854 98.8286 2.14219 87.8218 1.67278 76.8521C1.07447 63.1614 1.10792 49.4261 0.901124 35.7264C0.792624 29.7023 3.25818 26.0657 9.47589 24.6812C55.0605 14.4476 100.967 9.02791 147.557 16.0193C169.944 19.3551 192.079 23.7694 215.05 27.8632ZM221.033 14.9732C222.654 19.938 224.449 24.8867 225.698 29.9263C226.817 34.2879 224.086 37.3942 219.606 36.7922C214.456 36.1032 209.256 35.6081 204.089 34.7447C143.106 24.5469 82.026 21.3663 20.8432 33.3751C18.48 33.8634 16.0776 34.22 14.613 34.4767C14.3654 58.8117 14.1461 82.2783 13.9303 105.636C27.3177 102.333 40.1462 98.8376 53.1742 95.8921C107.278 83.6968 162.204 81.6131 217.441 83.3432C222.109 83.4949 223.788 86.0055 223.332 90.0116C222.741 95.4913 220.965 107.344 220.965 107.344C237.093 93.2627 253.736 78.7413 270.043 64.535C270.267 64.3249 270.324 63.9138 270.137 63.6469C255.255 44.7104 239.94 28.4113 221.389 14.724C221.218 14.6315 221.017 14.7988 221.033 14.9732Z" fill="#123"/>
@@ -138,6 +187,28 @@ document.addEventListener('DOMContentLoaded', function() {
     document.body.removeChild(textArea);
   }
 });
+
+function applyColorAndCopyToClipboard() {
+  const colorElements = document.querySelectorAll(".color");
+
+  colorElements.forEach(element => {
+    const color = element.title;
+    if (color) {
+      element.style.backgroundColor = color;
+
+      element.addEventListener("click", () => {
+        navigator.clipboard.writeText(color).then(() => {
+          console.log(`Copied color: ${color} to clipboard`);
+        }).catch(err => {
+          console.error('Could not copy text: ', err);
+        });
+      });
+    }
+  });
+}
+
+// Call the function when the DOM is fully loaded.
+document.addEventListener("DOMContentLoaded", applyColorAndCopyToClipboard);
     </script>
   </body>
 </html>
