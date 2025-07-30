@@ -40,8 +40,6 @@ When you’re lucky enough to live in a metric country, you’ll better get your
 
 Not by default – but it's still quite easy to achieve. when printers ask for your design to include bleed and and crop marks, they usually tell you how much bleed they want added. Here in Europe, a bleed addition of 3mm is very common, but I’ve seen 5mm or 2mm bleeds as well. In order to add bleed to your document, simply add the the bleed size (x2) to each side of your document. An A4 page of 21 x 29.7cm with a 3mm bleed would end up being 21.6cm wide, 30.3cm high – or 612 x 856 pixels in size.
 
-To make things easier for you, I have included a simple converter down below:
-
 ## Can you change colors in Figma to CMYK?
 
 Not directly – you will need another tool for that. See, print and screen works differently – while colors on screen are mixed from the base colors red, green and blue (RGB), print colors are mixed from Cyan, Magenta, Yellow and Black. 
@@ -57,6 +55,8 @@ However, most online printing services today accept documents with RGB colors an
 Special color libraries like PANTONE, HKS or RAL help printers and designers worldwide to refer to and mix the exact same color, helping them to stay consistent. These colors are called Spot colors, and they are usually not mixed from Cyan, Magenta, Yellow and Black, but get their own ink tank at the printers. This can help not only with consistency, but also color appearance, especially when you are using efect colors like neon or metallic. Of course, this info needs to be saved inside the print file, usually as an additional, 5th or 6th color value on top of the CMYK values.
 
 Professional print design tools like Adobe Illustrator or InDesign do have Plugins to work with these libraries, and so does Figma. 
+
+![](https://s3-figma-plugin-images-production-sig.figma.com/plugins/carousel/img/1447117069413678958/687a18c7587f02e4481921ecab46d8a170525797?Expires=1754870400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Ts45zhBWlrzxWqN3EpAXkTVv9JpK5lljjEQK-XwdXhK7MP2scVPtPd2~ctUVuUU73VTOboCqIkM-r5XOEM-y72hPFfITHHo2WqvyX4joGCPm61WEJ-c6-3BJRDTuGcYVpDcZlOq6P-q2ikpkxhAJJysh3Hu4n9y4gat8es4IV~fC6k-tyc2iOvIiDz~XzZ1xNQ1RglnSgJd0D4oSQFFnQfGuWZnQq4-CS0LEpvdjGNI1OG3BGq0wQeP78mwkr5iqHU0eFmMlNpvw8F1criuMxhwZjI3Oxu4OW~q2J6fH5XVr1BkdlpxLml6BSmwHetTFTpaUP~FEYhuv4Ns40Dzb9Q__)
 
 Mohan Vadivel has created the plugin [Pantone Hub](https://www.figma.com/community/plugin/1447117069413678958/pantone-hub), which allows you to access the color names and appearance of PANTONE colors through Figma. However, when exporting your design to PDF, the PANTONE color values are not being saved as spot colors, but are converted to RGB colors. So the sad answer is – no, you cannot really use PANTONE colors inside of Figma. Boo!
 
