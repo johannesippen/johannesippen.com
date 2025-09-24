@@ -68,7 +68,10 @@ Not really. While fonts are being embedded in PDFs for print purposes, they do n
 
 Of course – check out those to get started:
 
-[Pantone Hub](https://www.figma.com/community/plugin/1447117069413678958/pantone-hub)
-[Print for Figma (paid)](https://www.figma.com/community/plugin/874441781480244375/print-for-figma-cmyk-bleed-crop-marks-dpi)
-[Print PDF CMYK (paid)](https://www.figma.com/community/plugin/1419316259939080556/print-pdf-cmyk-icc-bleed-crop-marks-dpi)
+- [Pantone Hub](https://www.figma.com/community/plugin/1447117069413678958/pantone-hub)
+- [Print for Figma (paid)](https://www.figma.com/community/plugin/874441781480244375/print-for-figma-cmyk-bleed-crop-marks-dpi)
+- [Print PDF CMYK (paid)](https://www.figma.com/community/plugin/1419316259939080556/print-pdf-cmyk-icc-bleed-crop-marks-dpi)
 
+<style>
+	.text-content h2 { width: 100%!important; }
+</style>
